@@ -2331,7 +2331,7 @@
     "title": "Canales DE Argentina",
     "items": [
       {
-        "name": "America TV",
+        "name": "AMERICA TV ",
         "icono": "https://i.ibb.co/m5L7rSqf/Am-rica-TV-Nuevo-logo-Junio-2020.png",
         "url": "https://edge-vod04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2Mzg0Mjc1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0VTUE4yX0FyZy9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYzM2MjU0OTFkYTIzMjlkMCIsInNlc3Npb25faWQiOiJmZDE1YTI4YTAwZmM0NzQyZTI3YjIyY2IzYTQ3Yjc4Yi0xNzc2MjExNDc1LTQ1NyIsImNsaWVudF9pZCI6ImZsb3c6MzYxMDA5My0tZmxvdzozNjEwMDkzOlAiLCJkZXZpY2VfaWQiOiJmZDE1YTI4YTAwZmM0NzQyZTI3YjIyY2IzYTQ3Yjc4YiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjEzMSIsInNvdXJjZXMiOlsxNDQsODZdfQ==.Y6G-oMxOuWV9GACGiSLM3JQasETRHSDR0GrcW13H9ROYrhHk-plCeZuogbyYp1O7dv3KZlsZsEz6C_95fPEdlg==/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd",
         "type": "CLEARKEY",
@@ -2353,7 +2353,7 @@
         "user": "ExoPlayer"
       },
       {
-        "name": "Tv Publica",
+        "name": "TV PUBLICA",
         "icono": "https://i.ibb.co/6cvkTygb/Televisi-n-P-blica-Argentina-2021.png",
         "url": "https://edge-vod04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2Mzg0Mjc1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0VTUE4yX0FyZy9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYzM2MjU0OTFkYTIzMjlkMCIsInNlc3Npb25faWQiOiJmZDE1YTI4YTAwZmM0NzQyZTI3YjIyY2IzYTQ3Yjc4Yi0xNzc2MjExNDc1LTQ1NyIsImNsaWVudF9pZCI6ImZsb3c6MzYxMDA5My0tZmxvdzozNjEwMDkzOlAiLCJkZXZpY2VfaWQiOiJmZDE1YTI4YTAwZmM0NzQyZTI3YjIyY2IzYTQ3Yjc4YiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjEzMSIsInNvdXJjZXMiOlsxNDQsODZdfQ==.Y6G-oMxOuWV9GACGiSLM3JQasETRHSDR0GrcW13H9ROYrhHk-plCeZuogbyYp1O7dv3KZlsZsEz6C_95fPEdlg==/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd",
         "type": "CLEARKEY",
@@ -2375,7 +2375,7 @@
         "user": "ExoPlayer"
       },
       {
-        "name": "Canal 9",
+        "name": "CANAL 9 ",
         "icono": "https://i.ibb.co/6RrJVHmX/345-3453836-ar-canal-9-el-nueve-el-nueve-logo.png",
         "url": "https://edge-vod04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2Mzg0Mjc1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0VTUE4yX0FyZy9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYzM2MjU0OTFkYTIzMjlkMCIsInNlc3Npb25faWQiOiJmZDE1YTI4YTAwZmM0NzQyZTI3YjIyY2IzYTQ3Yjc4Yi0xNzc2MjExNDc1LTQ1NyIsImNsaWVudF9pZCI6ImZsb3c6MzYxMDA5My0tZmxvdzozNjEwMDkzOlAiLCJkZXZpY2VfaWQiOiJmZDE1YTI4YTAwZmM0NzQyZTI3YjIyY2IzYTQ3Yjc4YiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjEzMSIsInNvdXJjZXMiOlsxNDQsODZdfQ==.Y6G-oMxOuWV9GACGiSLM3JQasETRHSDR0GrcW13H9ROYrhHk-plCeZuogbyYp1O7dv3KZlsZsEz6C_95fPEdlg==/live/c3eds/Canal9/SA_Live_dash_enc_C/Canal9.mpd",
         "type": "CLEARKEY",
@@ -2419,7 +2419,7 @@
         "user": "ExoPlayer"
       },
       {
-        "name": "El Trece",
+        "name": "EL TRECE",
         "icono": "https://i.ibb.co/bgDXPZ01/image.png",
         "url": "https://edge-vod04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2Mzg0Mjc1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0VTUE4yX0FyZy9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYzM2MjU0OTFkYTIzMjlkMCIsInNlc3Npb25faWQiOiJmZDE1YTI4YTAwZmM0NzQyZTI3YjIyY2IzYTQ3Yjc4Yi0xNzc2MjExNDc1LTQ1NyIsImNsaWVudF9pZCI6ImZsb3c6MzYxMDA5My0tZmxvdzozNjEwMDkzOlAiLCJkZXZpY2VfaWQiOiJmZDE1YTI4YTAwZmM0NzQyZTI3YjIyY2IzYTQ3Yjc4YiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjEzMSIsInNvdXJjZXMiOlsxNDQsODZdfQ==.Y6G-oMxOuWV9GACGiSLM3JQasETRHSDR0GrcW13H9ROYrhHk-plCeZuogbyYp1O7dv3KZlsZsEz6C_95fPEdlg==/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd",
         "type": "CLEARKEY",
