@@ -2181,12 +2181,16 @@
           {
             "name": "Referer",
             "value": "https://portal.app.flow.com.py/"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "https://portal.app.flow.com.ar"
           }
         ],
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        "user": "ExoPlayer"
       },
       {
-        "name": "EVENTOS FLOW 2",
+        "name": "EVENTOS FLOWa 2",
         "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c6eds/Eventos_2_HD/SA_Live_dash_enc_wl/Eventos_2_HD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/bkm2nvvvwkf6jr1r0ymmi/clearkey_flow2.json?rlkey=tt9hei8jvhepijrzwphj29mv4&st=5ul69i2e&dl=0",
@@ -2199,9 +2203,13 @@
           {
             "name": "Referer",
             "value": "https://portal.app.flow.com.py/"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "https://portal.app.flow.com.ar"
           }
         ],
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        "user": "ExoPlayer"
       }
     ]
   },
