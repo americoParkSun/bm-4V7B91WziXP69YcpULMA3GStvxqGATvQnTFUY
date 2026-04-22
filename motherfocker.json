@@ -3125,6 +3125,7 @@
         "type": "CLEARKEY"
       },
       {
+        "visible": "false",
         "name": "Universal Crime",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/1284/CH_LOGO/160/160/0/0/34307524076949.png",
         "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0FdFoMAkcL"
@@ -3137,12 +3138,13 @@
         "type": "CLEARKEY"
       },
       {
+        "visible": "false",
         "name": "Universal Plus",
         "icono": "https://i.ibb.co/HfKmnJBb/image.png",
         "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0FcloMAkcL"
       },
       {
-        "name": "HBO",
+        "name": "HBO 1",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/160/160/0/0/228799490721.png",
         "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0AdVoMAkcL"
       },
@@ -3182,6 +3184,7 @@
         "drm_license_uri": "LwAVQUEJaFsVXlxKLAcJXkIdKxUVHl5aJBEPQlcdNxwRDllWPh0FDFQHIkUCVAdQIhJWVAtSdkVRV1cKcUwHCQoLdhZTAFRSYR8ESA8FJRYEAwIFdRZQBAJRdkVVCARQIxBUV1BXI00CCQtXcQ=="
       },
       {
+        "visible": "false",
         "name": "HBO Max",
         "icono": "https://i.ibb.co/MxJPHCYg/image.png",
         "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0AdVoMAkcL"
