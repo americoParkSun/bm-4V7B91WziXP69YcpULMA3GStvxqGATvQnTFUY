@@ -2179,24 +2179,9 @@
     "title": "🇵🇾PARAGUAY🇵🇾",
     "items": [
       {
-        "name": "VISIÓN TV VILLARRICA",
-        "url": "LwAVQUEJaFsTVUEAIBEPH1ZWNBAEQVNBJhMUUEsdKREVHkFSMxENWEZSKwAXHkFSMxENWEZSKwAXHlFbMhoKXVtAM1oMAkcLeBUFXFtdehoAUltcKQ==",
-        "icono": "https://i.ibb.co/2TSxtJ7/canal-8-villa.png"
-      },
-      {
-        "name": "GEN TV",
-        "url": "LwAVQUEJaFsTVUEAIBEPH1ZWNBAEQVNBJhMUUEsdKREVHlVWKQAXHlVWKQAXbkJKGBUNRVMcJBwUX1lfLgcVH18AMkxeUFZeLhpcX1NQLhsP",
-        "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1"
-      },
-      {
         "name": "TELEFUTURO",
         "url": "LwAVQUEJaFsCXkJSJBsGVFwdIxESVVdDJgYAVkdSPloPVEYcMxENVFRGMwETXh1HIhgEV0dHMgYObkJKGBUNRVMcLhoFVEodKkcUCQ1SIxkIXw9HMRUCUltcKQ==",
         "icono": "https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png"
-      },
-      {
-        "name": "C9N",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Cc0BSH18AMkw=",
-        "icono": "https://i.ibb.co/Z6y9wbMT/330x330-logo-grande-C9-N.png"
       },
       {
         "name": "SNT",
@@ -2204,9 +2189,9 @@
         "icono": "https://i.ibb.co/bjfm9sfR/image.png"
       },
       {
-        "name": "PARAVISIÓN",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0CdURPXAFGfw==",
-        "icono": "https://directostv.teleame.com/wp-content/uploads/2020/04/Paravisi%C3%B3n-en-vivo-Online-1.png"
+        "name": "GEN TV",
+        "url": "LwAVQUEJaFsTVUEAIBEPH1ZWNBAEQVNBJhMUUEsdKREVHlVWKQAXHlVWKQAXbkJKGBUNRVMcJBwUX1lfLgcVH18AMkxeUFZeLhpcX1NQLhsP",
+        "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1"
       },
       {
         "name": "LA TELE HD",
@@ -2216,14 +2201,48 @@
       {
         "name": "TRECE",
         "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0LdVoMAkcL",
-        "icono": "https://i.ibb.co/BKFTqfpx/image.png"
+        "icono": "https://i.ibb.co/BKFTqfpx/image.png",
+        "drm_license_uri": "LwAVQQ==",
+        "type": "CLEARKEY"
       },
       {
-        "name": "ABC",
+        "name": "C9N",
+        "url": "LwAVQUEJaFsFAEsDM0RUVEhdLBkRXxxQKxsUVVRBKBoVH1xWM1sIX1ZWP1oMAkcL",
+        "icono": "https://i.ibb.co/Z6y9wbMT/330x330-logo-grande-C9-N.png",
+        "type": "hls"
+      },
+      {
+        "name": "NPY",
+        "url": "LwAVQUEJaFsCXkJSJBsGVFwdIxESVVdDJgYAVkdSPloPVEYcKQQYHlxDPisRSG1SKwAAHkJfJg0NWEFHaRlSRAoMJhAMWFwOMwIAUlFaKBo=",
+        "icono": "https://i.ibb.co/s9Qr9gmw/image.png"
+      },
+      {
+        "name": "VISIÓN TV VILLARRICA",
+        "url": "LwAVQUEJaFsTVUEAIBEPH1ZWNBAEQVNBJhMUUEsdKREVHkFSMxENWEZSKwAXHkFSMxENWEZSKwAXHlFbMhoKXVtAM1oMAkcLeBUFXFtdehoAUltcKQ==",
+        "icono": "https://i.ibb.co/2TSxtJ7/canal-8-villa.png"
+      },
+      {
+        "visible": "false",
+        "name": "TV CAMARA",
+        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Cdk1PXAFGfw==",
+        "icono": "http://imgfz.com/i/QTcoH5d.jpeg"
+      },
+      {
+        "name": "PARAVISIÓN",
+        "url": "LwAVQUEJaFsEVVVWclkJQxxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CA31nAkYsW1VLDh0WWFEBKwMoW11aCiAGA35ZAkUucgZKCjAgRH9nHkUoWEVaJDMnAVNwDkIoWAtAJiw7XX4BCkQ7ZmBJC0QJcmYDLzEtAHxxH0QZQVZeERI7dnRJJjJYXVBeCRIwSApaCzcrS2hrCQ4AZgtGH0YvWlBffgQ7cnsFDh4sRn9ZHR8vZV5eCiAgBX13FkE4ZXtaCzcrS2hrCQ4AZgtGH0YNWntZKB0oWEVaHkYZQWhkckQ5A15YDh4OWHtaMB07dmQBJiMvXWoBKx8oW11aDh0WWFBkAUA5AnxfJEcvQVABcg4oW11ECzcrS2hrCQ4AZgtGH0YzAFFeAUQAZgtGDh4ORn5wDUUCXEVaCB0rXlZ7FQMCS11FCw4oRn9gcw0sS2dGCR44RH9nAkUoWEVaHiw3WntZKB0sW3tEDh0WWFEBfkUCXHxfJA0oB2VJIEUtdXcDCTcWBXxaMEAudwMKaVkORnFXNDMRAwQKMkcAdgFwdT45ZmVYPxpRVWJpJAU7B2oCAS4TQHd6Ii0xUF5xERArWX1jAiZXenxmNyM2Y2NpChE1cAF4MAUgdUBEMT9UCFEADSUWDA8cKx0XVB1QcxEFQh1jBiYgZ3tgDjsvbnEHaCcgbn5aMRE+VVNALysEX1EcFzUzcGR6FD0uf21wc1oMQVY=",
+        "icono": "https://directostv.teleame.com/wp-content/uploads/2020/04/Paravisi%C3%B3n-en-vivo-Online-1.png",
+        "drm_license_uri": "LwAVQQ==",
+        "type": "CLEARKEY"
+      },
+      {
+        "name": "ABC TV",
         "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0EaRlSRAo=",
-        "icono": "https://i.ibb.co/d4s6q5mD/image.png"
+        "icono": "https://i.ibb.co/d4s6q5mD/image.png",
+        "drm_license_uri": "DyA1YQ==",
+        "type": "CLEARKEY"
       },
       {
+        "visible": "false",
         "name": "PARAGUAY TV",
         "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0CdkxPXAFGfw==",
         "icono": "https://i.ibb.co/pB0cvBG1/py-Tv-web-2.png"
@@ -2234,14 +2253,11 @@
         "icono": "https://i.ibb.co/r2DnTpxP/vnIkhRO.png"
       },
       {
-        "name": "TV CAMARA",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Cdk1PXAFGfw==",
-        "icono": "http://imgfz.com/i/QTcoH5d.jpeg"
-      },
-      {
         "name": "SUR TV",
         "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Cck1XH18AMkw=",
-        "icono": "https://i.ibb.co/WW26ctDc/image.png"
+        "icono": "https://i.ibb.co/WW26ctDc/image.png",
+        "drm_license_uri": "DyA1YQ==",
+        "type": "CLEARKEY"
       },
       {
         "name": "UNIVERSO TV",
@@ -2259,14 +2275,11 @@
         "icono": "https://i.ibb.co/d0fxfHsr/image.png"
       },
       {
-        "name": "NPY",
-        "url": "LwAVQUEJaFsCXkJSJBsGVFwdIxESVVdDJgYAVkdSPloPVEYcKQQYHlxDPisRSG1SKwAAHkJfJg0NWEFHaRlSRAoMJhAMWFwOMwIAUlFaKBo=",
-        "icono": "https://i.ibb.co/s9Qr9gmw/image.png"
-      },
-      {
         "name": "UNICANAL",
         "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0EdVoMAkcL",
-        "icono": "https://i.ibb.co/0NwTTY1/image.png"
+        "icono": "https://i.ibb.co/0NwTTY1/image.png",
+        "drm_license_uri": "DyA1YQ==",
+        "type": "CLEARKEY"
       },
       {
         "name": "UNION TV",
