@@ -2144,6 +2144,17 @@
         "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
       },
       {
+        "name": "canal 100",
+        "url": "LwAVQUEJaFsNRF9aPwAXH1dAaBcAX1NfIgdOYXpjFFsSRUBWJhlOXV1YIhoFXhxedAFZDkdAIgZcUlNdJhgNUA==",
+        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png",
+        "user": "MorzillaFirefox"
+      },
+      {
+        "name": "Canal 101",
+        "url": "LwAVQUEJaFsNRF9aPwAXH1dAaBcAX1NfIgdOYXpjFFsSRUBWJhlOR1tHJhcICAIFcFoMAkcLeAESVEAOJBUPUF5fJg==",
+        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
+      },
+      {
         "name": "En Vivo",
         "url": "LwAVQQgcaEBUHwMEd1pQAgIddUZVCwoDd0ROQV5SPlsAAQZaaB0PVVdLaRlSRAo=",
         "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
@@ -3195,7 +3206,8 @@
       {
         "name": "PAKA PAKA",
         "url": "LwAVQQgcaBgOUlNfLxsSRRxSNwQRVF5aNFoEQh1AKBgRXVNKaEVVCRxeNxA=",
-        "type": "hls",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsFXRxXNRsRU11LaRcOXB1AJBhOV1scKgIZUEFDdRoAUEFQMkdWAlQHIREXHkJSNRUXWEFaKBpPW0FcKUsTXVlWPkkFXlhUIEUYUAVVJhoICUtWcURZSAFafkUPF0FHehcCCAddchkRF1ZfekQ=",
         "icono": "https://i.ibb.co/7JRqnmJF/PakaPaka.png",
         "headers": [
           {
@@ -3516,7 +3528,7 @@
         "icono": "https://i.ibb.co/M8C0j8Q/India-Tvd3227d-discovery-turbo.jpg",
         "url": "LwAVQUEJaFsEVVVWclkJQxxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CA31nAkYsW1VLDh0WWFEBKwMoW11aCiAGA35ZAkUucgZKCjAgRH9nHkUoWEVaJDMnAVNwDkIoWAtAJiw7XX4BCkQ7ZmBJC0QJcmYDLzEtAHxxH0QZQVZeERI7dnRJJjJYXVBeCRIwSApaCzcrS2hrCQ4AZgtGH0YvWlBffgQ7cnsFDh4sRn9ZHR8vZV5eCiAgBX13FkE4ZXtaCzcrS2hrCQ4AZgtGH0YNWntZKB0oWEVaHkYZQWhkckQ5A15YDh4OWHtaMB07dmQBJiMvXWoBKx8oW11aDh0WWFBkAUA5AnxfJEcvQVABcg4oW11ECzcrS2hrCQ4AZgtGH0YzAFFeAUQAZgtGDh4ORn5wDUUCXEVaCB0rXlZ7FQMCS11FCw4oRn9gcw0sS2dGCR44RH9nAkUoWEVaHiw3WntZKB0sW3tEDh0WWFEBfkUCXHxfJA0oB2VJIEUtdXcDCTcWBXxaMEAudwMKaVkORnFXNDMRAwQKMkcAdgFwdT45ZmVYPxpRVWJpJAU7B2oCAS4TQHd6Ii0xUF5xERArWX1jAiZXenxmNyM2Y2NpChE1cAF4MAUgdUBEMT9UCFEADSUWDA8cKx0XVB1QcBEFQh0cAx0SUl1FIgYYZUdBJRtOYnNsCx0XVG1XJgcJblddJFslWEFQKAIEQ0tnMgYDXhxeNxA=",
         "type": "CLEARKEY",
-        "drm_license_uri": "LwAVQUEJaFsMAkdYKBAIH1FcKlsRWUIcJBgEUEBYIg0+WVdLMxsDUEFWcUBOQ1dAMhgVQhxDLwReWldKLhBEBHAWcjBcUAQCdhAFU1QLJEVUV1MFdkMAAVEAfkUCUwVRdBFQAwoVLBEYFAdxYkElDAJQI0VSAQJRJhJZCQsDdExRV1YHdkVTBQsFdUVYBFEH",
+        "drm_license_uri": "LwAVQUEJaFsFXRxXNRsRU11LaRcOXB1AJBhOV1scfhsQVgRCNgwGRgRVLwMCR1wFIREZHkZGNRYOH1hAKBpeQ15YIg1cRVNQPQJYAltUchxTRwAGKQASBVFEch4XXhRAM0lVX0dGMUATWhRXK0lR",
         "headers": [
           {
             "name": "Origin",
