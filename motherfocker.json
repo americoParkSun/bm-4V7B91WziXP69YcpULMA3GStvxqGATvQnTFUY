@@ -2175,57 +2175,6 @@
   },
   {
     "type": "category",
-    "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
-    "title": "⚽EVENTOS FL0W",
-    "items": [
-      {
-        "name": "EVENTOS FLOW 1 COPA DEL REY",
-        "url": "LwAVQUEJaFsEVVVWclkJQxxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CA31nAkYsW1VLDh0WWFEBKwMoW11aCiAGA35ZAkUucgZKCjAgRH9nHkUoWEVaJDMnAVNwDkIoWAtAJiw7XX4BCkQ7ZmBJC0QJcmYDLzEtAHxxH0QZQVZeERI7dnRJJjJYXVBeCRIwSApaCzcrS2hrCQ4AZgtGH0YvWlBffgQ7cnsFDh4sRn9ZHR8vZV5eCiAgBX13FkE4ZXtaCzcrS2hrCQ4AZgtGH0YNWntZKB0oWEVaHkYZQWhkckQ5A15YDh4OWHtaMB07dmQBJiMvXWoBKx8oW11aDh0WWFBkAUA5AnxfJEcvQVABcg4oW11ECzcrS2hrCQ4AZgtGH0YzAFFeAUQAZgtGDh4ORn5wDUUCXEVaCB0rXlZ7FQMCS11FCw4oRn9gcw0sS2dGCR44RH9nAkUoWEVaHiw3WntZKB0sW3tEDh0WWFEBfkUCXHxfJA0oB2VJIEUtdXcDCTcWBXxaMEAudwMKaVkORnFXNDMRAwQKMkcAdgFwdT45ZmVYPxpRVWJpJAU7B2oCAS4TQHd6Ii0xUF5xERArWX1jAiZXenxmNyM2Y2NpChE1cAF4MAUgdUBEMT9UCFEADSUWDA8cKx0XVB1QdBEFQh12MREPRV1AdjwlHmFyGDgIR1dsIxUSWW1WKRc+Rl4cAgIEX0ZcNEUpdRxeNxA=",
-        "type": "CLEARKEY",
-        "drm_license_uri": "LwAVQUEJaFsXWF9WMwYISRxfJgBOUEJaaBgIUlddNBFPQVpDeB8ESFtXekECCQRWdUdWAgMEJEZTAgNSJEUDUgMAdxFYCAdVJhBXF1lWPkkFUlNQIUMDAwEKIhFRAlZVdBdXCFFSdkUFU1FXIkAEUw==",
-        "icono": "https://i.postimg.cc/9frTqBtY/download-(50).png",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          },
-          {
-            "name": "x-flow-origin",
-            "value": "https://portal.app.flow.com.ar"
-          }
-        ],
-        "user": "ExoPlayer"
-      },
-      {
-        "name": "EVENTOS FLOW 2",
-        "url": "LwAVQUEJaFsEVVVWclkJQxxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CA31nAkYsW1VLDh0WWFEBKwMoW11aCiAGA35ZAkUucgZKCjAgRH9nHkUoWEVaJDMnAVNwDkIoWAtAJiw7XX4BCkQ7ZmBJC0QJcmYDLzEtAHxxH0QZQVZeERI7dnRJJjJYXVBeCRIwSApaCzcrS2hrCQ4AZgtGH0YvWlBffgQ7cnsFDh4sRn9ZHR8vZV5eCiAgBX13FkE4ZXtaCzcrS2hrCQ4AZgtGH0YNWntZKB0oWEVaHkYZQWhkckQ5A15YDh4OWHtaMB07dmQBJiMvXWoBKx8oW11aDh0WWFBkAUA5AnxfJEcvQVABcg4oW11ECzcrS2hrCQ4AZgtGH0YzAFFeAUQAZgtGDh4ORn5wDUUCXEVaCB0rXlZ7FQMCS11FCw4oRn9gcw0sS2dGCR44RH9nAkUoWEVaHiw3WntZKB0sW3tEDh0WWFEBfkUCXHxfJA0oB2VJIEUtdXcDCTcWBXxaMEAudwMKaVkORnFXNDMRAwQKMkcAdgFwdT45ZmVYPxpRVWJpJAU7B2oCAS4TQHd6Ii0xUF5xERArWX1jAiZXenxmNyM2Y2NpChE1cAF4MAUgdUBEMT9UCFEADSUWDA8cKx0XVB1QcREFQh12MREPRV1AGEY+eXYcFDU+fVtFIisFUEFbGBEPUm1EK1skR1ddMxsSbgBsDzBPXEJX",
-        "type": "CLEARKEY",
-        "drm_license_uri": "LwAVQUEJaFsFXRxXNRsRU11LaRcOXB1AJBhOV1scJR8MA1xFMQIWWlQFLQZQQwJKKhkIHlFfIhUTWldKGBINXkUBaR4SXlwMNRgKVEsOMwBYWVdafx4XWVdDLh4TS0VDLx5TCF9Fc1ISRQ8GMhhXCFsBIlIFXQ8D",
-        "icono": "https://i.postimg.cc/9frTqBtY/download-(50).png",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          },
-          {
-            "name": "x-flow-origin",
-            "value": "https://portal.app.flow.com.ar"
-          }
-        ],
-        "user": "ExoPlayer"
-      }
-    ]
-  },
-  {
-    "type": "category",
     "image": "https://i.ibb.co/k6cgFLwt/paraguay.png",
     "title": "🇵🇾PARAGUAY🇵🇾",
     "items": [
@@ -2338,7 +2287,7 @@
   },
   {
     "type": "category",
-    "image": "https://i.ibb.co/zbWxZ95/fs1.png",
+    "image": "https://i.ibb.co/m5L7rSqf/Am-rica-TV-Nuevo-logo-Junio-2020.png",
     "title": "Canales DE Argentina",
     "items": [
       {
@@ -2842,59 +2791,6 @@
     ]
   },
   {
-    "visible": "true",
-    "type": "category",
-    "image": "https://i.ibb.co/n8ZZCfQm/image.png",
-    "title": "DEPORTE MOTOR",
-    "items": [
-      {
-        "visible": "true",
-        "name": "GPTV",
-        "url": "LwAVQUEJaFsSRUBWJhlPUFZAaRsVRVdBJloVRx1DKxUYXVtAM1oMAkcLeBoERUVcNR8+WFYOdkJVCAsVJgIOVQ8CYRcOQUJSekRHRVYOcVIIQm1fJgBcan5+EylHVVxHei8lf2FuYQESbkJBLgIAUksOHCEybmJhDiIgcmtuYRAIVQ9oAzE3eHF2GD0lbBRaN0k6eGJuYQEADGlmBilHWFRSGAAYQVcOHD0ncG1nHiQkbBRSNwQ+U0ddIxgEDGlyFyQ+c2d9AzgkbBRSNwQ+QkZcNRE+REBfei8gYWJsFCAuY3dmFTg8F1NDNysPUF9Wei8gYWJsCTUsdG8VJAESRV1eGAAAQ1VWMx0PVg9bMxkNBBRQMgcVXl9sc0kNVm1QLxUPX1dfNCsDQxRDKxUYVEBsLxEIVlpHekNTARRDKxUYVEBsMB0FRVoOdkZZARRQKBoVVFxHGBcJUFxdIhhcXVVsJBwAX1xWKwdHUl1dMxEPRW1XLgcVblxSKhFcXVVsJBwAX1xWKwdHVVdFLhcEbl9SLBFcanZ2ET0idG1+Bj8kbBRXIgIIUldsKhsFVF4OHDAkZ3twAissfnZ2CylHVVdFLhcEbl1AehwVXF4GYRcOX0FWKQBcanV3FyY+cn19FDEvZW8VIBARQw9oADAxY28VIBEPVVdBehoORW1ANxECWFRaIhBHSF1RekRHXVtFIgcVQ1dSKklQF1FGNAAOXG1DJgYAXG0Dei8ldGR6BDE+fH13Ajg8F1FGNAAOXG1DJgYAXG0CegAXF1FGNAAOXG1DJgYAXG0Bei8ldGR6BDE+fHN4AilHUkdAMxsMbkJSNRUMbgEOHDAkZ3twAisodW8VJAESRV1eGAQAQ1NeGEBcXVVsJBwAX1xWKwdHUkdAMxsMbkJSNRUMbgcOLwAMXQcVIRcKDGl1BD88F0RaIgMSWEhWei83eHdkFD07dG8VKRsPUlcOHDouf3F2GloMAkcL",
-        "icono": "https://i.ibb.co/5gR3ZQKg/image.png",
-        "type": "hls"
-      },
-      {
-        "visible": "true",
-        "name": "Rally Tv",
-        "url": "LwAVQUEJaFsFRwNWdRoQAUAHIEMRH1FfKAEFV0BcKQBPX1dHaAJQHl9SNAAEQx0AcEZTUgQDJkxQBFECfk0FCFEDIhJSB1EGJUNSVVMFfxVXA1ADfhBQHlFQahpZQ1NfKwUFQ0FKc01OQV5SPhgIQkYdKkcUCQ==",
-        "icono": "https://i.ibb.co/r1gcP2y/image.png",
-        "type": "hls"
-      },
-      {
-        "visible": "true",
-        "name": "F1 Tv",
-        "url": "LwAVQUEJaFsLXEIBaQEKHkJfMllXBFEFfhEEAlYEcBBVBAIDd0wCCQIHdExPXAFGfw==",
-        "icono": "https://i.ibb.co/M3Hd6vN/image.png",
-        "type": "hls"
-      },
-      {
-        "visible": "true",
-        "name": "Nascar",
-        "url": "LwAVQUEJaFsAXFUDd0VQBB9SKhNRAQMCchdQHFxSNBcAQx9dKAYVWVNeIgYIUlMecU1TBhxDKxUYXkdHNFoPXkUdJhkAVlsdMwJOQV5SPhgIQkYdKkcUCQ==",
-        "icono": "https://i.ibb.co/200mKsrT/image.png",
-        "type": "hls"
-      },
-      {
-        "visible": "true",
-        "name": "Speed Sport",
-        "url": "LwAVQUEJaFsNWFxWJgZMBAsKaRITVENGIhoCSBxAMwYEUF8cIx0SRR1AMx0TQx0Gfk1OWV5AaBkAQkZWNVsRXVNKKx0SRRxedAFZ",
-        "icono": "https://i.ibb.co/RpXS2q5Y/image.png",
-        "type": "hls"
-      },
-      {
-        "name": "Garage Tv",
-        "url": "LwAVQUEJaFsSRUBWJhlQH0FWNQcARRxQKBlOWV5AaBMAQ1NUIgAXH18AMkw=",
-        "icono": "https://i.ibb.co/xKgNJsSr/image.png"
-      },
-      {
-        "name": "Motor Vision",
-        "url": "LwAVQUEJaFsMR1UeKgJMQUYdKAAVVEBSMR0SWF1daRcOXB1eMRNOXERsNwBOXERsNwBPXAFGfw==",
-        "icono": "https://i.ibb.co/0pT7WFQ2/image.png"
-      }
-    ]
-  },
-  {
     "type": "category",
     "image": "https://i.ibb.co/60QvHcnr/R-2.png",
     "title": "⚽TyC SP0RTS",
@@ -2972,6 +2868,110 @@
         "name": "TYC SPORT (PLAY 5)",
         "url": "LwAVQUEJaFsFAAIEPhZYCAFSKwAbVBxQKxsUVVRBKBoVH1xWM1sOREYcMUVOBgUBIkQDAQMKdEVSBQUBcRUFCQYFfkcDBlBSJBVXUgQcLhoFVEpsfloMAkcL",
         "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
+      }
+    ]
+  },
+  {
+    "type": "category",
+    "image": "https://i.postimg.cc/9frTqBtY/download-(50).png",
+    "title": "⚽EVENTOS FL0W",
+    "items": [
+      {
+        "name": "EVENTOS FLOW 1 COPA DEL REY",
+        "url": "LwAVQUEJaFsEVVVWclkJQxxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CA31nAkYsW1VLDh0WWFEBKwMoW11aCiAGA35ZAkUucgZKCjAgRH9nHkUoWEVaJDMnAVNwDkIoWAtAJiw7XX4BCkQ7ZmBJC0QJcmYDLzEtAHxxH0QZQVZeERI7dnRJJjJYXVBeCRIwSApaCzcrS2hrCQ4AZgtGH0YvWlBffgQ7cnsFDh4sRn9ZHR8vZV5eCiAgBX13FkE4ZXtaCzcrS2hrCQ4AZgtGH0YNWntZKB0oWEVaHkYZQWhkckQ5A15YDh4OWHtaMB07dmQBJiMvXWoBKx8oW11aDh0WWFBkAUA5AnxfJEcvQVABcg4oW11ECzcrS2hrCQ4AZgtGH0YzAFFeAUQAZgtGDh4ORn5wDUUCXEVaCB0rXlZ7FQMCS11FCw4oRn9gcw0sS2dGCR44RH9nAkUoWEVaHiw3WntZKB0sW3tEDh0WWFEBfkUCXHxfJA0oB2VJIEUtdXcDCTcWBXxaMEAudwMKaVkORnFXNDMRAwQKMkcAdgFwdT45ZmVYPxpRVWJpJAU7B2oCAS4TQHd6Ii0xUF5xERArWX1jAiZXenxmNyM2Y2NpChE1cAF4MAUgdUBEMT9UCFEADSUWDA8cKx0XVB1QdBEFQh12MREPRV1AdjwlHmFyGDgIR1dsIxUSWW1WKRc+Rl4cAgIEX0ZcNEUpdRxeNxA=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsXWF9WMwYISRxfJgBOUEJaaBgIUlddNBFPQVpDeB8ESFtXekECCQRWdUdWAgMEJEZTAgNSJEUDUgMAdxFYCAdVJhBXF1lWPkkFUlNQIUMDAwEKIhFRAlZVdBdXCFFSdkUFU1FXIkAEUw==",
+        "icono": "https://i.postimg.cc/9frTqBtY/download-(50).png",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.py"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.py/"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "https://portal.app.flow.com.ar"
+          }
+        ],
+        "user": "ExoPlayer"
+      },
+      {
+        "name": "EVENTOS FLOW 2",
+        "url": "LwAVQUEJaFsEVVVWclkJQxxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CA31nAkYsW1VLDh0WWFEBKwMoW11aCiAGA35ZAkUucgZKCjAgRH9nHkUoWEVaJDMnAVNwDkIoWAtAJiw7XX4BCkQ7ZmBJC0QJcmYDLzEtAHxxH0QZQVZeERI7dnRJJjJYXVBeCRIwSApaCzcrS2hrCQ4AZgtGH0YvWlBffgQ7cnsFDh4sRn9ZHR8vZV5eCiAgBX13FkE4ZXtaCzcrS2hrCQ4AZgtGH0YNWntZKB0oWEVaHkYZQWhkckQ5A15YDh4OWHtaMB07dmQBJiMvXWoBKx8oW11aDh0WWFBkAUA5AnxfJEcvQVABcg4oW11ECzcrS2hrCQ4AZgtGH0YzAFFeAUQAZgtGDh4ORn5wDUUCXEVaCB0rXlZ7FQMCS11FCw4oRn9gcw0sS2dGCR44RH9nAkUoWEVaHiw3WntZKB0sW3tEDh0WWFEBfkUCXHxfJA0oB2VJIEUtdXcDCTcWBXxaMEAudwMKaVkORnFXNDMRAwQKMkcAdgFwdT45ZmVYPxpRVWJpJAU7B2oCAS4TQHd6Ii0xUF5xERArWX1jAiZXenxmNyM2Y2NpChE1cAF4MAUgdUBEMT9UCFEADSUWDA8cKx0XVB1QcREFQh12MREPRV1AGEY+eXYcFDU+fVtFIisFUEFbGBEPUm1EK1skR1ddMxsSbgBsDzBPXEJX",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsFXRxXNRsRU11LaRcOXB1AJBhOV1scJR8MA1xFMQIWWlQFLQZQQwJKKhkIHlFfIhUTWldKGBINXkUBaR4SXlwMNRgKVEsOMwBYWVdafx4XWVdDLh4TS0VDLx5TCF9Fc1ISRQ8GMhhXCFsBIlIFXQ8D",
+        "icono": "https://i.postimg.cc/9frTqBtY/download-(50).png",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.py"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.py/"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "https://portal.app.flow.com.ar"
+          }
+        ],
+        "user": "ExoPlayer"
+      }
+    ]
+  },
+  {
+    "visible": "true",
+    "type": "category",
+    "image": "https://i.ibb.co/n8ZZCfQm/image.png",
+    "title": "DEPORTE MOTOR",
+    "items": [
+      {
+        "visible": "true",
+        "name": "GPTV",
+        "url": "LwAVQUEJaFsSRUBWJhlPUFZAaRsVRVdBJloVRx1DKxUYXVtAM1oMAkcLeBoERUVcNR8+WFYOdkJVCAsVJgIOVQ8CYRcOQUJSekRHRVYOcVIIQm1fJgBcan5+EylHVVxHei8lf2FuYQESbkJBLgIAUksOHCEybmJhDiIgcmtuYRAIVQ9oAzE3eHF2GD0lbBRaN0k6eGJuYQEADGlmBilHWFRSGAAYQVcOHD0ncG1nHiQkbBRSNwQ+U0ddIxgEDGlyFyQ+c2d9AzgkbBRSNwQ+QkZcNRE+REBfei8gYWJsFCAuY3dmFTg8F1NDNysPUF9Wei8gYWJsCTUsdG8VJAESRV1eGAAAQ1VWMx0PVg9bMxkNBBRQMgcVXl9sc0kNVm1QLxUPX1dfNCsDQxRDKxUYVEBsLxEIVlpHekNTARRDKxUYVEBsMB0FRVoOdkZZARRQKBoVVFxHGBcJUFxdIhhcXVVsJBwAX1xWKwdHUl1dMxEPRW1XLgcVblxSKhFcXVVsJBwAX1xWKwdHVVdFLhcEbl9SLBFcanZ2ET0idG1+Bj8kbBRXIgIIUldsKhsFVF4OHDAkZ3twAissfnZ2CylHVVdFLhcEbl1AehwVXF4GYRcOX0FWKQBcanV3FyY+cn19FDEvZW8VIBARQw9oADAxY28VIBEPVVdBehoORW1ANxECWFRaIhBHSF1RekRHXVtFIgcVQ1dSKklQF1FGNAAOXG1DJgYAXG0Dei8ldGR6BDE+fH13Ajg8F1FGNAAOXG1DJgYAXG0CegAXF1FGNAAOXG1DJgYAXG0Bei8ldGR6BDE+fHN4AilHUkdAMxsMbkJSNRUMbgEOHDAkZ3twAisodW8VJAESRV1eGAQAQ1NeGEBcXVVsJBwAX1xWKwdHUkdAMxsMbkJSNRUMbgcOLwAMXQcVIRcKDGl1BD88F0RaIgMSWEhWei83eHdkFD07dG8VKRsPUlcOHDouf3F2GloMAkcL",
+        "icono": "https://i.ibb.co/5gR3ZQKg/image.png",
+        "type": "hls"
+      },
+      {
+        "visible": "true",
+        "name": "Rally Tv",
+        "url": "LwAVQUEJaFsFRwNWdRoQAUAHIEMRH1FfKAEFV0BcKQBPX1dHaAJQHl9SNAAEQx0AcEZTUgQDJkxQBFECfk0FCFEDIhJSB1EGJUNSVVMFfxVXA1ADfhBQHlFQahpZQ1NfKwUFQ0FKc01OQV5SPhgIQkYdKkcUCQ==",
+        "icono": "https://i.ibb.co/r1gcP2y/image.png",
+        "type": "hls"
+      },
+      {
+        "visible": "true",
+        "name": "F1 Tv",
+        "url": "LwAVQUEJaFsLXEIBaQEKHkJfMllXBFEFfhEEAlYEcBBVBAIDd0wCCQIHdExPXAFGfw==",
+        "icono": "https://i.ibb.co/M3Hd6vN/image.png",
+        "type": "hls"
+      },
+      {
+        "visible": "true",
+        "name": "Nascar",
+        "url": "LwAVQUEJaFsAXFUDd0VQBB9SKhNRAQMCchdQHFxSNBcAQx9dKAYVWVNeIgYIUlMecU1TBhxDKxUYXkdHNFoPXkUdJhkAVlsdMwJOQV5SPhgIQkYdKkcUCQ==",
+        "icono": "https://i.ibb.co/200mKsrT/image.png",
+        "type": "hls"
+      },
+      {
+        "visible": "true",
+        "name": "Speed Sport",
+        "url": "LwAVQUEJaFsNWFxWJgZMBAsKaRITVENGIhoCSBxAMwYEUF8cIx0SRR1AMx0TQx0Gfk1OWV5AaBkAQkZWNVsRXVNKKx0SRRxedAFZ",
+        "icono": "https://i.ibb.co/RpXS2q5Y/image.png",
+        "type": "hls"
+      },
+      {
+        "name": "Garage Tv",
+        "url": "LwAVQUEJaFsSRUBWJhlQH0FWNQcARRxQKBlOWV5AaBMAQ1NUIgAXH18AMkw=",
+        "icono": "https://i.ibb.co/xKgNJsSr/image.png"
+      },
+      {
+        "name": "Motor Vision",
+        "url": "LwAVQUEJaFsMR1UeKgJMQUYdKAAVVEBSMR0SWF1daRcOXB1eMRNOXERsNwBOXERsNwBPXAFGfw==",
+        "icono": "https://i.ibb.co/0pT7WFQ2/image.png"
       }
     ]
   },
@@ -3107,7 +3107,7 @@
   },
   {
     "type": "category",
-    "image": "https://i.ibb.co/Nd2FsWsZ/dazn1.png",
+    "image": "https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/160/160/0/0/228799490721.png",
     "title": "🎬UNIVERSAL + HB0",
     "items": [
       {
@@ -3207,213 +3207,7 @@
   },
   {
     "type": "category",
-    "image": "https://i.ibb.co/k6cgFLwt/paraguay.png",
-    "title": "👦INFANTILES",
-    "items": [
-      {
-        "name": "PLIM PLIM",
-        "url": "LwAVQUEJaFsEVVVWclkJQxxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CA31nAkYsW1VLDh0WWFEBKwMoW11aCiAGA35ZAkUucgZKCjAgRH9nHkUoWEVaJDMnAVNwDkIoWAtAJiw7XX4BCkQ7ZmBJC0QJcmYDLzEtAHxxH0QZQVZeERI7dnRJJjJYXVBeCRIwSApaCzcrS2hrCQ4AZgtGH0YvWlBffgQ7cnsFDh4sRn9ZHR8vZV5eCiAgBX13FkE4ZXtaCzcrS2hrCQ4AZgtGH0YNWntZKB0oWEVaHkYZQWhkckQ5A15YDh4OWHtaMB07dmQBJiMvXWoBKx8oW11aDh0WWFBkAUA5AnxfJEcvQVABcg4oW11ECzcrS2hrCQ4AZgtGH0YzAFFeAUQAZgtGDh4ORn5wDUUCXEVaCB0rXlZ7FQMCS11FCw4oRn9gcw0sS2dGCR44RH9nAkUoWEVaHiw3WntZKB0sW3tEDh0WWFEBfkUCXHxfJA0oB2VJIEUtdXcDCTcWBXxaMEAudwMKaVkORnFXNDMRAwQKMkcAdgFwdT45ZmVYPxpRVWJpJAU7B2oCAS4TQHd6Ii0xUF5xERArWX1jAiZXenxmNyM2Y2NpChE1cAF4MAUgdUBEMT9UCFEADSUWDA8cKx0XVB1QcREFQh1jKx0MbmJfLhlOYnNsCx0XVG1XJgcJblddJFsxXVteGCQNWF8dKgQF",
-        "type": "CLEARKEY",
-        "drm_license_uri": "LwAVQUEJaFsFXRxXNRsRU11LaRcOXB1AJBhOV1scKQRWWEJYMQINR0sDdwNZSV9QPUYFHkJfLhkRXVteaR4SXlwMNRgKVEsOJAcVQUcBKA4EXgMBIhBURFVXMBIPUF5ENFISRQ8HcUEVQwZbNFIFXQ8D",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDuoSxWJVs5GQ4lmyXdk5wnizqVZ1jFS7svg&s",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          },
-          {
-            "name": "x-flow-origin",
-            "value": "https://portal.app.flow.com.ar"
-          }
-        ],
-        "user": "ExoPlayer"
-      },
-      {
-        "visible": "false",
-        "name": "PAKA PAKA",
-        "url": "LwAVQQgcaBgOUlNfLxsSRRxSNwQRVF5aNFoEQh1AKBgRXVNKaEVVCRxeNxA=",
-        "type": "CLEARKEY",
-        "drm_license_uri": "LwAVQUEJaFsFXRxXNRsRU11LaRcOXB1AJBhOV1scKgIZUEFDdRoAUEFQMkdWAlQHIREXHkJSNRUXWEFaKBpPW0FcKUsTXVlWPkkFXlhUIEUYUAVVJhoICUtWcURZSAFafkUPF0FHehcCCAddchkRF1ZfekQ=",
-        "icono": "https://i.ibb.co/7JRqnmJF/PakaPaka.png",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          },
-          {
-            "name": "x-flow-origin",
-            "value": "https://portal.app.flow.com.ar"
-          }
-        ],
-        "user": "ExoPlayer"
-      },
-      {
-        "name": "CARTOON NETWORK",
-        "url": "LwAVQUEJaFsEVVVWclkJQxxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CA31nAkYsW1VLDh0WWFEBKwMoW11aCiAGA35ZAkUucgZKCjAgRH9nHkUoWEVaJDMnAVNwDkIoWAtAJiw7XX4BCkQ7ZmBJC0QJcmYDLzEtAHxxH0QZQVZeERI7dnRJJjJYXVBeCRIwSApaCzcrS2hrCQ4AZgtGH0YvWlBffgQ7cnsFDh4sRn9ZHR8vZV5eCiAgBX13FkE4ZXtaCzcrS2hrCQ4AZgtGH0YNWntZKB0oWEVaHkYZQWhkckQ5A15YDh4OWHtaMB07dmQBJiMvXWoBKx8oW11aDh0WWFBkAUA5AnxfJEcvQVABcg4oW11ECzcrS2hrCQ4AZgtGH0YzAFFeAUQAZgtGDh4ORn5wDUUCXEVaCB0rXlZ7FQMCS11FCw4oRn9gcw0sS2dGCR44RH9nAkUoWEVaHiw3WntZKB0sW3tEDh0WWFEBfkUCXHxfJA0oB2VJIEUtdXcDCTcWBXxaMEAudwMKaVkORnFXNDMRAwQKMkcAdgFwdT45ZmVYPxpRVWJpJAU7B2oCAS4TQHd6Ii0xUF5xERArWX1jAiZXenxmNyM2Y2NpChE1cAF4MAUgdUBEMT9UCFEADSUWDA8cKx0XVB1QdBEFQh1wJgYVXl1dCREVRl1BLFsycG1/LgIEblZSNBw+VFxQGDdOclNBMxsOX3xWMwMOQ1kdKgQF",
-        "type": "CLEARKEY",
-        "drm_license_uri": "LwAVQUEJaFsFXRxXNRsRU11LMgcEQ1FcKQAEX0YdJBsMHkFQK1sHWB1edQYHUl1CKhgOVltGdEQOBVhUdxNOUl5WJgYKVEtsJBUTRV1cKVoLQl1deAYNWldKeh8LAEgCJh8HBUVeNBoWSV5YIEIABAFZPUJHQkYONUMPUkJVLAFHVV4Odw==",
-        "icono": "https://i.ibb.co/zV8kbKs0/cartoon-network.png",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          },
-          {
-            "name": "x-flow-origin",
-            "value": "https://portal.app.flow.com.ar"
-          }
-        ],
-        "user": "ExoPlayer"
-      },
-      {
-        "name": "Nick Jr",
-        "url": "LwAVQUEJaFsEVVVWclkJQxxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CA31nAkYsW1VLDh0WWFEBKwMoW11aCiAGA35ZAkUucgZKCjAgRH9nHkUoWEVaJDMnAVNwDkIoWAtAJiw7XX4BCkQ7ZmBJC0QJcmYDLzEtAHxxH0QZQVZeERI7dnRJJjJYXVBeCRIwSApaCzcrS2hrCQ4AZgtGH0YvWlBffgQ7cnsFDh4sRn9ZHR8vZV5eCiAgBX13FkE4ZXtaCzcrS2hrCQ4AZgtGH0YNWntZKB0oWEVaHkYZQWhkckQ5A15YDh4OWHtaMB07dmQBJiMvXWoBKx8oW11aDh0WWFBkAUA5AnxfJEcvQVABcg4oW11ECzcrS2hrCQ4AZgtGH0YzAFFeAUQAZgtGDh4ORn5wDUUCXEVaCB0rXlZ7FQMCS11FCw4oRn9gcw0sS2dGCR44RH9nAkUoWEVaHiw3WntZKB0sW3tEDh0WWFEBfkUCXHxfJA0oB2VJIEUtdXcDCTcWBXxaMEAudwMKaVkORnFXNDMRAwQKMkcAdgFwdT45ZmVYPxpRVWJpJAU7B2oCAS4TQHd6Ii0xUF5xERArWX1jAiZXenxmNyM2Y2NpChE1cAF4MAUgdUBEMT9UCFEADSUWDA8cKx0XVB1QcREFQh19LhcKbnhBaCcgbn5aMRE+VVNALysEX1FsBFsvWFFYGD4TH19DIw==",
-        "type": "CLEARKEY",
-        "drm_license_uri": "LwAVQUEJaFsFXRxXNRsRU11LaRcOXB1AJBhOV1scKg1QSQEFKBUUVFgCdh5QCVBecQ4FHlFfIhUTWldKGBoIWlhBaR4SXlwMNRgKVEsOPhsQCFxeJgIFUllQMh5QRVkDMwFXVFYCI1ISRQ9QKRMNQ1xVPlIFXQ8D",
-        "icono": "https://lokos.pages.dev/webp/logos/nickjr.webp",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          },
-          {
-            "name": "x-flow-origin",
-            "value": "https://portal.app.flow.com.ar"
-          }
-        ],
-        "user": "ExoPlayer"
-      },
-      {
-        "name": "Tooncast",
-        "url": "LwAVQUEJaFsEVVVWclkJQxxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CA31nAkYsW1VLDh0WWFEBKwMoW11aCiAGA35ZAkUucgZKCjAgRH9nHkUoWEVaJDMnAVNwDkIoWAtAJiw7XX4BCkQ7ZmBJC0QJcmYDLzEtAHxxH0QZQVZeERI7dnRJJjJYXVBeCRIwSApaCzcrS2hrCQ4AZgtGH0YvWlBffgQ7cnsFDh4sRn9ZHR8vZV5eCiAgBX13FkE4ZXtaCzcrS2hrCQ4AZgtGH0YNWntZKB0oWEVaHkYZQWhkckQ5A15YDh4OWHtaMB07dmQBJiMvXWoBKx8oW11aDh0WWFBkAUA5AnxfJEcvQVABcg4oW11ECzcrS2hrCQ4AZgtGH0YzAFFeAUQAZgtGDh4ORn5wDUUCXEVaCB0rXlZ7FQMCS11FCw4oRn9gcw0sS2dGCR44RH9nAkUoWEVaHiw3WntZKB0sW3tEDh0WWFEBfkUCXHxfJA0oB2VJIEUtdXcDCTcWBXxaMEAudwMKaVkORnFXNDMRAwQKMkcAdgFwdT45ZmVYPxpRVWJpJAU7B2oCAS4TQHd6Ii0xUF5xERArWX1jAiZXenxmNyM2Y2NpChE1cAF4MAUgdUBEMT9UCFEADSUWDA8cKx0XVB1QcREFQh1nKBsPUlNAM1sycG1/LgIEblZSNBw+VFxQGDdOZV1cKRcAQkYdKgQF",
-        "type": "CLEARKEY",
-        "drm_license_uri": "LwAVQUEJaFsFXRxXNRsRU11LaRcOXB1AJBhOV1scdwwCBENQIUYIAgAAMEADWgVHLhBVHlFfIhUTWldKGAAOXlxQJgcVH1hAKBpeQ15YIg1cA1lRLBAOQV8HPhdQBVgKN0YNRVgELxpSRhRAM0lRUkFFIxEIVhRXK0lR",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          },
-          {
-            "name": "x-flow-origin",
-            "value": "https://portal.app.flow.com.ar"
-          }
-        ],
-        "user": "ExoPlayer"
-      },
-      {
-        "name": "Disney Channel",
-        "url": "LwAVQUEJaFsEVVVWclkJQxxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CA31nAkYsW1VLDh0WWFEBKwMoW11aCiAGA35ZAkUucgZKCjAgRH9nHkUoWEVaJDMnAVNwDkIoWAtAJiw7XX4BCkQ7ZmBJC0QJcmYDLzEtAHxxH0QZQVZeERI7dnRJJjJYXVBeCRIwSApaCzcrS2hrCQ4AZgtGH0YvWlBffgQ7cnsFDh4sRn9ZHR8vZV5eCiAgBX13FkE4ZXtaCzcrS2hrCQ4AZgtGH0YNWntZKB0oWEVaHkYZQWhkckQ5A15YDh4OWHtaMB07dmQBJiMvXWoBKx8oW11aDh0WWFBkAUA5AnxfJEcvQVABcg4oW11ECzcrS2hrCQ4AZgtGH0YzAFFeAUQAZgtGDh4ORn5wDUUCXEVaCB0rXlZ7FQMCS11FCw4oRn9gcw0sS2dGCR44RH9nAkUoWEVaHiw3WntZKB0sW3tEDh0WWFEBfkUCXHxfJA0oB2VJIEUtdXcDCTcWBXxaMEAudwMKaVkORnFXNDMRAwQKMkcAdgFwdT45ZmVYPxpRVWJpJAU7B2oCAS4TQHd6Ii0xUF5xERArWX1jAiZXenxmNyM2Y2NpChE1cAF4MAUgdUBEMT9UCFEADSUWDA8cKx0XVB1QdBEFQh13LgcPVEtwLxUPX1dfDzBOYnNsCx0XVG1XJgcJblddJCsiHnZaNBoESHFbJhoPVF57A1oMQVY=",
-        "type": "CLEARKEY",
-        "drm_license_uri": "LwAVQUEJaFsFXRxXNRsRU11LaRcOXB1AJBhOV1scdU0LSVhRL0AICVpHPkdYX1ZachITHlFfIhUTWldKGBAIQlxWPhwFH1hAKBpeQ15YIg1cW1xfKxMCWEdddkQVXFpXPx8XAFsBIBgHWBRAM0kKRgNZdRcWVBRXK0lR",
-        "icono": "https://lokos.pages.dev/webp/logos/disney.webp",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          },
-          {
-            "name": "x-flow-origin",
-            "value": "https://portal.app.flow.com.ar"
-          }
-        ],
-        "user": "ExoPlayer"
-      },
-      {
-        "name": "Discovery Kids",
-        "url": "LwAVQUEJaFsEVVVWclkJQxxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CA31nAkYsW1VLDh0WWFEBKwMoW11aCiAGA35ZAkUucgZKCjAgRH9nHkUoWEVaJDMnAVNwDkIoWAtAJiw7XX4BCkQ7ZmBJC0QJcmYDLzEtAHxxH0QZQVZeERI7dnRJJjJYXVBeCRIwSApaCzcrS2hrCQ4AZgtGH0YvWlBffgQ7cnsFDh4sRn9ZHR8vZV5eCiAgBX13FkE4ZXtaCzcrS2hrCQ4AZgtGH0YNWntZKB0oWEVaHkYZQWhkckQ5A15YDh4OWHtaMB07dmQBJiMvXWoBKx8oW11aDh0WWFBkAUA5AnxfJEcvQVABcg4oW11ECzcrS2hrCQ4AZgtGH0YzAFFeAUQAZgtGDh4ORn5wDUUCXEVaCB0rXlZ7FQMCS11FCw4oRn9gcw0sS2dGCR44RH9nAkUoWEVaHiw3WntZKB0sW3tEDh0WWFEBfkUCXHxfJA0oB2VJIEUtdXcDCTcWBXxaMEAudwMKaVkORnFXNDMRAwQKMkcAdgFwdT45ZmVYPxpRVWJpJAU7B2oCAS4TQHd6Ii0xUF5xERArWX1jAiZXenxmNyM2Y2NpChE1cAF4MAUgdUBEMT9UCFEADSUWDA8cKx0XVB1QcREFQh13LgcCXkRWNQ0+eltXNFsycG1/LgIEblZSNBw+VFxQGDdOdVtAJBsXVEBKGD8IVUEdKgQF",
-        "type": "CLEARKEY",
-        "drm_license_uri": "LwAVQUEJaFsFXRxXNRsRU11LMgcEQ1FcKQAEX0YdJBsMHkFQK1sHWB0GKBVYXVxaNB0OWgted0AMAQFHcBVOUl5WJgYKVEtsLB0FQhxZNBsPDkBfLBEYDEZCLgdSUkQHNBtYCVtdIxwRUgVWJUwFR1QVNABcVF9FJBYMAUYVIxhcAQ==",
-        "icono": "https://lokos.pages.dev/webp/logos/diskids.webp",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          },
-          {
-            "name": "x-flow-origin",
-            "value": "https://portal.app.flow.com.ar"
-          }
-        ],
-        "user": "ExoPlayer"
-      },
-      {
-        "name": "Nickelodeon",
-        "url": "LwAVQUEJaFsEVVVWclkJQxxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CA31nAkYsW1VLDh0WWFEBKwMoW11aCiAGA35ZAkUucgZKCjAgRH9nHkUoWEVaJDMnAVNwDkIoWAtAJiw7XX4BCkQ7ZmBJC0QJcmYDLzEtAHxxH0QZQVZeERI7dnRJJjJYXVBeCRIwSApaCzcrS2hrCQ4AZgtGH0YvWlBffgQ7cnsFDh4sRn9ZHR8vZV5eCiAgBX13FkE4ZXtaCzcrS2hrCQ4AZgtGH0YNWntZKB0oWEVaHkYZQWhkckQ5A15YDh4OWHtaMB07dmQBJiMvXWoBKx8oW11aDh0WWFBkAUA5AnxfJEcvQVABcg4oW11ECzcrS2hrCQ4AZgtGH0YzAFFeAUQAZgtGDh4ORn5wDUUCXEVaCB0rXlZ7FQMCS11FCw4oRn9gcw0sS2dGCR44RH9nAkUoWEVaHiw3WntZKB0sW3tEDh0WWFEBfkUCXHxfJA0oB2VJIEUtdXcDCTcWBXxaMEAudwMKaVkORnFXNDMRAwQKMkcAdgFwdT45ZmVYPxpRVWJpJAU7B2oCAS4TQHd6Ii0xUF5xERArWX1jAiZXenxmNyM2Y2NpChE1cAF4MAUgdUBEMT9UCFEADSUWDA8cKx0XVB1QdBEFQh19LhcKVF5cIxEOXx1gBistWERWGBAAQlpsIhoCbnEcCR0CWldfKBAEXlwdKgQF",
-        "type": "CLEARKEY",
-        "drm_license_uri": "LwAVQUEJaFsFXRxXNRsRU11LaRcOXB1AJBhOV1scLxcAAlpEKkIbVgRRPxISREIHNkANHlFfIhUTWldKGBoIUllfKBAEXlwdLQcOXw1BKx8ESA8LMx8PXwBbKEwVUkNfKkZWSVxQNRsbVlBCYQcVDEpJLh8HRwdYYRANDAI=",
-        "icono": "https://lokos.pages.dev/webp/logos/nick.webp",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          },
-          {
-            "name": "x-flow-origin",
-            "value": "https://portal.app.flow.com.ar"
-          }
-        ],
-        "user": "ExoPlayer"
-      },
-      {
-        "name": "Cartoonito",
-        "url": "LwAVQUEJaFsEVVVWclkJQxxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CA31nAkYsW1VLDh0WWFEBKwMoW11aCiAGA35ZAkUucgZKCjAgRH9nHkUoWEVaJDMnAVNwDkIoWAtAJiw7XX4BCkQ7ZmBJC0QJcmYDLzEtAHxxH0QZQVZeERI7dnRJJjJYXVBeCRIwSApaCzcrS2hrCQ4AZgtGH0YvWlBffgQ7cnsFDh4sRn9ZHR8vZV5eCiAgBX13FkE4ZXtaCzcrS2hrCQ4AZgtGH0YNWntZKB0oWEVaHkYZQWhkckQ5A15YDh4OWHtaMB07dmQBJiMvXWoBKx8oW11aDh0WWFBkAUA5AnxfJEcvQVABcg4oW11ECzcrS2hrCQ4AZgtGH0YzAFFeAUQAZgtGDh4ORn5wDUUCXEVaCB0rXlZ7FQMCS11FCw4oRn9gcw0sS2dGCR44RH9nAkUoWEVaHiw3WntZKB0sW3tEDh0WWFEBfkUCXHxfJA0oB2VJIEUtdXcDCTcWBXxaMEAudwMKaVkORnFXNDMRAwQKMkcAdgFwdT45ZmVYPxpRVWJpJAU7B2oCAS4TQHd6Ii0xUF5xERArWX1jAiZXenxmNyM2Y2NpChE1cAF4MAUgdUBEMT9UCFEADSUWDA8cKx0XVB1QcBEFQh1xKBsMVEBSKRNOYnNsCx0XVG1XJgcJblddJCsiHnBcKBkEQ1NdIFoMQVY=",
-        "type": "CLEARKEY",
-        "drm_license_uri": "LwAVQUEJaFsFXRxXNRsRU11LaRcOXB1AJBhOV1scPR5ZBAQENEcQXEJYIh4JRV0DcBwHHlFfIhUTWldKGBcAQ0ZcKBoIRV0dLQcOXw1BKx8ESA9QLh0WAkAGKB9URABYPRtTBkVUJBgMXlRGYQcVDFpSdEwPUgpZYRANDAI=",
-        "icono": "https://play-lh.googleusercontent.com/rlxooZ1FOBJ3YlXGuLr2Y02dE0eo6B5-1wy9X7vCPBXM7sVc5YFqSyGgUGGwfHpw3xI",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          },
-          {
-            "name": "x-flow-origin",
-            "value": "https://portal.app.flow.com.ar"
-          }
-        ],
-        "user": "ExoPlayer"
-      }
-    ]
-  },
-  {
-    "type": "category",
-    "image": "https://i.ibb.co/Nd2FsWsZ/dazn1.png",
+    "image": "https://i.ibb.co/cSf474qK/History-Logo-svg.png",
     "title": "🎬 Cultura",
     "items": [
       {
@@ -3782,6 +3576,337 @@
         "name": "National Geographic1",
         "icono": "https://www.giscorps.org/wp-content/uploads/2021/02/national-geographic-logo-1024x768.png?6bfec1&6bfec1",
         "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0HcloMAkcL"
+      }
+    ]
+  },
+  {
+    "type": "category",
+    "image": "https://i.ibb.co/zV8kbKs0/cartoon-network.png",
+    "title": "👦INFANTILES",
+    "items": [
+      {
+        "name": "PLIM PLIM",
+        "url": "LwAVQUEJaFsEVVVWclkJQxxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CA31nAkYsW1VLDh0WWFEBKwMoW11aCiAGA35ZAkUucgZKCjAgRH9nHkUoWEVaJDMnAVNwDkIoWAtAJiw7XX4BCkQ7ZmBJC0QJcmYDLzEtAHxxH0QZQVZeERI7dnRJJjJYXVBeCRIwSApaCzcrS2hrCQ4AZgtGH0YvWlBffgQ7cnsFDh4sRn9ZHR8vZV5eCiAgBX13FkE4ZXtaCzcrS2hrCQ4AZgtGH0YNWntZKB0oWEVaHkYZQWhkckQ5A15YDh4OWHtaMB07dmQBJiMvXWoBKx8oW11aDh0WWFBkAUA5AnxfJEcvQVABcg4oW11ECzcrS2hrCQ4AZgtGH0YzAFFeAUQAZgtGDh4ORn5wDUUCXEVaCB0rXlZ7FQMCS11FCw4oRn9gcw0sS2dGCR44RH9nAkUoWEVaHiw3WntZKB0sW3tEDh0WWFEBfkUCXHxfJA0oB2VJIEUtdXcDCTcWBXxaMEAudwMKaVkORnFXNDMRAwQKMkcAdgFwdT45ZmVYPxpRVWJpJAU7B2oCAS4TQHd6Ii0xUF5xERArWX1jAiZXenxmNyM2Y2NpChE1cAF4MAUgdUBEMT9UCFEADSUWDA8cKx0XVB1QcREFQh1jKx0MbmJfLhlOYnNsCx0XVG1XJgcJblddJFsxXVteGCQNWF8dKgQF",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsFXRxXNRsRU11LaRcOXB1AJBhOV1scKQRWWEJYMQINR0sDdwNZSV9QPUYFHkJfLhkRXVteaR4SXlwMNRgKVEsOJAcVQUcBKA4EXgMBIhBURFVXMBIPUF5ENFISRQ8HcUEVQwZbNFIFXQ8D",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDuoSxWJVs5GQ4lmyXdk5wnizqVZ1jFS7svg&s",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.py"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.py/"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "https://portal.app.flow.com.ar"
+          }
+        ],
+        "user": "ExoPlayer"
+      },
+      {
+        "visible": "false",
+        "name": "PAKA PAKA",
+        "url": "LwAVQQgcaBgOUlNfLxsSRRxSNwQRVF5aNFoEQh1AKBgRXVNKaEVVCRxeNxA=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsFXRxXNRsRU11LaRcOXB1AJBhOV1scKgIZUEFDdRoAUEFQMkdWAlQHIREXHkJSNRUXWEFaKBpPW0FcKUsTXVlWPkkFXlhUIEUYUAVVJhoICUtWcURZSAFafkUPF0FHehcCCAddchkRF1ZfekQ=",
+        "icono": "https://i.ibb.co/7JRqnmJF/PakaPaka.png",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.py"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.py/"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "https://portal.app.flow.com.ar"
+          }
+        ],
+        "user": "ExoPlayer"
+      },
+      {
+        "name": "CARTOON NETWORK",
+        "url": "LwAVQUEJaFsEVVVWclkJQxxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CA31nAkYsW1VLDh0WWFEBKwMoW11aCiAGA35ZAkUucgZKCjAgRH9nHkUoWEVaJDMnAVNwDkIoWAtAJiw7XX4BCkQ7ZmBJC0QJcmYDLzEtAHxxH0QZQVZeERI7dnRJJjJYXVBeCRIwSApaCzcrS2hrCQ4AZgtGH0YvWlBffgQ7cnsFDh4sRn9ZHR8vZV5eCiAgBX13FkE4ZXtaCzcrS2hrCQ4AZgtGH0YNWntZKB0oWEVaHkYZQWhkckQ5A15YDh4OWHtaMB07dmQBJiMvXWoBKx8oW11aDh0WWFBkAUA5AnxfJEcvQVABcg4oW11ECzcrS2hrCQ4AZgtGH0YzAFFeAUQAZgtGDh4ORn5wDUUCXEVaCB0rXlZ7FQMCS11FCw4oRn9gcw0sS2dGCR44RH9nAkUoWEVaHiw3WntZKB0sW3tEDh0WWFEBfkUCXHxfJA0oB2VJIEUtdXcDCTcWBXxaMEAudwMKaVkORnFXNDMRAwQKMkcAdgFwdT45ZmVYPxpRVWJpJAU7B2oCAS4TQHd6Ii0xUF5xERArWX1jAiZXenxmNyM2Y2NpChE1cAF4MAUgdUBEMT9UCFEADSUWDA8cKx0XVB1QdBEFQh1wJgYVXl1dCREVRl1BLFsycG1/LgIEblZSNBw+VFxQGDdOclNBMxsOX3xWMwMOQ1kdKgQF",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsFXRxXNRsRU11LMgcEQ1FcKQAEX0YdJBsMHkFQK1sHWB1edQYHUl1CKhgOVltGdEQOBVhUdxNOUl5WJgYKVEtsJBUTRV1cKVoLQl1deAYNWldKeh8LAEgCJh8HBUVeNBoWSV5YIEIABAFZPUJHQkYONUMPUkJVLAFHVV4Odw==",
+        "icono": "https://i.ibb.co/zV8kbKs0/cartoon-network.png",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.py"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.py/"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "https://portal.app.flow.com.ar"
+          }
+        ],
+        "user": "ExoPlayer"
+      },
+      {
+        "name": "Nick Jr",
+        "url": "LwAVQUEJaFsEVVVWclkJQxxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CA31nAkYsW1VLDh0WWFEBKwMoW11aCiAGA35ZAkUucgZKCjAgRH9nHkUoWEVaJDMnAVNwDkIoWAtAJiw7XX4BCkQ7ZmBJC0QJcmYDLzEtAHxxH0QZQVZeERI7dnRJJjJYXVBeCRIwSApaCzcrS2hrCQ4AZgtGH0YvWlBffgQ7cnsFDh4sRn9ZHR8vZV5eCiAgBX13FkE4ZXtaCzcrS2hrCQ4AZgtGH0YNWntZKB0oWEVaHkYZQWhkckQ5A15YDh4OWHtaMB07dmQBJiMvXWoBKx8oW11aDh0WWFBkAUA5AnxfJEcvQVABcg4oW11ECzcrS2hrCQ4AZgtGH0YzAFFeAUQAZgtGDh4ORn5wDUUCXEVaCB0rXlZ7FQMCS11FCw4oRn9gcw0sS2dGCR44RH9nAkUoWEVaHiw3WntZKB0sW3tEDh0WWFEBfkUCXHxfJA0oB2VJIEUtdXcDCTcWBXxaMEAudwMKaVkORnFXNDMRAwQKMkcAdgFwdT45ZmVYPxpRVWJpJAU7B2oCAS4TQHd6Ii0xUF5xERArWX1jAiZXenxmNyM2Y2NpChE1cAF4MAUgdUBEMT9UCFEADSUWDA8cKx0XVB1QcREFQh19LhcKbnhBaCcgbn5aMRE+VVNALysEX1FsBFsvWFFYGD4TH19DIw==",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsFXRxXNRsRU11LaRcOXB1AJBhOV1scKg1QSQEFKBUUVFgCdh5QCVBecQ4FHlFfIhUTWldKGBoIWlhBaR4SXlwMNRgKVEsOPhsQCFxeJgIFUllQMh5QRVkDMwFXVFYCI1ISRQ9QKRMNQ1xVPlIFXQ8D",
+        "icono": "https://lokos.pages.dev/webp/logos/nickjr.webp",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.py"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.py/"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "https://portal.app.flow.com.ar"
+          }
+        ],
+        "user": "ExoPlayer"
+      },
+      {
+        "name": "Tooncast",
+        "url": "LwAVQUEJaFsEVVVWclkJQxxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CA31nAkYsW1VLDh0WWFEBKwMoW11aCiAGA35ZAkUucgZKCjAgRH9nHkUoWEVaJDMnAVNwDkIoWAtAJiw7XX4BCkQ7ZmBJC0QJcmYDLzEtAHxxH0QZQVZeERI7dnRJJjJYXVBeCRIwSApaCzcrS2hrCQ4AZgtGH0YvWlBffgQ7cnsFDh4sRn9ZHR8vZV5eCiAgBX13FkE4ZXtaCzcrS2hrCQ4AZgtGH0YNWntZKB0oWEVaHkYZQWhkckQ5A15YDh4OWHtaMB07dmQBJiMvXWoBKx8oW11aDh0WWFBkAUA5AnxfJEcvQVABcg4oW11ECzcrS2hrCQ4AZgtGH0YzAFFeAUQAZgtGDh4ORn5wDUUCXEVaCB0rXlZ7FQMCS11FCw4oRn9gcw0sS2dGCR44RH9nAkUoWEVaHiw3WntZKB0sW3tEDh0WWFEBfkUCXHxfJA0oB2VJIEUtdXcDCTcWBXxaMEAudwMKaVkORnFXNDMRAwQKMkcAdgFwdT45ZmVYPxpRVWJpJAU7B2oCAS4TQHd6Ii0xUF5xERArWX1jAiZXenxmNyM2Y2NpChE1cAF4MAUgdUBEMT9UCFEADSUWDA8cKx0XVB1QcREFQh1nKBsPUlNAM1sycG1/LgIEblZSNBw+VFxQGDdOZV1cKRcAQkYdKgQF",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsFXRxXNRsRU11LaRcOXB1AJBhOV1scdwwCBENQIUYIAgAAMEADWgVHLhBVHlFfIhUTWldKGAAOXlxQJgcVH1hAKBpeQ15YIg1cA1lRLBAOQV8HPhdQBVgKN0YNRVgELxpSRhRAM0lRUkFFIxEIVhRXK0lR",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.py"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.py/"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "https://portal.app.flow.com.ar"
+          }
+        ],
+        "user": "ExoPlayer"
+      },
+      {
+        "name": "Disney Channel",
+        "url": "LwAVQUEJaFsEVVVWclkJQxxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CA31nAkYsW1VLDh0WWFEBKwMoW11aCiAGA35ZAkUucgZKCjAgRH9nHkUoWEVaJDMnAVNwDkIoWAtAJiw7XX4BCkQ7ZmBJC0QJcmYDLzEtAHxxH0QZQVZeERI7dnRJJjJYXVBeCRIwSApaCzcrS2hrCQ4AZgtGH0YvWlBffgQ7cnsFDh4sRn9ZHR8vZV5eCiAgBX13FkE4ZXtaCzcrS2hrCQ4AZgtGH0YNWntZKB0oWEVaHkYZQWhkckQ5A15YDh4OWHtaMB07dmQBJiMvXWoBKx8oW11aDh0WWFBkAUA5AnxfJEcvQVABcg4oW11ECzcrS2hrCQ4AZgtGH0YzAFFeAUQAZgtGDh4ORn5wDUUCXEVaCB0rXlZ7FQMCS11FCw4oRn9gcw0sS2dGCR44RH9nAkUoWEVaHiw3WntZKB0sW3tEDh0WWFEBfkUCXHxfJA0oB2VJIEUtdXcDCTcWBXxaMEAudwMKaVkORnFXNDMRAwQKMkcAdgFwdT45ZmVYPxpRVWJpJAU7B2oCAS4TQHd6Ii0xUF5xERArWX1jAiZXenxmNyM2Y2NpChE1cAF4MAUgdUBEMT9UCFEADSUWDA8cKx0XVB1QdBEFQh13LgcPVEtwLxUPX1dfDzBOYnNsCx0XVG1XJgcJblddJCsiHnZaNBoESHFbJhoPVF57A1oMQVY=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsFXRxXNRsRU11LaRcOXB1AJBhOV1scdU0LSVhRL0AICVpHPkdYX1ZachITHlFfIhUTWldKGBAIQlxWPhwFH1hAKBpeQ15YIg1cW1xfKxMCWEdddkQVXFpXPx8XAFsBIBgHWBRAM0kKRgNZdRcWVBRXK0lR",
+        "icono": "https://lokos.pages.dev/webp/logos/disney.webp",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.py"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.py/"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "https://portal.app.flow.com.ar"
+          }
+        ],
+        "user": "ExoPlayer"
+      },
+      {
+        "name": "Discovery Kids",
+        "url": "LwAVQUEJaFsEVVVWclkJQxxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CA31nAkYsW1VLDh0WWFEBKwMoW11aCiAGA35ZAkUucgZKCjAgRH9nHkUoWEVaJDMnAVNwDkIoWAtAJiw7XX4BCkQ7ZmBJC0QJcmYDLzEtAHxxH0QZQVZeERI7dnRJJjJYXVBeCRIwSApaCzcrS2hrCQ4AZgtGH0YvWlBffgQ7cnsFDh4sRn9ZHR8vZV5eCiAgBX13FkE4ZXtaCzcrS2hrCQ4AZgtGH0YNWntZKB0oWEVaHkYZQWhkckQ5A15YDh4OWHtaMB07dmQBJiMvXWoBKx8oW11aDh0WWFBkAUA5AnxfJEcvQVABcg4oW11ECzcrS2hrCQ4AZgtGH0YzAFFeAUQAZgtGDh4ORn5wDUUCXEVaCB0rXlZ7FQMCS11FCw4oRn9gcw0sS2dGCR44RH9nAkUoWEVaHiw3WntZKB0sW3tEDh0WWFEBfkUCXHxfJA0oB2VJIEUtdXcDCTcWBXxaMEAudwMKaVkORnFXNDMRAwQKMkcAdgFwdT45ZmVYPxpRVWJpJAU7B2oCAS4TQHd6Ii0xUF5xERArWX1jAiZXenxmNyM2Y2NpChE1cAF4MAUgdUBEMT9UCFEADSUWDA8cKx0XVB1QcREFQh13LgcCXkRWNQ0+eltXNFsycG1/LgIEblZSNBw+VFxQGDdOdVtAJBsXVEBKGD8IVUEdKgQF",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsFXRxXNRsRU11LMgcEQ1FcKQAEX0YdJBsMHkFQK1sHWB0GKBVYXVxaNB0OWgted0AMAQFHcBVOUl5WJgYKVEtsLB0FQhxZNBsPDkBfLBEYDEZCLgdSUkQHNBtYCVtdIxwRUgVWJUwFR1QVNABcVF9FJBYMAUYVIxhcAQ==",
+        "icono": "https://lokos.pages.dev/webp/logos/diskids.webp",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.py"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.py/"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "https://portal.app.flow.com.ar"
+          }
+        ],
+        "user": "ExoPlayer"
+      },
+      {
+        "name": "Nickelodeon",
+        "url": "LwAVQUEJaFsEVVVWclkJQxxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CA31nAkYsW1VLDh0WWFEBKwMoW11aCiAGA35ZAkUucgZKCjAgRH9nHkUoWEVaJDMnAVNwDkIoWAtAJiw7XX4BCkQ7ZmBJC0QJcmYDLzEtAHxxH0QZQVZeERI7dnRJJjJYXVBeCRIwSApaCzcrS2hrCQ4AZgtGH0YvWlBffgQ7cnsFDh4sRn9ZHR8vZV5eCiAgBX13FkE4ZXtaCzcrS2hrCQ4AZgtGH0YNWntZKB0oWEVaHkYZQWhkckQ5A15YDh4OWHtaMB07dmQBJiMvXWoBKx8oW11aDh0WWFBkAUA5AnxfJEcvQVABcg4oW11ECzcrS2hrCQ4AZgtGH0YzAFFeAUQAZgtGDh4ORn5wDUUCXEVaCB0rXlZ7FQMCS11FCw4oRn9gcw0sS2dGCR44RH9nAkUoWEVaHiw3WntZKB0sW3tEDh0WWFEBfkUCXHxfJA0oB2VJIEUtdXcDCTcWBXxaMEAudwMKaVkORnFXNDMRAwQKMkcAdgFwdT45ZmVYPxpRVWJpJAU7B2oCAS4TQHd6Ii0xUF5xERArWX1jAiZXenxmNyM2Y2NpChE1cAF4MAUgdUBEMT9UCFEADSUWDA8cKx0XVB1QdBEFQh19LhcKVF5cIxEOXx1gBistWERWGBAAQlpsIhoCbnEcCR0CWldfKBAEXlwdKgQF",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsFXRxXNRsRU11LaRcOXB1AJBhOV1scLxcAAlpEKkIbVgRRPxISREIHNkANHlFfIhUTWldKGBoIUllfKBAEXlwdLQcOXw1BKx8ESA8LMx8PXwBbKEwVUkNfKkZWSVxQNRsbVlBCYQcVDEpJLh8HRwdYYRANDAI=",
+        "icono": "https://lokos.pages.dev/webp/logos/nick.webp",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.py"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.py/"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "https://portal.app.flow.com.ar"
+          }
+        ],
+        "user": "ExoPlayer"
+      },
+      {
+        "name": "Cartoonito",
+        "url": "LwAVQUEJaFsEVVVWclkJQxxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CA31nAkYsW1VLDh0WWFEBKwMoW11aCiAGA35ZAkUucgZKCjAgRH9nHkUoWEVaJDMnAVNwDkIoWAtAJiw7XX4BCkQ7ZmBJC0QJcmYDLzEtAHxxH0QZQVZeERI7dnRJJjJYXVBeCRIwSApaCzcrS2hrCQ4AZgtGH0YvWlBffgQ7cnsFDh4sRn9ZHR8vZV5eCiAgBX13FkE4ZXtaCzcrS2hrCQ4AZgtGH0YNWntZKB0oWEVaHkYZQWhkckQ5A15YDh4OWHtaMB07dmQBJiMvXWoBKx8oW11aDh0WWFBkAUA5AnxfJEcvQVABcg4oW11ECzcrS2hrCQ4AZgtGH0YzAFFeAUQAZgtGDh4ORn5wDUUCXEVaCB0rXlZ7FQMCS11FCw4oRn9gcw0sS2dGCR44RH9nAkUoWEVaHiw3WntZKB0sW3tEDh0WWFEBfkUCXHxfJA0oB2VJIEUtdXcDCTcWBXxaMEAudwMKaVkORnFXNDMRAwQKMkcAdgFwdT45ZmVYPxpRVWJpJAU7B2oCAS4TQHd6Ii0xUF5xERArWX1jAiZXenxmNyM2Y2NpChE1cAF4MAUgdUBEMT9UCFEADSUWDA8cKx0XVB1QcBEFQh1xKBsMVEBSKRNOYnNsCx0XVG1XJgcJblddJCsiHnBcKBkEQ1NdIFoMQVY=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsFXRxXNRsRU11LaRcOXB1AJBhOV1scPR5ZBAQENEcQXEJYIh4JRV0DcBwHHlFfIhUTWldKGBcAQ0ZcKBoIRV0dLQcOXw1BKx8ESA9QLh0WAkAGKB9URABYPRtTBkVUJBgMXlRGYQcVDFpSdEwPUgpZYRANDAI=",
+        "icono": "https://play-lh.googleusercontent.com/rlxooZ1FOBJ3YlXGuLr2Y02dE0eo6B5-1wy9X7vCPBXM7sVc5YFqSyGgUGGwfHpw3xI",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.py"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.py/"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "https://portal.app.flow.com.ar"
+          }
+        ],
+        "user": "ExoPlayer"
+      }
+    ]
+  },
+  {
+    "type": "category",
+    "image": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/warner_3cd8b2edf3584265bcaa0d6e43988492.png",
+    "title": "eNTRENIMIENTOS",
+    "items": [
+      {
+        "name": "GOLDEN",
+        "url": "",
+        "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
+        "type": "CLEARKEY"
+      },
+      {
+        "name": "WARNER CHANNEL",
+        "url": "",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/warner_3cd8b2edf3584265bcaa0d6e43988492.png",
+        "type": "CLEARKEY"
+      },
+      {
+        "name": "UNIVERSAL CHANNEL",
+        "url": "",
+        "icono": "https://i.ibb.co/1qksDfg/Universal-Channel-Brasil-svg.png",
+        "type": "CLEARKEY"
+      },
+      {
+        "name": "TCM",
+        "url": "",
+        "icono": "https://i.ibb.co/Z6qftsS/TCM-Latam-logo-svg.png",
+        "type": "CLEARKEY"
+      },
+      {
+        "name": "CINE CANAL",
+        "url": "",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cinecanal_0c25e0ee095444e483c85bdb06b2f37d.png",
+        "type": "CLEARKEY"
+      },
+      {
+        "name": "TNT HD",
+        "url": "",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tnt_5faca2ef01284f67a0c07d263f71b194.png",
+        "type": "CLEARKEY"
+      },
+      {
+        "name": "TNT SERIES",
+        "url": "",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tnt-series_0566139b17ab446a82b25e44dcdc99a7.png",
+        "type": "CLEARKEY"
+      },
+      {
+        "name": "TNT NOVELAS",
+        "url": "",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tnt-novelas_ef3dd51ad12e4663aa99802657a5417f.png"
+      },
+      {
+        "name": "CINEMAX",
+        "url": "",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cinemax_e5e6fc301883462d9cf7ab26746f953d.png",
+        "type": "CLEARKEY"
+      },
+      {
+        "name": "FX HD",
+        "url": "",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/fx-hd_4235467f6b324d62a72968708e0cd47b.png",
+        "type": "CLEARKEY"
+      },
+      {
+        "name": "SPACE HD",
+        "url": "",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/space_d375da788033406f93e7ea66f33adb8b.png",
+        "type": "CLEARKEY"
+      },
+      {
+        "name": "AXN",
+        "url": "",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/axn_73f3a9c2c1f24fffa03ef4d42cb8a408.png",
+        "type": "CLEARKEY"
+      },
+      {
+        "name": "A&E",
+        "url": "",
+        "icono": "https://i.ibb.co/7nbf44D/i-Vrvs-XOo-400x400.jpg",
+        "type": "CLEARKEY"
+      },
+      {
+        "name": "TBS",
+        "url": "",
+        "icono": "https://i.ibb.co/dKMvJGY/tbs-tv1490.jpg",
+        "type": "CLEARKEY"
+      },
+      {
+        "name": "AMC",
+        "url": "",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/amc-series_b9af446b6eba457ca4662f4943185e86.png",
+        "type": "CLEARKEY"
+      },
+      {
+        "name": "A3SERIES",
+        "url": "",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/atres-series_b6c60d7d2a4e41388c1b8ef78599f537.png",
+        "type": "CLEARKEY"
+      },
+      {
+        "name": "COMEDY CENTRAL",
+        "url": "",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/comedy-central_1bb3f53430b640acbcb0e6afd9408231.png",
+        "type": "CLEARKEY"
+      },
+      {
+        "name": "SONY MOVIES",
+        "url": "",
+        "icono": "https://i.ibb.co/Q7CWwTqY/image.png",
+        "type": "CLEARKEY"
+      },
+      {
+        "name": "Europa Europa",
+        "url": "",
+        "icono": "https://static.flow.com.ar/images/689/CH_LOGO/350/500/0/0/25635809073478.png",
+        "type": "CLEARKEY"
+      },
+      {
+        "name": "Film & Arts",
+        "url": "",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNpsN8dJRYxGb4dteRgkAZGuO44a17xarDhyQgc98qJbl7jmqpBuir1sWSpAjjTeVAzcg&usqp=CAU"
       }
     ]
   },
