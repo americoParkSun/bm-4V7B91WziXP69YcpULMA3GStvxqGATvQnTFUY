@@ -2144,6 +2144,17 @@
         "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
       },
       {
+        "name": "canal 100",
+        "url": "LwAVQUEJaFsNRF9aPwAXH1dAaBcAX1NfIgdOYXpjFFsSRUBWJhlOXV1YIhoFXhxedAFZDkdAIgZcUlNdJhgNUA==",
+        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png",
+        "user": "MorzillaFirefox"
+      },
+      {
+        "name": "Canal 101",
+        "url": "LwAVQUEJaFsNRF9aPwAXH1dAaBcAX1NfIgdOYXpjFFsSRUBWJhlOR1tHJhcICAIFcFoMAkcLeAESVEAOJBUPUF5fJg==",
+        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
+      },
+      {
         "name": "En Vivo",
         "url": "LwAVQQgcaEBUHwMEd1pQAgIddUZVCwoDd0ROQV5SPlsAAQZaaB0PVVdLaRlSRAo=",
         "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
@@ -3822,7 +3833,7 @@
     ]
   },
   {
-    "visible": "true",
+    "visible": "false",
     "type": "category",
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "Prueba",
