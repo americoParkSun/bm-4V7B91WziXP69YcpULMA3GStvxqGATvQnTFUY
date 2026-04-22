@@ -3113,12 +3113,16 @@
       {
         "name": "Universal Cinema",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/160/160/0/0/21817888076947.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0FdloMAkcL"
+        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0FdloMAkcL",
+        "drm_license_uri": "LwAVQQ==",
+        "type": "CLEARKEY"
       },
       {
-        "name": "Universal Comedy",
+        "name": "Universal Comedia",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/1283/CH_LOGO/160/160/0/0/94843453076948.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0FdVoMAkcL"
+        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0FdVoMAkcL",
+        "drm_license_uri": "LwAVQQ==",
+        "type": "CLEARKEY"
       },
       {
         "name": "Universal Crime",
@@ -3126,9 +3130,11 @@
         "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0FdFoMAkcL"
       },
       {
-        "name": "Universal Premiere",
+        "name": "Universal",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/1285/CH_LOGO/160/160/0/0/62685863076950.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Fc1oMAkcL"
+        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Fc1oMAkcL",
+        "drm_license_uri": "LwAVQQ==",
+        "type": "CLEARKEY"
       },
       {
         "name": "Universal Plus",
@@ -3143,22 +3149,37 @@
       {
         "name": "HBO 2",
         "icono": "https://i.ibb.co/Hp38dM6D/image.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Ad1oMAkcL"
+        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Ad1oMAkcL",
+        "drm_license_uri": "MBET",
+        "type": "CLEARKEY"
       },
       {
         "name": "HBO Family",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/160/160/0/0/7354519807335.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0AdloMAkcL"
+        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0AdloMAkcL",
+        "drm_license_uri": "NBAHQg==",
+        "type": "CLEARKEY"
       },
       {
         "name": "HBO Mundi",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/107/CH_LOGO/160/160/0/0/61157416071448.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0AdFoMAkcL"
+        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0AdFoMAkcL",
+        "drm_license_uri": "NBAH",
+        "type": "CLEARKEY"
       },
       {
         "name": "HBO Plus",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/160/160/0/0/10237380072165.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0AcVoMAkcL"
+        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0AcVoMAkcL",
+        "drm_license_uri": "LwAVQQ==",
+        "type": "CLEARKEY"
+      },
+      {
+        "name": "HBO Pop",
+        "url": "LwAVQQ==",
+        "icono": "https://www.celda.com.ar/wp-content/themes/celda/common/image.php?image=https://www.celda.com.ar/wp-content/uploads/2020/11/0000_all_l_hboall-HBO-POP-Black.png&width=400&height=400&cropratio=false",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQQ=="
       },
       {
         "name": "HBO Max",
@@ -3168,12 +3189,16 @@
       {
         "name": "HBO Signature",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/49/CH_LOGO/160/160/0/0/3657655307500.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Ac1oMAkcL"
+        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Ac1oMAkcL",
+        "drm_license_uri": "NBAH",
+        "type": "CLEARKEY"
       },
       {
         "name": "HBO Xtreme",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/160/160/0/0/6041444607334.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0AcloMAkcL"
+        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0AcloMAkcL",
+        "drm_license_uri": "LwAVQQ==",
+        "type": "CLEARKEY"
       }
     ]
   },
