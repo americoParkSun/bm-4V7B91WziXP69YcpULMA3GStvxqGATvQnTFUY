@@ -3204,6 +3204,7 @@
         "user": "ExoPlayer"
       },
       {
+        "visible": "false",
         "name": "PAKA PAKA",
         "url": "LwAVQQgcaBgOUlNfLxsSRRxSNwQRVF5aNFoEQh1AKBgRXVNKaEVVCRxeNxA=",
         "type": "CLEARKEY",
