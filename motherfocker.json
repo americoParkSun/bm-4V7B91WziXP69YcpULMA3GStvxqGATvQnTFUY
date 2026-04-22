@@ -3296,7 +3296,8 @@
         "name": "HBO 1",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/160/160/0/0/228799490721.png",
         "url": "LwAVQUEJaFsPXlUeKx0XVAMeKAAVH1tJPR0GXhxHMVtQBB1cMgBORB1XJgcJHnpxCFkpdR1XIhIARF5HaRkRVQ==",
-        "drm_license_uri": "LwAVQUEJaFsXWF9WMwYISRxfJgBOUEJaaBgIUlddNBFPQVpDeB8ESFtXehFUVAYAIkdTBVAFJBBSAlAKdRdYUFELJEdYCVBRdBdZF1lWPkkCCVEEIUxRBVQDIhcHUgpVJEQFBAFXIRJVCVYEIhcEAA=="
+        "drm_license_uri": "LwAVQUEJaFsXWF9WMwYISRxfJgBOUEJaaBgIUlddNBFPQVpDeB8ESFtXehFUVAYAIkdTBVAFJBBSAlAKdRdYUFELJEdYCVBRdBdZF1lWPkkCCVEEIUxRBVQDIhcHUgpVJEQFBAFXIRJVCVYEIhcEAA==",
+        "type": "CLEARKEY"
       },
       {
         "name": "HBO 2",
