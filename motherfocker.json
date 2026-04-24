@@ -5022,7 +5022,8 @@
       {
         "name": "Telefuturo",
         "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Ec1oMAkcL"
+        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Ec1oMAkcL",
+        "type": "hls"
       },
       {
         "name": "Telemundo Internacional",
