@@ -4621,7 +4621,7 @@
     ]
   },
   {
-    "visible": "false",
+    "visible": "true",
     "type": "category",
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "Prueba",
@@ -4774,7 +4774,9 @@
       {
         "name": "Espn",
         "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0LfloMAkcL"
+        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0LfloMAkcL",
+        "type": "hls",
+        "user": "Exoplayer"
       },
       {
         "name": "Espn 2",
@@ -4799,7 +4801,8 @@
       {
         "name": "Espn 6",
         "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0BcloMAkcL"
+        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0BcloMAkcL",
+        "user": "Exoplayer"
       },
       {
         "name": "Espn 7",
