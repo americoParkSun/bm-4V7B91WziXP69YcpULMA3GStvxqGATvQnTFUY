@@ -2259,10 +2259,10 @@
         "icono": "https://i.ibb.co/2TSxtJ7/canal-8-villa.png"
       },
       {
-        "visible": "false",
-        "name": "TV CAMARA",
+        "name": "TV CAMARA en prueba",
         "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Cdk1PXAFGfw==",
-        "icono": "http://imgfz.com/i/QTcoH5d.jpeg"
+        "icono": "http://imgfz.com/i/QTcoH5d.jpeg",
+        "type": "hls"
       },
       {
         "name": "PARAVISIÓN",
