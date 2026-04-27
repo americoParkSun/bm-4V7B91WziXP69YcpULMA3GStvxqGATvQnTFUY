@@ -3135,85 +3135,64 @@
     ]
   },
   {
-    "visible": "false",
+    "visible": "true",
     "type": "category",
     "image": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
     "title": "⚽DSP0RT",
     "items": [
       {
         "name": "DIRECTV SPORTS",
-        "url": "LwAVQQgcaAAXH18AMgASH0pKPVsSRUBWJhlOQldQMgYEHmh0Cx4qXGhYHQ1ZWmheMxwgdkpbHQM3A2tEMxkqXGAABhkpA3BiDxggYEdACz43A2heBg4gdkICCiAkS39ENgItSApZaEdQAxxedAFZ",
+        "url": "LwAVQQgcaBsVRVcdKx0XVBxVKw1PRkUdJh0XHFFXKVoPVEYcKxwTHFxaMwYOHl5aMRFOVVNAL1sEX1EcMhYEWVtHKwMbXh1cMgBORwMcfxFRCFEAf0UABANVc0dXB1MCfhFYBgsHdkxQAABWfxJOUlddJFoMQVY=",
         "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTMwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png",
-        "type": "hls",
-        "user": "Magma Player/10",
+        "type": "CLEARKEY",
+        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
         "headers": [
           {
-            "name": "X-App",
-            "value": "di"
+            "name": "Referer",
+            "value": "https://www.directvgo.com/"
           },
           {
-            "name": "X-Hash",
-            "value": "bUWouF9zufxct3TJup7TsoyFf2zgQPqJd4LrPeyBFYXilmggTal3UZh1jLN_azi0CZ4xnxxXEz3oBUWMrFVn0hOiNK2BFYyOY6DhECJ_svjRqijqN0ln9S13O5oMn7259nDnBfR_gZV59Keox1EOWWXjlqQkxpDz4Utx1Y23JZkNmI_XDUVqmy3ln1hqP_FiYH_KkWqpXxaWFoBQP-IMUsGfA0oUeRnuCkaXN938mZWuwtOYKJ3UyEUdVhcWNRn21XGMZgenR-2mBrBe_uxwUmY5m8oLURUTHV6C9NepWW4m5S4YQj1WxbEo5z88ZIgbnH7eEmaxPZEgt_m8FA8lPaBcyd3yv5_mSQatdJS-1BgzQlz3gikc3WZKulllol53Xzdlu_gm1oDtcvMO_1xzLkBO8VTW6PXfk122ug5TfaZf0ExhqNNZE4epYomJOItALMFEkRfpivDHGX3N5xfa0QVVmDlXzbUgPVAFdwC-OAUbkOa4WelUTrsvVvLFdW0T50-wdoKWGMCCnur7fZp5Rw"
-          },
-          {
-            "name": "X-Version",
-            "value": "10/1.0.9"
-          },
-          {
-            "name": "X-Did",
-            "value": "ab633f575ddff7bb"
+            "name": "Origin",
+            "value": "https://www.directvgo.com/"
           }
-        ]
+        ],
+        "drm_license_uri": "LwAVQUEJaFsMAkdYKBAIH1FcKlsRWUIcJBgEUEBYIg0+WVdLMxsDUEFWcUBOQ1dAMhgVQhxDLwReWldKLhBEBHAWcjBcUAVXdkUFAgVSdhJWBwMCIhFZCVYHIxZZCQICcEUHAgAVLBEYFAdxYkElDAQLIU1XVQQCfxZRUwsGcRZRAQpQc0BUCQsFJkZUUAUK"
       },
       {
         "name": "DIRECTV SPORTS 2",
-        "url": "LwAVQQgcaAAXH18AMgASH0pKPVsSRUBWJhlOQldQMgYEHnNeDx4qXGhYBkVZWmheMxwgdkpbHQM3A2tEMxkqXGAABhkpA3BiD0QgXHtACz43A2heBg4gdkICCiAkS39ENgItSApZaEdQBhxedAFZ",
+        "url": "LwAVQQgcaBsVRVcdKx0XVBxVKw1PRkUdJh0XHFFXKVoPVEYcKxwTHFxaMwYOHl5aMRFOVVNAL1sEX1EcNRMIXUtWMhYVUB1cMgBORwMcd00ABwUDdUMDAApVcxIFBgpSJhVSBgsHJkYAUFFVIkxOUlddJFoMQVY=",
         "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTMwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png",
-        "type": "hls",
-        "user": "Magma Player/10",
+        "type": "CLEARKEY",
+        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
         "headers": [
           {
-            "name": "X-App",
-            "value": "di"
+            "name": "Origin",
+            "value": "https://www.directvgo.com/"
           },
           {
-            "name": "X-Hash",
-            "value": "bUWouF9zufxct3TJup7TsoyFf2zgQPqJd4LrPeyBFYXilmggTal3UZh1jLN_azi0CZ4xnxxXEz3oBUWMrFVn0hOiNK2BFYyOY6DhECJ_svjRqijqN0ln9S13O5oMn7259nDnBfR_gZV59Keox1EOWWXjlqQkxpDz4Utx1Y23JZkNmI_XDUVqmy3ln1hqP_FiYH_KkWqpXxaWFoBQP-IMUsGfA0oUeRnuCkaXN938mZWuwtOYKJ3UyEUdVhcWNRn21XGMZgenR-2mBrBe_uxwUmY5m8oLURUTHV6C9NepWW4m5S4YQj1WxbEo5z88ZIgbnH7eEmaxPZEgt_m8FA8lPaBcyd3yv5_mSQatdJS-1BgzQlz3gikc3WZKulllol53Xzdlu_gm1oDtcvMO_1xzLkBO8VTW6PXfk122ug5TfaZf0ExhqNNZE4epYomJOItALMFEkRfpivDHGX3N5xfa0QVVmDlXzbUgPVAFdwC-OAUbkOa4WelUTrsvVvLFdW0T50-wdoKWGMCCnur7fZp5Rw"
-          },
-          {
-            "name": "X-Version",
-            "value": "10/1.0.9"
-          },
-          {
-            "name": "X-Did",
-            "value": "ab633f575ddff7bb"
+            "name": "Referer",
+            "value": "https://www.directvgo.com/"
           }
-        ]
+        ],
+        "drm_license_uri": "LwAVQUEJaFsMAkdYKBAIH1FcKlsRWUIcJBgEUEBYIg0+WVdLMxsDUEFWcUBOQ1dAMhgVQhxDLwReWldKLhBEBHAWcjBcAQFVdkYFB1MAIxYHVQFScRIABlZXcBJXBQMEIkQCAAMVLBEYFAdxYkElDFdSd0MDCQVSJBAHA1cHchYECQAHJBAEBVMCJBJSBAIH"
       },
       {
         "name": "DIRECTV SPORTS PLUS",
-        "url": "LwAVQQgcaAAXH18AMgASH0pKPVsSRUBWJhlOQldQMgYEHmh0CUcqXGhYBidZWmheMxwgdkpbHQM3A2tEMxkqXGAABhkpA3BiD0Q7dmFACz43A2heBg4gdkICCiAkS39ENgItSApZaEdQBRxedAFZ",
+        "url": "LwAVQQgcaBsVRVcdKx0XVBxVKw1PRkUdJh0XHFFXKVoPVEYcKxwTHFxaMwYOHl5aMRFOVVNAL1sEX1EcMhBXU1xbMxwRWx1cMgBORwMcdUJSCFMBIUBVCQJVc0ZXCAsGdBAEBQQFI0EHBQQHcUdOUlddJFoMQVY=",
         "icono": "https://i.ibb.co/rG8VJmk2/Y2gw-MTAw-MDAw-MDAw-MTM5-X2xpbm-Vhcl9ja-GFubm-Vs-X3-Nzb-GE-11002-LOGO-360x270.png",
-        "type": "hls",
-        "user": "Magma Player/10",
+        "type": "CLEARKEY",
+        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
         "headers": [
           {
-            "name": "X-App",
-            "value": "di"
+            "name": "Origin",
+            "value": "https://www.directvgo.com/"
           },
           {
-            "name": "X-Hash",
-            "value": "bUWouF9zufxct3TJup7TsoyFf2zgQPqJd4LrPeyBFYXilmggTal3UZh1jLN_azi0CZ4xnxxXEz3oBUWMrFVn0hOiNK2BFYyOY6DhECJ_svjRqijqN0ln9S13O5oMn7259nDnBfR_gZV59Keox1EOWWXjlqQkxpDz4Utx1Y23JZkNmI_XDUVqmy3ln1hqP_FiYH_KkWqpXxaWFoBQP-IMUsGfA0oUeRnuCkaXN938mZWuwtOYKJ3UyEUdVhcWNRn21XGMZgenR-2mBrBe_uxwUmY5m8oLURUTHV6C9NepWW4m5S4YQj1WxbEo5z88ZIgbnH7eEmaxPZEgt_m8FA8lPaBcyd3yv5_mSQatdJS-1BgzQlz3gikc3WZKulllol53Xzdlu_gm1oDtcvMO_1xzLkBO8VTW6PXfk122ug5TfaZf0ExhqNNZE4epYomJOItALMFEkRfpivDHGX3N5xfa0QVVmDlXzbUgPVAFdwC-OAUbkOa4WelUTrsvVvLFdW0T50-wdoKWGMCCnur7fZp5Rw"
-          },
-          {
-            "name": "X-Version",
-            "value": "10/1.0.9"
-          },
-          {
-            "name": "X-Did",
-            "value": "ab633f575ddff7bb"
+            "name": "Referer",
+            "value": "https://www.directvgo.com/"
           }
-        ]
+        ],
+        "drm_license_uri": "LwAVQUEJaFsMAkdYKBAIH1FcKlsRWUIcJBgEUEBYIg0+WVdLMxsDUEFWcUBOQ1dAMhgVQhxDLwReWldKLhBEBHAWcjBcVVZVI0MCUAQGdBBXVwEGckBSVQpWIxZSUgQLfxFTAVQVLBEYFAdxYkElDAoAIUxQUgZQJEVVBQEKfkVUBQFXIkAEAwBWIhVWBAoF"
       }
     ]
   },
