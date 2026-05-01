@@ -3604,7 +3604,22 @@
         "icono": "https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/160/160/0/0/228799490721.png",
         "url": "LwAVQUEJaFsEVVVWahgIR1cDdFkJQxxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CAnxJIAMvW1EGDh0WWFEBKwMoW11aCiAsBX5ZEkEtW3tKCR1VSX93Hh0tcnhEHiwzXntZKB0tA0pDIxk0R2tJCRg7eX9FFRlYBWcABQICX2BJC0Uvc2oDPwQFXGRVHTMnS1N1fhgDXH9FDh0WWFEBEQ4CA15FJRhYW2h0chIAZmNaCB0rWmhnCRwsdmBYCTAoAnxZHkcsA38BDh0WWFEBEQ4CA15FJRhYQWhwDkIoW1UHCQ4GA3x3CkAtZXcACQ4CA393JEAvS1FHCCAKRntaMB04A0pDHSNUAWoBKx8oW11aCg4KS313DgMsWAJHCQ4oA39ZLEcvWHtADhkzXVZeKx47ZwtDHTcoB3tZIEAvS1UBCTAsBXtaMB0DZnQHH0cvXVEACQQDAwdJDh4ORn5wDQ47aXxJJiNYRGoBFUUCXHQDJiNYRHtZKAMtcngCJBkWWH1aDRsFeWBEJA4OR35JDgMsYgZKCg40RHxZHgEsZXcDDh0WWGtrER8oW11aCh4KA3taMB0CAwsCJBkvXVFKDkI2S1UCCzAkAXxwMEAvWEUHCDJQCBxVajg1aHMDM0M7aVFyGDsTU1p1DUUFRx90JFk4VWJfEBcvYUh+DDUSZ0ULJTpZf1VDDDcPRHpQcwIZe2d5PzgyZwQKBhEKBwdlMzUSAUR3KiAQXVN2IElcHl5aMRFOUgZWIwdOeXB8DzBOYnNsCx0XVG1XJgcJblddJFspc317A1oMQVY=",
         "drm_license_uri": "LwAVQUEJaFsMAkdYKBAIH1FcKlsRWUIcJBgEUEBYIg0+WVdLMxsDUEFWcUBOQ1dAMhgVQhxDLwReWldKLhBEBHAWcjBcBAECcEZZAlQHdkVRV1NQdBIDAlMDJRECVQtVcUBZU1EVLBEYFAdxYkElDAIEckAAAQFQfkZXUwMBc0NTAARWd0UFCFZRJBIAUgAL",
-        "type": "CLEARKEY"
+        "type": "CLEARKEY",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.ar"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.ar/"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "https://portal.app.flow.com.ar"
+          }
+        ],
+        "user": "ExoPlayer"
       },
       {
         "name": "HBO 2",
