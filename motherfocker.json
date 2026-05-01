@@ -1,6 +1,5 @@
 [
   {
-    "visible": "false",
     "titlesas": "NUEVA SECCIÓN",
     "itemaass": [
       {
@@ -2116,6 +2115,7 @@
         "type": "PELICULA"
       }
     ],
+    "visible": "false",
     "last_sync": "2026-04-28 22:50:24",
     "msg": "Actualizado desde NoteServer (Lista)"
   },
