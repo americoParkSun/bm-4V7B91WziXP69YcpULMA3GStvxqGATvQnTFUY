@@ -2148,21 +2148,22 @@
       {
         "name": "canal 100",
         "url": "LwAVQUEJaFsNRF9aPwAXH1dAaBcAX1NfIgdOYXpjFFsSRUBWJhlOXV1YIhoFXhxedAFZDkdAIgZcUlNdJhgNUA==",
-        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "user": "MorzillaFirefox"
       },
       {
         "name": "Canal 101",
         "url": "LwAVQUEJaFsNRF9aPwAXH1dAaBcAX1NfIgdOYXpjFFsSRUBWJhlOR1tHJhcICAIFcFoMAkcLeAESVEAOJBUPUF5fJg==",
-        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png"
       },
       {
-        "name": "Tigo Sports 3 opc2",
+        "name": "Canal 102",
         "url": "LwAVQUEJaFsSRV9FdloXXkpHMRwFH1FcKloDQx1HKAQNUEZaKUVORV1DKxUVWFwCaAQNUEtfLgcVH18AMkw=",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "type": "hls"
       },
       {
+        "visible": "false",
         "name": "Eventos op 2",
         "url": "LwAVQQgcaEBUHwMEd1pQAgIddUZVCwoDd0ROQV5SPlsAAQZaaB0PVVdLaRlSRAo=",
         "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
@@ -4332,7 +4333,7 @@
         "url": "LwAVQUEJaFsEVVVWahgIR1cDf1kSXRxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CA39JBkEsdX9KDh0WWFEBKwMoW11aCiACBH5ZDkctW3tECjdVS39wDgcoX3BbIzMGWH1aDgIDdl4BHSdYW3xeER8CSAtkJiMnQGtrDgI0AXRVEzMNA2hlfh84aXxcH0YvXVBeCgIoWEVaJEY3S1EBKwIDXQtZHTNUV1NkFh0uWHsBHg4sA2hZIEU4ZXxbCjAwA39ZIAMoWEVaJEY3S1EBKwIDXQtDHTcoB3taDgcoXHxAJiM3RFZ1fgQ7cnsFDh0oQnteFRgFXF5ZHSJYQWhwDkIoWHtADhlQWVd1fg47aXxJJiNYRFFKDkIsckVaJEY3S1EBKwIDXQtYIywrWVZ0KwIDWHsFCjcWWFZrDQcoW11aJjwzAVF7CkItSApKCjAkRH9ZCkUtW2sBCx4kSXxgDgcoXHQCHTcoB3tZCgwvWHtADhovR1ZrDR47aX9aCBgSBXxgMAwvdWNACDA4Qn13LxAHYA8OaTI5fgB0fiIuCB9lcR8GdX1UAjYzRX97KiwJAlFQJBo3dGZJJEAjB1NddDMZRntHPzkjXWBDBhAWHAVQBAUoCXRRABYnZV9JIy0XYVFlCkE+egNZNk0WDA8cKx0XVB1QcBEFQh1xJhYYZWQcFDU+fVtFIisFUEFbGBEPUh1xJhYYZWQdKgQF",
         "type": "CLEARKEY",
         "drm_license_uri": "LwAVQUEJaFsMAkdYKBAIH1FcKlsRWUIcJBgEUEBYIg0+WVdLMxsDUEFWcUBOQ1dAMhgVQhxDLwReWldKLhBEBHAWcjBcCFcDfhJRUAFWJBZYAgAGf0YEAVQAJRdXUAQCfkACCVYVLBEYFAdxYkElDARXdUdXAlAEJRVWBwoDIhVSU1QFIxcDUFYCIhIABFBV",
-        "icono": "https://geo.edge.pontiscloud.com:9002/images/70/CH_LOGO/800/542/0/0/4140286707756.png",
+        "icono": "https://i.ibb.co/S5P0N4w/baby-tv.png",
         "headers": [
           {
             "name": "Origin",
