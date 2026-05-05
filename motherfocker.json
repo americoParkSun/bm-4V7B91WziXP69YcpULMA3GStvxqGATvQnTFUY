@@ -2193,6 +2193,28 @@
         "icono": "https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png"
       },
       {
+        "name": "América Paraguay",
+        "url": "LwAVQUEJaFsEVVVWahgIR1cDf1kSXRxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CA39JBkEsdX9KDh0WWFEBKwMoW11aCiACBH5ZDkctW3tECjdVS39wDgcoX3BbIzMGWH1aDgIDdl4BHSdYW3xeER8CSAtkJiMnQGtrDgI0AXRVEzMNA2hlfh84aXxcH0YvXVBeCgIoWEVaJEY3S1EBKwIDXQtZHTNUV1NkFh0uWHsBHg4sA2hZIEU4ZXxbCjAwA39ZIAMoWEVaJEY3S1EBKwIDXQtDHTcoB3taDgcoXHxAJiM3RFZ1fgQ7cnsFDh0oQnteFRgFXF5ZHSJYQWhwDkIoWHtADhlQWVd1fg47aXxJJiNYRFFKDkIsckVaJEY3S1EBKwIDXQtYIywrWVZ0KwIDWHsFCjcWWFZrDQcoW11aJjwzAVF7CkItSApKCjAkRH9ZCkUtW2sBCx4kSXxgDgcoXHQCHTcoB3tZCgwvWHtADhovR1ZrDR47aX9aCBgSBXxgMAwvdWNACDA4Qn13LxAHYA8OaTI5fgB0fiIuCB9lcR8GdX1UAjYzRX97KiwJAlFQJBo3dGZJJEAjB1NddDMZRntHPzkjXWBDBhAWHAVQBAUoCXRRABYnZV9JIy0XYVFlCkE+egNZNk0WDA8cKx0XVB1QcBEFQh1yKhETWFFSGCQ4HmFyGDgIR1dsIxUSWW1WKRdOcF9WNR0CUG1jHloMQVY=",
+        "icono": "https://i.ibb.co/6Rnq8X4b/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsMAkdYKBAIH1FcKlsRWUIcJBgEUEBYIg0+WVdLMxsDUEFWcUBOQ1dAMhgVQhxDLwReWldKYkEjFAd3ehAAUFAGJBcHAgIFI0JWBgYKcEBRVwVQIkRTUgIEf0FRF1lWPh0FFAdxYkElDAZWcxVQCQUHcEAFVApWdU0ACQcDcBBVCARQfxVUCAZV",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "Android"
+          },
+          {
+            "name": "Referer",
+            "value": "Android"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "Android"
+          }
+        ],
+        "user": "Android"
+      },
+      {
         "name": "SNT",
         "url": "LwAVQUEJaFsAXVBSagQYHEFdM1kSX0YdNAATVFNeaRkEVVtSMx0QRFdAMwYEUF8dJBsMHltdIxEZH18AMkw=",
         "icono": "https://i.ibb.co/bjfm9sfR/image.png"
@@ -2257,21 +2279,66 @@
         "icono": "https://i.ibb.co/s9Qr9gmw/image.png"
       },
       {
+        "name": "A24 Paraguay",
+        "url": "LwAVQUEJaFsEVVVWahgIR1cDf1kSXRxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CA39JBkEsdX9KDh0WWFEBKwMoW11aCiACBH5ZDkctW3tECjdVS39wDgcoX3BbIzMGWH1aDgIDdl4BHSdYW3xeER8CSAtkJiMnQGtrDgI0AXRVEzMNA2hlfh84aXxcH0YvXVBeCgIoWEVaJEY3S1EBKwIDXQtZHTNUV1NkFh0uWHsBHg4sA2hZIEU4ZXxbCjAwA39ZIAMoWEVaJEY3S1EBKwIDXQtDHTcoB3taDgcoXHxAJiM3RFZ1fgQ7cnsFDh0oQnteFRgFXF5ZHSJYQWhwDkIoWHtADhlQWVd1fg47aXxJJiNYRFFKDkIsckVaJEY3S1EBKwIDXQtYIywrWVZ0KwIDWHsFCjcWWFZrDQcoW11aJjwzAVF7CkItSApKCjAkRH9ZCkUtW2sBCx4kSXxgDgcoXHQCHTcoB3tZCgwvWHtADhovR1ZrDR47aX9aCBgSBXxgMAwvdWNACDA4Qn13LxAHYA8OaTI5fgB0fiIuCB9lcR8GdX1UAjYzRX97KiwJAlFQJBo3dGZJJEAjB1NddDMZRntHPzkjXWBDBhAWHAVQBAUoCXRRABYnZV9JIy0XYVFlCkE+egNZNk0WDA8cKx0XVB1QcBEFQh1ydUA+YWscFDU+fVtFIisFUEFbGBEPUh1ydUA+YWsdKgQF",
+        "icono": "https://i.ibb.co/JwSYZMy9/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsMAkdYKBAIH1FcKlsRWUIcJBgEUEBYIg0+WVdLMxsDUEFWcUBOQ1dAMhgVQhxDLwReWldKYkEjFAd3ehADBwJRIRUAAQMEf0RWAFMGckNTVARWcRIHUwYFIhBSF1lWPh0FFAdxYkElDAoBIkxWV1NQdhdSAgsCchUFBFYAc0AHV1NQdhYDU1AH",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "Android"
+          },
+          {
+            "name": "Referer",
+            "value": "Android"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "Android"
+          }
+        ],
+        "user": "Android"
+      },
+      {
         "name": "VISIÓN TV VILLARRICA",
         "url": "LwAVQUEJaFsTVUEAIBEPH1ZWNBAEQVNBJhMUUEsdKREVHkFSMxENWEZSKwAXHkFSMxENWEZSKwAXHlFbMhoKXVtAM1oMAkcLeBUFXFtdehoAUltcKQ==",
         "icono": "https://i.ibb.co/2TSxtJ7/canal-8-villa.png"
       },
       {
+        "visible": "false",
         "name": "TV CAMARA en prueba",
         "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Cdk1PXAFGfw==",
         "icono": "http://imgfz.com/i/QTcoH5d.jpeg",
         "type": "hls"
       },
       {
-        "name": "PARAVISIÓN",
-        "url": "LwAVQUEJaFsEVVVWahgIR1cCdlkJQxxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CBX93BgMvdVUHDh0WWFEBKwMoW11aCiAGA35ZAkUucgZKCjAgRH9nHkUoWEVaJDMnAVNwDkIoWAtAJiw7XX4BCg47ZmBJC0UzfmR1fj0zdwtxJBkCR2cDARI1dl4BHSJYWmtrCRs5A2RGHkVYdX5KDgcoX3xfJEcvQVABchI4A2BGH0YNWntZKB0sW1FECiACSWhZCg4vdWhfCDMoAX9aDgcoX3xfJEcvQVABchIAZmNaCB0oWH5wDR4Ddl5fJRozV1NkFh0uWHtaCzcrWmhrHQQ4A2RVJiMwWH1aDh0tcnhHHiwJV1EBEQ4CA15FJRosWH1ZBgcoX3xfJEcvQVABchI7eWRKHiwzQVABcx0uW3NADho3SFBwDkIoXFoDIzwjS31afwIsZVVLCx4kSH5ZCkYtW3cCCjcoQnteAUU7cnsFDh44SHtaMB0CAwsCJBkvXVFKDkI2S1UCCzAkAXxwMEAvWEUHCDJQCBwGJi5QfUJnNT0EQ1EDMzhSa0R+DA0NBVpnLgQ2R2BiMUwjYnFeEVkUcmdBc0JTWH9KdjcIfVhEKgEjXnFwJB0+CUZBEBA5aWpVJEVRW0hCJDcyVwBaFklcHl5aMRFOUgZWIwdOYXNhBiIoYnt8CSsiBR1gBistWERWGBAAQlpsIhoCHmJyFTU3eGF6CDo+cgYdKgQF",
-        "icono": "https://directostv.teleame.com/wp-content/uploads/2020/04/Paravisi%C3%B3n-en-vivo-Online-1.png",
-        "drm_license_uri": "LwAVQUEJaFsXWF9WMwYISRxfJgBOUEJaaBgIUlddNBFPQVpDeB8ESFtXehYFCVcLJE0DAgBWIURTBlcLIRJVV1QDJBICVAoGchVVF1lWPklTCAMLIk1ZCAFRckNRUgFVJkUHAwMGJUFTUAMBJBdYAA==",
+        "name": "TV CÁMARA",
+        "url": "LwAVQUEJaFsEVVVWahgIR1cDf1kSXRxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CA39JBkEsdX9KDh0WWFEBKwMoW11aCiACBH5ZDkctW3tECjdVS39wDgcoX3BbIzMGWH1aDgIDdl4BHSdYW3xeER8CSAtkJiMnQGtrDgI0AXRVEzMNA2hlfh84aXxcH0YvXVBeCgIoWEVaJEY3S1EBKwIDXQtZHTNUV1NkFh0uWHsBHg4sA2hZIEU4ZXxbCjAwA39ZIAMoWEVaJEY3S1EBKwIDXQtDHTcoB3taDgcoXHxAJiM3RFZ1fgQ7cnsFDh0oQnteFRgFXF5ZHSJYQWhwDkIoWHtADhlQWVd1fg47aXxJJiNYRFFKDkIsckVaJEY3S1EBKwIDXQtYIywrWVZ0KwIDWHsFCjcWWFZrDQcoW11aJjwzAVF7CkItSApKCjAkRH9ZCkUtW2sBCx4kSXxgDgcoXHQCHTcoB3tZCgwvWHtADhovR1ZrDR47aX9aCBgSBXxgMAwvdWNACDA4Qn13LxAHYA8OaTI5fgB0fiIuCB9lcR8GdX1UAjYzRX97KiwJAlFQJBo3dGZJJEAjB1NddDMZRntHPzkjXWBDBhAWHAVQBAUoCXRRABYnZV9JIy0XYVFlCkE+egNZNk0WDA8cKx0XVB1QcxEFQh1nESsiUF9SNRVOYnNsCx0XVG1XJgcJblddJFs1Z21wJhkAQ1MdKgQF",
+        "icono": "https://i.ibb.co/ZdsYJGJ/tvcamara.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsMAkdYKBAIH1FcKlsRWUIcJBgEUEBYIg0+WVdLMxsDUEFWcUBOQ1dAMhgVQhxDLwReWldKLhBEBHAWcjBcCAEGcENRBVNXIkBVBVZQdBZTAlBWf01ZBwdSIUYHBAoVLBEYFAdxYkElDAFXd0cEAVMEfhBZVwVRcBUAAwoKcBdSVQAHJRBVUwRS",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "Android"
+          },
+          {
+            "name": "Referer",
+            "value": "Android"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "Android"
+          }
+        ],
+        "user": "Android"
+      },
+      {
+        "name": "ABC TV",
+        "url": "LwAVQUEJaFsEVVVWahgIR1cCdlkJQxxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CBX93BgMvdVUHDh0WWFEBKwMoW11aCiAGA35ZAkUucgZKCjAgRH9nHkUoWEVaJDMnAVNwDkIoWAtAJiw7XX4BCg47ZmBJC0UzfmR1fj0zdwtxJBkCR2cDARI1dl4BHSJYWmtrCRs5A2RGHkVYdX5KDgcoX3xfJEcvQVABchI4A2BGH0YNWntZKB0sW1FECiACSWhZCg4vdWhfCDMoAX9aDgcoX3xfJEcvQVABchIAZmNaCB0oWH5wDR4Ddl5fJRozV1NkFh0uWHtaCzcrWmhrHQQ4A2RVJiMwWH1aDh0tcnhHHiwJV1EBEQ4CA15FJRosWH1ZBgcoX3xfJEcvQVABchI7eWRKHiwzQVABcx0uW3NADho3SFBwDkIoXFoDIzwjS31afwIsZVVLCx4kSH5ZCkYtW3cCCjcoQnteAUU7cnsFDh44SHtaMB0CAwsCJBkvXVFKDkI2S1UCCzAkAXxwMEAvWEUHCDJQCBwGJi5QfUJnNT0EQ1EDMzhSa0R+DA0NBVpnLgQ2R2BiMUwjYnFeEVkUcmdBc0JTWH9KdjcIfVhEKgEjXnFwJB0+CUZBEBA5aWpVJEVRW0hCJDcyVwBaFklcHl5aMRFOUgdWIwdOcHBwGCA3bnEHaCcgbn5aMRE+VVNALysEX1EcBjYibmZlGDdVH19DIw==",
+        "icono": "https://i.ibb.co/d4s6q5mD/image.png",
+        "drm_license_uri": "LwAVQUEJaFsXWF9WMwYISRxfJgBOUEJaaBgIUlddNBFPQVpDeB8ESFtXehdRU1dVcEFWAgFRdUJVBAYGdUBSA1BXcxFWB1QAcRJUF1lWPkkEUAMFdUBSAgQEI0xQBVECI0FSVwNWJhJTAFQDd0EHVw==",
         "type": "CLEARKEY",
         "headers": [
           {
@@ -2290,10 +2357,10 @@
         "user": "ExoPlayer"
       },
       {
-        "name": "ABC TV",
-        "url": "LwAVQUEJaFsEVVVWahgIR1cCdlkJQxxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CBX93BgMvdVUHDh0WWFEBKwMoW11aCiAGA35ZAkUucgZKCjAgRH9nHkUoWEVaJDMnAVNwDkIoWAtAJiw7XX4BCg47ZmBJC0UzfmR1fj0zdwtxJBkCR2cDARI1dl4BHSJYWmtrCRs5A2RGHkVYdX5KDgcoX3xfJEcvQVABchI4A2BGH0YNWntZKB0sW1FECiACSWhZCg4vdWhfCDMoAX9aDgcoX3xfJEcvQVABchIAZmNaCB0oWH5wDR4Ddl5fJRozV1NkFh0uWHtaCzcrWmhrHQQ4A2RVJiMwWH1aDh0tcnhHHiwJV1EBEQ4CA15FJRosWH1ZBgcoX3xfJEcvQVABchI7eWRKHiwzQVABcx0uW3NADho3SFBwDkIoXFoDIzwjS31afwIsZVVLCx4kSH5ZCkYtW3cCCjcoQnteAUU7cnsFDh44SHtaMB0CAwsCJBkvXVFKDkI2S1UCCzAkAXxwMEAvWEUHCDJQCBwGJi5QfUJnNT0EQ1EDMzhSa0R+DA0NBVpnLgQ2R2BiMUwjYnFeEVkUcmdBc0JTWH9KdjcIfVhEKgEjXnFwJB0+CUZBEBA5aWpVJEVRW0hCJDcyVwBaFklcHl5aMRFOUgdWIwdOcHBwGCA3bnEHaCcgbn5aMRE+VVNALysEX1EcBjYibmZlGDdVH19DIw==",
-        "icono": "https://i.ibb.co/d4s6q5mD/image.png",
-        "drm_license_uri": "LwAVQUEJaFsXWF9WMwYISRxfJgBOUEJaaBgIUlddNBFPQVpDeB8ESFtXehdRU1dVcEFWAgFRdUJVBAYGdUBSA1BXcxFWB1QAcRJUF1lWPkkEUAMFdUBSAgQEI0xQBVECI0FSVwNWJhJTAFQDd0EHVw==",
+        "name": "PARAVISIÓN",
+        "url": "LwAVQUEJaFsEVVVWahgIR1cCdlkJQxxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CBX93BgMvdVUHDh0WWFEBKwMoW11aCiAGA35ZAkUucgZKCjAgRH9nHkUoWEVaJDMnAVNwDkIoWAtAJiw7XX4BCg47ZmBJC0UzfmR1fj0zdwtxJBkCR2cDARI1dl4BHSJYWmtrCRs5A2RGHkVYdX5KDgcoX3xfJEcvQVABchI4A2BGH0YNWntZKB0sW1FECiACSWhZCg4vdWhfCDMoAX9aDgcoX3xfJEcvQVABchIAZmNaCB0oWH5wDR4Ddl5fJRozV1NkFh0uWHtaCzcrWmhrHQQ4A2RVJiMwWH1aDh0tcnhHHiwJV1EBEQ4CA15FJRosWH1ZBgcoX3xfJEcvQVABchI7eWRKHiwzQVABcx0uW3NADho3SFBwDkIoXFoDIzwjS31afwIsZVVLCx4kSH5ZCkYtW3cCCjcoQnteAUU7cnsFDh44SHtaMB0CAwsCJBkvXVFKDkI2S1UCCzAkAXxwMEAvWEUHCDJQCBwGJi5QfUJnNT0EQ1EDMzhSa0R+DA0NBVpnLgQ2R2BiMUwjYnFeEVkUcmdBc0JTWH9KdjcIfVhEKgEjXnFwJB0+CUZBEBA5aWpVJEVRW0hCJDcyVwBaFklcHl5aMRFOUgZWIwdOYXNhBiIoYnt8CSsiBR1gBistWERWGBAAQlpsIhoCHmJyFTU3eGF6CDo+cgYdKgQF",
+        "icono": "https://directostv.teleame.com/wp-content/uploads/2020/04/Paravisi%C3%B3n-en-vivo-Online-1.png",
+        "drm_license_uri": "LwAVQUEJaFsXWF9WMwYISRxfJgBOUEJaaBgIUlddNBFPQVpDeB8ESFtXehYFCVcLJE0DAgBWIURTBlcLIRJVV1QDJBICVAoGchVVF1lWPklTCAMLIk1ZCAFRckNRUgFVJkUHAwMGJUFTUAMBJBdYAA==",
         "type": "CLEARKEY",
         "headers": [
           {
