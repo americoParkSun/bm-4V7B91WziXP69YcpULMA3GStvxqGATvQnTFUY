@@ -1,21 +1,175 @@
 [
-  {
-    "name": "ESTRENOS 2024",
-    "samples": [
-      {
-        "name": "Nombre Película",
-        "id": "00001",
-        "url": "https://callistanise.com/v/gzt3qg4dt0md",
-        "icono": "https://i.ibb.co/JwSYZMy9/image.png",
-        "iconoHorizontal": "https://fondo-detalles.jpg",
-        "type": "PELICULA",
-        "descripcion": "Sinopsis completa aquí...",
-        "anio": "2024",
-        "duracion": "120 min",
-        "genero": "Acción, Suspenso",
-        "sniff": true,
-        "visible": "true"
-      }
-    ]
-  }
+    {
+        "name": "ESTRENOS 2024",
+        "samples": [
+            {
+                "name": "El drama (2026)",
+                "id": "00001",
+                "url": "https://callistanise.com/v/gzt3qg4dt0md",
+                "icono": "https://tioplus.app/images/placever.jpg",
+                "iconoHorizontal": "https://tioplus.app/images/placever.jpg",
+                "type": "PELICULA",
+                "descripcion": "Una pareja, en los dÃ­as previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creÃ­a saber sobre el otro.",
+                "anio": "2026",
+                "duracion": "N/A",
+                "genero": "AcciÃ³n, AnimaciÃ³n, Aventura, BÃ©lica, Ciencia ficciÃ³n, Comedia, Crimen, Documental, Dorama, Drama, Familia, FantasÃ­a, Historia, Kids, Misterio, MÃºsica, PelÃ­cula de TV, Reality, Romance, Soap, Suspense, Terror, War & Politics, Western, Romance, Comedia, Drama",
+                "sniff": true,
+                "visible": "true"
+            },
+            {
+                "name": "Familia a la deriva (2026)",
+                "id": "00002",
+                "url": "https://callistanise.com/v/th3tm0zrhkqc",
+                "icono": "https://tioplus.app/images/placever.jpg",
+                "iconoHorizontal": "https://tioplus.app/images/placever.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2026",
+                "duracion": "N/A",
+                "genero": "AcciÃ³n, AnimaciÃ³n, Aventura, BÃ©lica, Ciencia ficciÃ³n, Comedia, Crimen, Documental, Dorama, Drama, Familia, FantasÃ­a, Historia, Kids, Misterio, MÃºsica, PelÃ­cula de TV, Reality, Romance, Soap, Suspense, Terror, War & Politics, Western, Familia, Comedia",
+                "sniff": true,
+                "visible": "true"
+            },
+            {
+                "name": "Humint (2026)",
+                "id": "00003",
+                "url": "https://callistanise.com/v/7o4hswdpvbkx",
+                "icono": "https://tioplus.app/images/placever.jpg",
+                "iconoHorizontal": "https://tioplus.app/images/placever.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un agente surcoreano investiga una red de narcotrÃ¡fico en Rusia y debe colaborar con un agente norcoreano, lo cual los lleva correr riesgos y descubrir secretos muy turbios.",
+                "anio": "2026",
+                "duracion": "N/A",
+                "genero": "AcciÃ³n, AnimaciÃ³n, Aventura, BÃ©lica, Ciencia ficciÃ³n, Comedia, Crimen, Documental, Dorama, Drama, Familia, FantasÃ­a, Historia, Kids, Misterio, MÃºsica, PelÃ­cula de TV, Reality, Romance, Soap, Suspense, Terror, War & Politics, Western, Suspense, AcciÃ³n, Drama",
+                "sniff": true,
+                "visible": "true"
+            },
+            {
+                "name": "Embestida (2026)",
+                "id": "00004",
+                "url": "https://callistanise.com/v/saak73f4fxz9",
+                "icono": "https://tioplus.app/images/placever.jpg",
+                "iconoHorizontal": "https://tioplus.app/images/placever.jpg",
+                "type": "PELICULA",
+                "descripcion": "Cuando un catastrÃ³fico huracÃ¡n azota un pueblo costero, el nivel del mar sube rÃ¡pidamente y sus habitantes deben sobrevivir a un montÃ³n de hambrientos tiburones.",
+                "anio": "2026",
+                "duracion": "N/A",
+                "genero": "AcciÃ³n, AnimaciÃ³n, Aventura, BÃ©lica, Ciencia ficciÃ³n, Comedia, Crimen, Documental, Dorama, Drama, Familia, FantasÃ­a, Historia, Kids, Misterio, MÃºsica, PelÃ­cula de TV, Reality, Romance, Soap, Suspense, Terror, War & Politics, Western, Terror, Suspense",
+                "sniff": true,
+                "visible": "true"
+            },
+            {
+                "name": "Intercambiados (2026)",
+                "id": "00005",
+                "url": "https://callistanise.com/v/gbsvr4k36o72",
+                "icono": "https://tioplus.app/images/placever.jpg",
+                "iconoHorizontal": "https://tioplus.app/images/placever.jpg",
+                "type": "PELICULA",
+                "descripcion": "Una pequeÃ±a criatura del bosque intercambia el cuerpo con un majestuoso pÃ¡jaro del valle, lo que los obliga a colaborar para sobrevivir a la aventura mÃ¡s salvaje de sus vidas.",
+                "anio": "2026",
+                "duracion": "N/A",
+                "genero": "AcciÃ³n, AnimaciÃ³n, Aventura, BÃ©lica, Ciencia ficciÃ³n, Comedia, Crimen, Documental, Dorama, Drama, Familia, FantasÃ­a, Historia, Kids, Misterio, MÃºsica, PelÃ­cula de TV, Reality, Romance, Soap, Suspense, Terror, War & Politics, Western, AnimaciÃ³n, Aventura, Comedia, Familia, FantasÃ­a",
+                "sniff": true,
+                "visible": "true"
+            },
+            {
+                "name": "My Nombre es Agneta (2026)",
+                "id": "00006",
+                "url": "https://callistanise.com/v/3zb27qjadh10",
+                "icono": "https://tioplus.app/images/placever.jpg",
+                "iconoHorizontal": "https://tioplus.app/images/placever.jpg",
+                "type": "PELICULA",
+                "descripcion": "En busca de un nuevo comienzo, Agneta, desempleada, acepta un trabajo como âau pairâ en la Provenza que acaba convirtiÃ©ndose en una escapada y un despertar inesperado.",
+                "anio": "2026",
+                "duracion": "N/A",
+                "genero": "AcciÃ³n, AnimaciÃ³n, Aventura, BÃ©lica, Ciencia ficciÃ³n, Comedia, Crimen, Documental, Dorama, Drama, Familia, FantasÃ­a, Historia, Kids, Misterio, MÃºsica, PelÃ­cula de TV, Reality, Romance, Soap, Suspense, Terror, War & Politics, Western, Comedia, Drama, Romance",
+                "sniff": true,
+                "visible": "true"
+            },
+            {
+                "name": "Atrapado en el tiempo (1993)",
+                "id": "00007",
+                "url": "https://callistanise.com/v/y9qvf1pa7fw8",
+                "icono": "https://tioplus.app/images/placever.jpg",
+                "iconoHorizontal": "https://tioplus.app/images/placever.jpg",
+                "type": "PELICULA",
+                "descripcion": "Phil, hombre del tiempo de una cadena de televisiÃ³n, es enviado un aÃ±o mÃ¡s a Punxstawnwey, a cubrir la informaciÃ³n del festival de El dÃ­a de la marmota. En el viaje de regreso, Phil y su equipo se ven sorprendidos por una tormenta que les obliga a regresar a la pequeÃ±a ciudad. A la maÃ±ana siguiente, al levantarse, Phil escucha en el radiodespertador el mismo programa que la maÃ±ana anterior.",
+                "anio": "1993",
+                "duracion": "N/A",
+                "genero": "AcciÃ³n, AnimaciÃ³n, Aventura, BÃ©lica, Ciencia ficciÃ³n, Comedia, Crimen, Documental, Dorama, Drama, Familia, FantasÃ­a, Historia, Kids, Misterio, MÃºsica, PelÃ­cula de TV, Reality, Romance, Soap, Suspense, Terror, War & Politics, Western, Romance, FantasÃ­a, Comedia",
+                "sniff": true,
+                "visible": "true"
+            },
+            {
+                "name": "Icefall (2025)",
+                "id": "00008",
+                "url": "https://callistanise.com/v/3c0isbj8q7uv",
+                "icono": "https://tioplus.app/images/placever.jpg",
+                "iconoHorizontal": "https://tioplus.app/images/placever.jpg",
+                "type": "PELICULA",
+                "descripcion": "Un exmarine y cazador furtivo llamado Harlan (Joel Kinnaman) descubre un aviÃ³n cargado con millones de dÃ³lares que ha caÃ­do en un lago congelado. Tras ser arrestado por una guardabosques nativa, un grupo de criminales y policÃ­as corruptos se enteran de su paradero. Por ello, Harlan y la ranger se unen para luchar e intentar escapar a travÃ©s del peligroso lago antes de que el hielo se derrita.",
+                "anio": "2025",
+                "duracion": "N/A",
+                "genero": "AcciÃ³n, AnimaciÃ³n, Aventura, BÃ©lica, Ciencia ficciÃ³n, Comedia, Crimen, Documental, Dorama, Drama, Familia, FantasÃ­a, Historia, Kids, Misterio, MÃºsica, PelÃ­cula de TV, Reality, Romance, Soap, Suspense, Terror, War & Politics, Western, AcciÃ³n, Crimen, Suspense",
+                "sniff": true,
+                "visible": "true"
+            },
+            {
+                "name": "911: Llamada infernal (2026)",
+                "id": "00009",
+                "url": "https://callistanise.com/v/myj7ohf8tnpk",
+                "icono": "https://tioplus.app/images/placever.jpg",
+                "iconoHorizontal": "https://tioplus.app/images/placever.jpg",
+                "type": "PELICULA",
+                "descripcion": "Durante una llamada rutinaria por disturbios domÃ©sticos, un trÃ¡gico accidente lleva a dos oficiales de policÃ­a a una pesadilla implacable que revela la existencia de un culto aterrador.",
+                "anio": "2026",
+                "duracion": "N/A",
+                "genero": "AcciÃ³n, AnimaciÃ³n, Aventura, BÃ©lica, Ciencia ficciÃ³n, Comedia, Crimen, Documental, Dorama, Drama, Familia, FantasÃ­a, Historia, Kids, Misterio, MÃºsica, PelÃ­cula de TV, Reality, Romance, Soap, Suspense, Terror, War & Politics, Western, Terror",
+                "sniff": true,
+                "visible": "true"
+            },
+            {
+                "name": "Te van a matar (2026)",
+                "id": "00010",
+                "url": "https://callistanise.com/v/2e9o125itjgy",
+                "icono": "https://tioplus.app/images/placever.jpg",
+                "iconoHorizontal": "https://tioplus.app/images/placever.jpg",
+                "type": "PELICULA",
+                "descripcion": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el historial de desapariciones del edificio. Pronto se da cuenta de que la comunidad estÃ¡ rodeada de misterio.",
+                "anio": "2026",
+                "duracion": "N/A",
+                "genero": "AcciÃ³n, AnimaciÃ³n, Aventura, BÃ©lica, Ciencia ficciÃ³n, Comedia, Crimen, Documental, Dorama, Drama, Familia, FantasÃ­a, Historia, Kids, Misterio, MÃºsica, PelÃ­cula de TV, Reality, Romance, Soap, Suspense, Terror, War & Politics, Western, Terror, AcciÃ³n, Comedia",
+                "sniff": true,
+                "visible": "true"
+            },
+            {
+                "name": "Sobriedad, Me EstÃ¡s Matando (2026)",
+                "id": "00011",
+                "url": "https://callistanise.com/v/f8fb0jyiop8n",
+                "icono": "https://tioplus.app/images/placever.jpg",
+                "iconoHorizontal": "https://tioplus.app/images/placever.jpg",
+                "type": "PELICULA",
+                "descripcion": "",
+                "anio": "2026",
+                "duracion": "N/A",
+                "genero": "AcciÃ³n, AnimaciÃ³n, Aventura, BÃ©lica, Ciencia ficciÃ³n, Comedia, Crimen, Documental, Dorama, Drama, Familia, FantasÃ­a, Historia, Kids, Misterio, MÃºsica, PelÃ­cula de TV, Reality, Romance, Soap, Suspense, Terror, War & Politics, Western, Comedia",
+                "sniff": true,
+                "visible": "true"
+            },
+            {
+                "name": "Apex Depredador dominante (2026)",
+                "id": "00012",
+                "url": "https://callistanise.com/v/jp5ks5agbxmm",
+                "icono": "https://tioplus.app/images/placever.jpg",
+                "iconoHorizontal": "https://tioplus.app/images/placever.jpg",
+                "type": "PELICULA",
+                "descripcion": "Una mujer en duelo se adentra en la naturaleza de Australia para ponerse a prueba y queda atrapada en un juego mortal con un astuto asesino que la considera su presa.",
+                "anio": "2026",
+                "duracion": "N/A",
+                "genero": "AcciÃ³n, AnimaciÃ³n, Aventura, BÃ©lica, Ciencia ficciÃ³n, Comedia, Crimen, Documental, Dorama, Drama, Familia, FantasÃ­a, Historia, Kids, Misterio, MÃºsica, PelÃ­cula de TV, Reality, Romance, Soap, Suspense, Terror, War & Politics, Western, Suspense, AcciÃ³n",
+                "sniff": true,
+                "visible": "true"
+            }
+        ]
+    }
 ]
