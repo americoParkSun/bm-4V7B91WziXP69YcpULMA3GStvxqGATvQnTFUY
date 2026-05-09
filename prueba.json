@@ -1,0 +1,20 @@
+[
+  {
+    "name": "ESTRENOS 2024",
+    "samples": [
+      {
+        "name": "Nombre Película",
+        "url": "https://callistanise.com/v/gzt3qg4dt0md",
+        "icono": "https://i.ibb.co/JwSYZMy9/image.png",
+        "iconoHorizontal": "https://fondo-detalles.jpg",
+        "type": "PELICULA",
+        "descripcion": "Sinopsis completa aquí...",
+        "anio": "2024",
+        "duracion": "120 min",
+        "genero": "Acción, Suspenso",
+        "sniff": true,
+        "visible": "true"
+      }
+    ]
+  }
+]
