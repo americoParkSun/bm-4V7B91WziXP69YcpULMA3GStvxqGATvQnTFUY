@@ -1,175 +1,543 @@
-[
-    {
-        "name": "ESTRENOS 2024",
-        "samples": [
-            {
-                "name": "El drama (2026)",
-                "id": "00001",
-                "url": "https://callistanise.com/v/gzt3qg4dt0md",
-                "icono": "https://image.tmdb.org/t/p/w342/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/w1280/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
-                "type": "PELICULA",
-                "descripcion": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
-                "anio": "2026",
-                "duracion": "N/A",
-                "genero": "Comedia, Romance, Drama",
-                "sniff": true,
-                "visible": "true"
-            },
-            {
-                "name": "Familia a la deriva (2026)",
-                "id": "00002",
-                "url": "https://callistanise.com/v/th3tm0zrhkqc",
-                "icono": "https://image.tmdb.org/t/p/w342/tuAGDBfrVNjcmyObU79lbwMLqJz.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/w1280/rdvqpkgyG3oGPZPj4U5Inpcnuhi.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2026",
-                "duracion": "N/A",
-                "genero": "Familia, Comedia",
-                "sniff": true,
-                "visible": "true"
-            },
-            {
-                "name": "Humint (2026)",
-                "id": "00003",
-                "url": "https://callistanise.com/v/7o4hswdpvbkx",
-                "icono": "https://image.tmdb.org/t/p/w342/3xI81SsZHRKY0ltVKbILbvU3wa4.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/w1280/5KFThZkdBEQkp9gPWWWNb5CI5yD.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un agente surcoreano investiga una red de narcotráfico en Rusia y debe colaborar con un agente norcoreano, lo cual los lleva correr riesgos y descubrir secretos muy turbios.",
-                "anio": "2026",
-                "duracion": "N/A",
-                "genero": "Drama, Suspense, Acción",
-                "sniff": true,
-                "visible": "true"
-            },
-            {
-                "name": "Embestida (2026)",
-                "id": "00004",
-                "url": "https://callistanise.com/v/saak73f4fxz9",
-                "icono": "https://image.tmdb.org/t/p/w342/osYy4GDE4nr69MGTJxRaZlqU82S.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/w1280/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
-                "type": "PELICULA",
-                "descripcion": "Cuando un catastrófico huracán azota un pueblo costero, el nivel del mar sube rápidamente y sus habitantes deben sobrevivir a un montón de hambrientos tiburones.",
-                "anio": "2026",
-                "duracion": "N/A",
-                "genero": "Suspense, Terror",
-                "sniff": true,
-                "visible": "true"
-            },
-            {
-                "name": "Intercambiados (2026)",
-                "id": "00005",
-                "url": "https://callistanise.com/v/gbsvr4k36o72",
-                "icono": "https://image.tmdb.org/t/p/w342/i89vUDwNhAEWUZSFYITSiv1RIbK.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/w1280/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
-                "type": "PELICULA",
-                "descripcion": "Una pequeña criatura del bosque intercambia el cuerpo con un majestuoso pájaro del valle, lo que los obliga a colaborar para sobrevivir a la aventura más salvaje de sus vidas.",
-                "anio": "2026",
-                "duracion": "N/A",
-                "genero": "Animación, Aventura, Familia, Comedia, Fantasía",
-                "sniff": true,
-                "visible": "true"
-            },
-            {
-                "name": "My Nombre es Agneta (2026)",
-                "id": "00006",
-                "url": "https://callistanise.com/v/3zb27qjadh10",
-                "icono": "https://image.tmdb.org/t/p/w342/2YOVL5eZhd4L6Cc1yxqq12ClLzF.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/w1280/m0V80Si2IfjrLXKwkCy7iCBLzqS.jpg",
-                "type": "PELICULA",
-                "descripcion": "En busca de un nuevo comienzo, Agneta, desempleada, acepta un trabajo como ‘au pair’ en la Provenza que acaba convirtiéndose en una escapada y un despertar inesperado.",
-                "anio": "2026",
-                "duracion": "N/A",
-                "genero": "Comedia, Romance, Drama",
-                "sniff": true,
-                "visible": "true"
-            },
-            {
-                "name": "Atrapado en el tiempo (1993)",
-                "id": "00007",
-                "url": "https://callistanise.com/v/y9qvf1pa7fw8",
-                "icono": "https://image.tmdb.org/t/p/w342/j8ZRAOctUiw7YzrQGuyCRIAJPIW.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/w1280/ttBydD0SynC0TMkW3AcnmsySkLp.jpg",
-                "type": "PELICULA",
-                "descripcion": "Phil, hombre del tiempo de una cadena de televisión, es enviado un año más a Punxstawnwey, a cubrir la información del festival de El día de la marmota. En el viaje de regreso, Phil y su equipo se ven sorprendidos por una tormenta que les obliga a regresar a la pequeña ciudad. A la mañana siguiente, al levantarse, Phil escucha en el radiodespertador el mismo programa que la mañana anterior.",
-                "anio": "1993",
-                "duracion": "N/A",
-                "genero": "Comedia, Romance, Fantasía",
-                "sniff": true,
-                "visible": "true"
-            },
-            {
-                "name": "Icefall (2025)",
-                "id": "00008",
-                "url": "https://callistanise.com/v/3c0isbj8q7uv",
-                "icono": "https://image.tmdb.org/t/p/w342/8qQdun8426bfcQePFSZnucWGSbQ.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/w1280/gQimJqYMKCkwHIo8wwYKhmnCfBr.jpg",
-                "type": "PELICULA",
-                "descripcion": "Un exmarine y cazador furtivo llamado Harlan (Joel Kinnaman) descubre un avión cargado con millones de dólares que ha caído en un lago congelado. Tras ser arrestado por una guardabosques nativa, un grupo de criminales y policías corruptos se enteran de su paradero. Por ello, Harlan y la ranger se unen para luchar e intentar escapar a través del peligroso lago antes de que el hielo se derrita.",
-                "anio": "2025",
-                "duracion": "N/A",
-                "genero": "Suspense, Crimen, Acción",
-                "sniff": true,
-                "visible": "true"
-            },
-            {
-                "name": "911: Llamada infernal (2026)",
-                "id": "00009",
-                "url": "https://callistanise.com/v/myj7ohf8tnpk",
-                "icono": "https://image.tmdb.org/t/p/w342/aOIXYOwB97ioUnhHzwnyCRxwVBe.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/w1280/vHoi1MddXOU7jbpEd8YVQzMDLnT.jpg",
-                "type": "PELICULA",
-                "descripcion": "Durante una llamada rutinaria por disturbios domésticos, un trágico accidente lleva a dos oficiales de policía a una pesadilla implacable que revela la existencia de un culto aterrador.",
-                "anio": "2026",
-                "duracion": "N/A",
-                "genero": "Terror",
-                "sniff": true,
-                "visible": "true"
-            },
-            {
-                "name": "Te van a matar (2026)",
-                "id": "00010",
-                "url": "https://callistanise.com/v/2e9o125itjgy",
-                "icono": "https://image.tmdb.org/t/p/w342/4nMIuF7AnBCA2kEOdZ4t7f2GF10.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/w1280/xnb15logFGJRniA7Ud3NILSPPhs.jpg",
-                "type": "PELICULA",
-                "descripcion": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el historial de desapariciones del edificio. Pronto se da cuenta de que la comunidad está rodeada de misterio.",
-                "anio": "2026",
-                "duracion": "N/A",
-                "genero": "Comedia, Terror, Acción",
-                "sniff": true,
-                "visible": "true"
-            },
-            {
-                "name": "Sobriedad, Me Estás Matando (2026)",
-                "id": "00011",
-                "url": "https://callistanise.com/v/f8fb0jyiop8n",
-                "icono": "https://image.tmdb.org/t/p/w342/nTUSjR9LUeV4FaZu2oFYSlzLmQw.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/w1280/rxFwyLPnOMLrq3uE3D2fTGe4nwV.jpg",
-                "type": "PELICULA",
-                "descripcion": "",
-                "anio": "2026",
-                "duracion": "N/A",
-                "genero": "Comedia",
-                "sniff": true,
-                "visible": "true"
-            },
-            {
-                "name": "Apex Depredador dominante (2026)",
-                "id": "00012",
-                "url": "https://callistanise.com/v/jp5ks5agbxmm",
-                "icono": "https://image.tmdb.org/t/p/w342/mV7uFS1U8iP0p4CcXZp4znBVpch.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/w1280/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg",
-                "type": "PELICULA",
-                "descripcion": "Una mujer en duelo se adentra en la naturaleza de Australia para ponerse a prueba y queda atrapada en un juego mortal con un astuto asesino que la considera su presa.",
-                "anio": "2026",
-                "duracion": "N/A",
-                "genero": "Suspense, Acción",
-                "sniff": true,
-                "visible": "true"
-            }
-        ]
+{
+    "v": "1.0",
+    "categorias": [
+        {
+            "id": "c0",
+            "n": "Todos los Estrenos",
+            "ids": [
+                "m1",
+                "m2",
+                "m3",
+                "m4",
+                "m5",
+                "m6",
+                "m7",
+                "m8",
+                "m9",
+                "m10",
+                "m11",
+                "m12",
+                "m13",
+                "m14",
+                "m15",
+                "m16",
+                "m17",
+                "m18",
+                "m19",
+                "m20",
+                "m21",
+                "m22",
+                "m23",
+                "m24"
+            ]
+        },
+        {
+            "id": "c1",
+            "n": "Comedia",
+            "ids": [
+                "m1",
+                "m4",
+                "m5",
+                "m8",
+                "m9",
+                "m10",
+                "m13",
+                "m14",
+                "m20",
+                "m21",
+                "m22",
+                "m23",
+                "m24"
+            ]
+        },
+        {
+            "id": "c2",
+            "n": "Romance",
+            "ids": [
+                "m1",
+                "m3",
+                "m4",
+                "m9",
+                "m10",
+                "m23"
+            ]
+        },
+        {
+            "id": "c3",
+            "n": "Drama",
+            "ids": [
+                "m2",
+                "m3",
+                "m4",
+                "m6",
+                "m9",
+                "m16",
+                "m19",
+                "m21",
+                "m22"
+            ]
+        },
+        {
+            "id": "c4",
+            "n": "Misterio",
+            "ids": [
+                "m2"
+            ]
+        },
+        {
+            "id": "c5",
+            "n": "Familia",
+            "ids": [
+                "m5",
+                "m8",
+                "m20"
+            ]
+        },
+        {
+            "id": "c6",
+            "n": "Suspense",
+            "ids": [
+                "m6",
+                "m7",
+                "m11",
+                "m15"
+            ]
+        },
+        {
+            "id": "c7",
+            "n": "Acción",
+            "ids": [
+                "m6",
+                "m11",
+                "m13",
+                "m15",
+                "m16",
+                "m18",
+                "m24"
+            ]
+        },
+        {
+            "id": "c8",
+            "n": "Terror",
+            "ids": [
+                "m7",
+                "m12",
+                "m13",
+                "m17"
+            ]
+        },
+        {
+            "id": "c9",
+            "n": "Fantasía",
+            "ids": [
+                "m8",
+                "m10"
+            ]
+        },
+        {
+            "id": "c10",
+            "n": "Animación",
+            "ids": [
+                "m8",
+                "m20"
+            ]
+        },
+        {
+            "id": "c11",
+            "n": "Aventura",
+            "ids": [
+                "m8",
+                "m18",
+                "m20",
+                "m22",
+                "m24"
+            ]
+        },
+        {
+            "id": "c12",
+            "n": "Crimen",
+            "ids": [
+                "m11"
+            ]
+        },
+        {
+            "id": "c13",
+            "n": "Historia",
+            "ids": [
+                "m16",
+                "m18",
+                "m19",
+                "m22"
+            ]
+        },
+        {
+            "id": "c14",
+            "n": "Bélica",
+            "ids": [
+                "m18"
+            ]
+        }
+    ],
+    "items": {
+        "m1": {
+            "n": "No es país para solteros (2026)",
+            "d": "En un pintoresco pueblo de la Toscana, el mundo de Elisa cambia cuando el regreso de un amigo de la infancia despierta viejas emociones.",
+            "urls": [
+                "https://callistanise.com/v/ep48issinvwg",
+                "https://emturbovid.com/t/69feb9ec55ea9",
+                "https://pelisplus.upns.pro/#n5b66n"
+            ],
+            "i": "https://image.tmdb.org/t/p/w342/vx1obRTbY4PB1v5HJ6HJpl3jMxb.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/vnuVJGVwuflThtiAAqCuewiqYrw.jpg",
+            "y": "2026",
+            "r": "1 hora y 43 minutos",
+            "g": "Comedia, Romance",
+            "s": true
+        },
+        "m2": {
+            "n": "Criaturas luminosas (2026)",
+            "d": "En este drama, basado en el bestseller homónimo, una viuda forja un vínculo con un pulpo muy listo y un joven a la deriva mientras trabaja de noche en un pequeño acuario.",
+            "urls": [
+                "https://callistanise.com/v/lf59b2bbfl0p",
+                "https://emturbovid.com/t/69feb5f63a9ac",
+                "https://pelisplus.upns.pro/#5yh9e5"
+            ],
+            "i": "https://image.tmdb.org/t/p/w342/8I2O28Y0avRiKDfdzdkAKbSLxft.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
+            "y": "2026",
+            "r": "1 hora y 54 minutos",
+            "g": "Drama, Misterio",
+            "s": true
+        },
+        "m3": {
+            "n": "“Cumbres Borrascosas” (2026)",
+            "d": "Heathcliff es hermano de crianza de Cathy Earnshaw; mas bien, es su otra mitad. Cuando los fuerzan a separarlos, Heathcliff da rienda suelta a la venganza contra aquellos que considera responsables.\r Algunos años antes de que protagonizaran \"El paciente inglés\", Binoche y Fiennes ya habían trabajado juntos en esta adaptación de la famosa novela homónima de Emily Brontë.",
+            "urls": [
+                "https://callistanise.com/v/paexbyw30qud",
+                "https://pelisplus.upns.pro/#cvdsh",
+                "https://vudeo.co/embed-lokxrq8yv83i.html"
+            ],
+            "i": "https://image.tmdb.org/t/p/w342/afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/60OypzgF62FE8PWxXi5zSI1bLyS.jpg",
+            "y": "1992",
+            "r": "1 hora y 45 minutos",
+            "g": "Drama, Romance",
+            "s": true
+        },
+        "m4": {
+            "n": "El drama (2026)",
+            "d": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
+            "urls": [
+                "https://callistanise.com/v/gzt3qg4dt0md",
+                "https://emturbovid.com/t/69fadbb7177a9",
+                "https://pelisplus.upns.pro/#qax1ck"
+            ],
+            "i": "https://image.tmdb.org/t/p/w342/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
+            "y": "2026",
+            "r": "1 hora y 45 minutos",
+            "g": "Comedia, Drama, Romance",
+            "s": true
+        },
+        "m5": {
+            "n": "Familia a la deriva (2026)",
+            "d": "",
+            "urls": [
+                "https://callistanise.com/v/th3tm0zrhkqc",
+                "https://emturbovid.com/t/69f810b50c7b1",
+                "https://pelisplus.strp2p.com/#wi6cll"
+            ],
+            "i": "https://image.tmdb.org/t/p/w342/tuAGDBfrVNjcmyObU79lbwMLqJz.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/rdvqpkgyG3oGPZPj4U5Inpcnuhi.jpg",
+            "y": "2026",
+            "r": "1 hora y 38 minutos",
+            "g": "Comedia, Familia",
+            "s": true
+        },
+        "m6": {
+            "n": "Humint (2026)",
+            "d": "Un agente surcoreano investiga una red de narcotráfico en Rusia y debe colaborar con un agente norcoreano, lo cual los lleva correr riesgos y descubrir secretos muy turbios.",
+            "urls": [
+                "https://callistanise.com/v/7o4hswdpvbkx",
+                "https://emturbovid.com/t/69f809fadcbab",
+                "https://pelisplus.upns.pro/#ikju8m"
+            ],
+            "i": "https://image.tmdb.org/t/p/w342/3xI81SsZHRKY0ltVKbILbvU3wa4.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/5KFThZkdBEQkp9gPWWWNb5CI5yD.jpg",
+            "y": "2026",
+            "r": "2 horas",
+            "g": "Drama, Suspense, Acción",
+            "s": true
+        },
+        "m7": {
+            "n": "Embestida (2026)",
+            "d": "Cuando un catastrófico huracán azota un pueblo costero, el nivel del mar sube rápidamente y sus habitantes deben sobrevivir a un montón de hambrientos tiburones.",
+            "urls": [
+                "https://callistanise.com/v/saak73f4fxz9",
+                "https://emturbovid.com/t/69f80de4762fc",
+                "https://pelisplus.upns.pro/#69nkqc"
+            ],
+            "i": "https://image.tmdb.org/t/p/w342/osYy4GDE4nr69MGTJxRaZlqU82S.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
+            "y": "2026",
+            "r": "1 hora y 24 minutos",
+            "g": "Terror, Suspense",
+            "s": true
+        },
+        "m8": {
+            "n": "Intercambiados (2026)",
+            "d": "Una pequeña criatura del bosque intercambia el cuerpo con un majestuoso pájaro del valle, lo que los obliga a colaborar para sobrevivir a la aventura más salvaje de sus vidas.",
+            "urls": [
+                "https://callistanise.com/v/gbsvr4k36o72",
+                "https://emturbovid.com/t/69f8090e9d0aa",
+                "https://pelisplus.upns.pro/#69nkj8"
+            ],
+            "i": "https://image.tmdb.org/t/p/w342/i89vUDwNhAEWUZSFYITSiv1RIbK.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
+            "y": "2026",
+            "r": "1 hora y 42 minutos",
+            "g": "Comedia, Fantasía, Familia, Animación, Aventura",
+            "s": true
+        },
+        "m9": {
+            "n": "My Nombre es Agneta (2026)",
+            "d": "En busca de un nuevo comienzo, Agneta, desempleada, acepta un trabajo como ‘au pair’ en la Provenza que acaba convirtiéndose en una escapada y un despertar inesperado.",
+            "urls": [
+                "https://callistanise.com/v/3zb27qjadh10",
+                "https://emturbovid.com/t/69f2c4d039958",
+                "https://pelisplusto.4meplayer.pro/#yezwu"
+            ],
+            "i": "https://image.tmdb.org/t/p/w342/2YOVL5eZhd4L6Cc1yxqq12ClLzF.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/m0V80Si2IfjrLXKwkCy7iCBLzqS.jpg",
+            "y": "2026",
+            "r": "1 hora y 54 minutos",
+            "g": "Comedia, Drama, Romance",
+            "s": true
+        },
+        "m10": {
+            "n": "Atrapado en el tiempo (1993)",
+            "d": "Phil, hombre del tiempo de una cadena de televisión, es enviado un año más a Punxstawnwey, a cubrir la información del festival de El día de la marmota. En el viaje de regreso, Phil y su equipo se ven sorprendidos por una tormenta que les obliga a regresar a la pequeña ciudad. A la mañana siguiente, al levantarse, Phil escucha en el radiodespertador el mismo programa que la mañana anterior.",
+            "urls": [
+                "https://callistanise.com/v/y9qvf1pa7fw8",
+                "https://emturbovid.com/t/69f2c7b04f32e",
+                "https://pelisplus.upns.pro/#d3ayxe"
+            ],
+            "i": "https://image.tmdb.org/t/p/w342/j8ZRAOctUiw7YzrQGuyCRIAJPIW.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/ttBydD0SynC0TMkW3AcnmsySkLp.jpg",
+            "y": "1993",
+            "r": "1 hora y 41 minutos",
+            "g": "Comedia, Fantasía, Romance",
+            "s": true
+        },
+        "m11": {
+            "n": "Icefall (2025)",
+            "d": "Un exmarine y cazador furtivo llamado Harlan (Joel Kinnaman) descubre un avión cargado con millones de dólares que ha caído en un lago congelado. Tras ser arrestado por una guardabosques nativa, un grupo de criminales y policías corruptos se enteran de su paradero. Por ello, Harlan y la ranger se unen para luchar e intentar escapar a través del peligroso lago antes de que el hielo se derrita.",
+            "urls": [
+                "https://callistanise.com/v/3c0isbj8q7uv",
+                "https://emturbovid.com/t/69f2c3875d8d8",
+                "https://pelisplusto.4meplayer.pro/#xumi8"
+            ],
+            "i": "https://image.tmdb.org/t/p/w342/8qQdun8426bfcQePFSZnucWGSbQ.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/gQimJqYMKCkwHIo8wwYKhmnCfBr.jpg",
+            "y": "2025",
+            "r": "1 hora y 39 minutos",
+            "g": "Crimen, Suspense, Acción",
+            "s": true
+        },
+        "m12": {
+            "n": "911: Llamada infernal (2026)",
+            "d": "Durante una llamada rutinaria por disturbios domésticos, un trágico accidente lleva a dos oficiales de policía a una pesadilla implacable que revela la existencia de un culto aterrador.",
+            "urls": [
+                "https://callistanise.com/v/myj7ohf8tnpk",
+                "https://emturbovid.com/t/69f0288324bf0",
+                "https://pelisplus.upns.pro/#69o1yu"
+            ],
+            "i": "https://image.tmdb.org/t/p/w342/aOIXYOwB97ioUnhHzwnyCRxwVBe.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/vHoi1MddXOU7jbpEd8YVQzMDLnT.jpg",
+            "y": "2026",
+            "r": "1 hora y 15 minutos",
+            "g": "Terror",
+            "s": true
+        },
+        "m13": {
+            "n": "Te van a matar (2026)",
+            "d": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el historial de desapariciones del edificio. Pronto se da cuenta de que la comunidad está rodeada de misterio.",
+            "urls": [
+                "https://vidhideplus.com/v/2e9o125itjgy",
+                "https://emturbovid.com/t/69f0272574c00",
+                "https://pelisplus.upns.pro/#ikdfyo"
+            ],
+            "i": "https://image.tmdb.org/t/p/w342/4nMIuF7AnBCA2kEOdZ4t7f2GF10.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/xnb15logFGJRniA7Ud3NILSPPhs.jpg",
+            "y": "2026",
+            "r": "1 hora y 34 minutos",
+            "g": "Acción, Comedia, Terror",
+            "s": true
+        },
+        "m14": {
+            "n": "Sobriedad, Me Estás Matando (2026)",
+            "d": "",
+            "urls": [
+                "https://vidhideplus.com/v/f8fb0jyiop8n",
+                "https://emturbovid.com/t/69ed70a6b4a5b",
+                "https://pelisplus.upns.pro/#n5wvky"
+            ],
+            "i": "https://image.tmdb.org/t/p/w342/nTUSjR9LUeV4FaZu2oFYSlzLmQw.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/rxFwyLPnOMLrq3uE3D2fTGe4nwV.jpg",
+            "y": "2026",
+            "r": "1 hora y 49 minutos",
+            "g": "Comedia",
+            "s": true
+        },
+        "m15": {
+            "n": "Apex Depredador dominante (2026)",
+            "d": "Una mujer en duelo se adentra en la naturaleza de Australia para ponerse a prueba y queda atrapada en un juego mortal con un astuto asesino que la considera su presa.",
+            "urls": [
+                "https://vidhideplus.com/v/jp5ks5agbxmm",
+                "https://emturbovid.com/t/69ed6468417e0",
+                "https://pelisplus.strp2p.com/#h6zghs"
+            ],
+            "i": "https://image.tmdb.org/t/p/w342/mV7uFS1U8iP0p4CcXZp4znBVpch.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg",
+            "y": "2026",
+            "r": "1 hora y 36 minutos",
+            "g": "Acción, Suspense",
+            "s": true
+        },
+        "m16": {
+            "n": "Chavín de Huántar, el rescate del siglo (2025)",
+            "d": "",
+            "urls": [
+                "https://vidhideplus.com/v/jfd3kemsm9sk",
+                "https://emturbovid.com/t/69e9c2a28a53f",
+                "https://pelisplus.upns.pro/#hor3uh"
+            ],
+            "i": "https://image.tmdb.org/t/p/w342/ceXPgcYyPgPUsg3bMlbV2JdjWhS.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/gBRdyjRCvWZVVyPVLDzRJKY9kVd.jpg",
+            "y": "2025",
+            "r": "1 hora y 35 minutos",
+            "g": "Acción, Drama, Historia",
+            "s": true
+        },
+        "m17": {
+            "n": "The Dreadful (2026)",
+            "d": "Una mujer vive en la sociedad medieval inglesa hasta que un hombre de su pasado regresa de la guerra con una maldición.",
+            "urls": [
+                "https://vidhideplus.com/v/1mqscpmic7pd",
+                "https://emturbovid.com/t/69e9bfccacfe2",
+                "https://pelisplus.upns.pro/#69uqpc"
+            ],
+            "i": "https://image.tmdb.org/t/p/w342/ycYv5bhMLJG3wt0I5xFY13Z7PsU.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/fAF3VGFBpItWNROmiGob60n0y5.jpg",
+            "y": "2026",
+            "r": "1 hora y 34 minutos",
+            "g": "Terror",
+            "s": true
+        },
+        "m18": {
+            "n": "Rise of the Conqueror (2026)",
+            "d": "",
+            "urls": [
+                "https://vidhideplus.com/v/hjmhtolcnred",
+                "https://emturbovid.com/t/69e9c1e0085fb",
+                "https://pelisplus.strp2p.com/#idbixj"
+            ],
+            "i": "https://image.tmdb.org/t/p/w342/9cRE0DsM6CNIiY9Ah3cd8oc3n1Y.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/qV42S4n6HC1kz97yJKSpAZjiQ6j.jpg",
+            "y": "2026",
+            "r": "1 hora y 47 minutos",
+            "g": "Acción, Historia, Aventura, Bélica",
+            "s": true
+        },
+        "m19": {
+            "n": "Calígula (1979)",
+            "d": "Tras la muerte del paranoico emperador Tiberio, Calígula, su heredero, toma el poder y sume al imperio en una sangrienta espiral de locura y depravación.",
+            "urls": [
+                "https://vidhideplus.com/v/ibqsmml2ziea",
+                "https://emturbovid.com/t/69f01f5b25842",
+                "https://pelisplus.strp2p.com/#yjvc6d"
+            ],
+            "i": "https://image.tmdb.org/t/p/w342/li4MRPY3sOoYtgFTMY4DKZ6L59X.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/cT6xO3YjzfZKYGhZ8S7plNlA27F.jpg",
+            "y": "1979",
+            "r": "2 horas y 36 minutos",
+            "g": "Drama, Historia",
+            "s": true
+        },
+        "m20": {
+            "n": "Winnie the Pooh (2011)",
+            "d": "Winnie the Pooh vuelve a reunir al público así como a sus amigos Tigger, Rabbit, Piglet, Kangu, Rito y, por último, Igor, que ha perdido la cola. El Búho encarga a toda la pandilla una extraña misión: salvar a Christopher Robin de un delincuente imaginario; así que el oso, que sólo había salido a buscar un poco de miel, ve cómo se le complica un día que prometía ser apacible.",
+            "urls": [
+                "https://vidhideplus.com/v/ew66mjbcij6m",
+                "https://emturbovid.com/t/69e9c1d44b5d5",
+                "https://pelisplus.upns.pro/#hor3dt"
+            ],
+            "i": "https://image.tmdb.org/t/p/w342/4BmdbKqbKln9hmCazLAGCTE8tGf.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/e0SlSnLQzIhdcr86akVJinA1Jau.jpg",
+            "y": "2011",
+            "r": "1 hora y 2 minutos",
+            "g": "Familia, Aventura, Animación, Comedia",
+            "s": true
+        },
+        "m21": {
+            "n": "Jeff y los suyos (2012)",
+            "d": "Es la historia de dos hermanos, uno de ellos (Helms) está inmerso en una semi-crisis, y piensa que su mujer (Greer) tiene una aventura. El otro es un adorable perdedor (Segel) que todavía vive en casa de su madre (Sarandon). Un día, los hermanos salen a espiar a la mujer, con todo tipo de consecuencias imprevistas.",
+            "urls": [
+                "https://vidhideplus.com/v/mk91s0uho5r1",
+                "https://emturbovid.com/t/69e9c273d7844",
+                "https://pelisplus.strp2p.com/#f1hfzh"
+            ],
+            "i": "https://image.tmdb.org/t/p/w342/oArALbnUOOXzwO7XGwIkmpQV3kt.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/2TlVQC5s6veC9MZSIj9K2Drrb.jpg",
+            "y": "2012",
+            "r": "1 hora y 23 minutos",
+            "g": "Drama, Comedia",
+            "s": true
+        },
+        "m22": {
+            "n": "Eddie el Águila (2016)",
+            "d": "La película detalla las inspiradoras hazañas de Michael Edwards, mejor conocido como “Eddie el Águila”, el más famoso saltador de esquí en la historia británica. El enfoque de la película hacia el deporte de Edwards, de nunca rendirse, festeja el espíritu humano.",
+            "urls": [
+                "https://vidhideplus.com/v/wu3nprjbd47j",
+                "https://emturbovid.com/t/69e7997500f6b",
+                "https://pelisplus.upns.pro/#bhs19r"
+            ],
+            "i": "https://image.tmdb.org/t/p/w342/ghuGA9wFzam4WMZrnXMiXOQxu4c.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/jbcEWHYpnlZ1aiMCLcRyiIhwUwY.jpg",
+            "y": "2016",
+            "r": "1 hora y 45 minutos",
+            "g": "Aventura, Drama, Comedia, Historia",
+            "s": true
+        },
+        "m23": {
+            "n": "¿Quieres Ser Mi Novia? (2026)",
+            "d": "La relación de Javi y Lu enfrenta pruebas cuando surgen tentaciones: una joven con quien Javi tiene química, y un hombre maduro que persigue a Lu. Entre humor y enredos, su amor es puesto a prueba",
+            "urls": [
+                "https://vidhideplus.com/v/qxki6loagx7y",
+                "https://emturbovid.com/t/69e5004ec2516",
+                "https://pelisplus.upns.pro/#n5vzmr"
+            ],
+            "i": "https://image.tmdb.org/t/p/w342/oscW8xV8EhRYj7iAhyVlBohKqxo.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/1ZruuRXztqC3QQybbgbVxVrdNjv.jpg",
+            "y": "2026",
+            "r": "1 hora y 37 minutos",
+            "g": "Romance, Comedia",
+            "s": true
+        },
+        "m24": {
+            "n": "Balls Up: Con un par (2026)",
+            "d": "Los ejecutivos de marketing Brad y Elijah lanzan un audaz patrocinio de preservativos de cobertura total directamente a la Copa del Mundo. Después de que su ebria celebración en Brasil desencadene un escándalo mundial, deberán huir de hinchas furiosos, delincuentes y funcionarios sedientos de poder para salvar sus carreras y volver a casa con vida.",
+            "urls": [
+                "https://vidhideplus.com/v/6pyf5pvab91v",
+                "https://emturbovid.com/t/69e4ff888a352",
+                "https://pelisplus.upns.pro/#oc3v1e"
+            ],
+            "i": "https://image.tmdb.org/t/p/w342/50V1E3NE3UDFmq0fhMpByx1b4Ka.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/jRsjWwZzI39bTm44FNhRtiICd9k.jpg",
+            "y": "2026",
+            "r": "1 hora y 44 minutos",
+            "g": "Acción, Aventura, Comedia",
+            "s": true
+        }
     }
-]
+}
