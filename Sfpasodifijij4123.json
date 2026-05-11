@@ -1,0 +1,2405 @@
+{
+    "v": "1.0",
+    "categorias": [
+        {
+            "id": "cs0",
+            "n": "Todas las Series",
+            "ids": [
+                "s1",
+                "s2",
+                "s3",
+                "s4",
+                "s5",
+                "s6",
+                "s7",
+                "s8",
+                "s9",
+                "s10",
+                "s11",
+                "s12",
+                "s13",
+                "s14",
+                "s15",
+                "s16",
+                "s17",
+                "s18",
+                "s19",
+                "s20",
+                "s21",
+                "s22",
+                "s23",
+                "s24"
+            ]
+        },
+        {
+            "id": "cs1",
+            "n": "Crimen",
+            "ids": [
+                "s1",
+                "s8",
+                "s9",
+                "s14",
+                "s16"
+            ]
+        },
+        {
+            "id": "cs2",
+            "n": "Drama",
+            "ids": [
+                "s1",
+                "s2",
+                "s3",
+                "s4",
+                "s5",
+                "s6",
+                "s7",
+                "s9",
+                "s10",
+                "s11",
+                "s13",
+                "s14",
+                "s17",
+                "s21",
+                "s22",
+                "s23",
+                "s24"
+            ]
+        },
+        {
+            "id": "cs3",
+            "n": "Acción",
+            "ids": [
+                "s3",
+                "s4",
+                "s19"
+            ]
+        },
+        {
+            "id": "cs4",
+            "n": "Aventura",
+            "ids": [
+                "s3",
+                "s4",
+                "s19"
+            ]
+        },
+        {
+            "id": "cs5",
+            "n": "Misterio",
+            "ids": [
+                "s4",
+                "s5",
+                "s9",
+                "s10",
+                "s13",
+                "s17",
+                "s19"
+            ]
+        },
+        {
+            "id": "cs6",
+            "n": "Familia",
+            "ids": [
+                "s5"
+            ]
+        },
+        {
+            "id": "cs7",
+            "n": "Kids",
+            "ids": [
+                "s6"
+            ]
+        },
+        {
+            "id": "cs8",
+            "n": "Comedia",
+            "ids": [
+                "s6",
+                "s10",
+                "s11",
+                "s12",
+                "s16",
+                "s18",
+                "s22"
+            ]
+        },
+        {
+            "id": "cs9",
+            "n": "Documental",
+            "ids": [
+                "s8",
+                "s20"
+            ]
+        },
+        {
+            "id": "cs10",
+            "n": "Animación",
+            "ids": [
+                "s12",
+                "s19"
+            ]
+        },
+        {
+            "id": "cs11",
+            "n": "Fantasía",
+            "ids": [
+                "s19"
+            ]
+        },
+        {
+            "id": "cs12",
+            "n": "Ciencia ficción",
+            "ids": [
+                "s19"
+            ]
+        }
+    ],
+    "items": {
+        "s1": {
+            "t": "S",
+            "n": "M.I.A. (2026)",
+            "d": "El tráfico de drogas es un asunto familiar para Etta Tiger Jonze. Pero cuando su familia es asesinada ante sus ojos, Etta se propone hacer justicia a los responsables, vengando a su familia de sangre. Al mismo tiempo, construye su propia familia elegida, iniciando su nuevo viaje de huérfana impotente a la más poderosa Queenpin criminal del sur de Florida.",
+            "i": "https://image.tmdb.org/t/p/w342/uvocuo6mgQTtNa7O6a3MQoTfuh4.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/wqjhAWmqHrIIn4PdchGCuEgPksw.jpg",
+            "y": "2026",
+            "g": "Crimen, Drama",
+            "tm": [
+                {
+                    "n": "Temporada 1",
+                    "ep": [
+                        {
+                            "n": "S01E09: Episodio 9",
+                            "d": "El tráfico de drogas es un asunto familiar para Etta Tiger Jonze. Pero cuando su familia es asesinada ante sus ojos, Etta se propone hacer justicia a los responsables, vengando a su familia de sangre. Al mismo tiempo, construye su propia familia elegida, iniciando su nuevo viaje de huérfana impotente a la más poderosa Queenpin criminal del sur de Florida.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOQQdcIwdRVVZBfhNQ",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYV1dRfxJWCVRScEQ=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkZVIhgNWQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E08: Episodio 8",
+                            "d": "El tráfico de drogas es un asunto familiar para Etta Tiger Jonze. Pero cuando su familia es asesinada ante sus ojos, Etta se propone hacer justicia a los responsables, vengando a su familia de sangre. Al mismo tiempo, construye su propia familia elegida, iniciando su nuevo viaje de huérfana impotente a la más poderosa Queenpin criminal del sur de Florida.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOBAQLLxlQQ0gLNUUJ",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYV1dRcBFRAVMDchc=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOElFJcQcJQA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E07: Episodio 7",
+                            "d": "El tráfico de drogas es un asunto familiar para Etta Tiger Jonze. Pero cuando su familia es asesinada ante sus ojos, Etta se propone hacer justicia a los responsables, vengando a su familia de sangre. Al mismo tiempo, construye su propia familia elegida, iniciando su nuevo viaje de huérfana impotente a la más poderosa Queenpin criminal del sur de Florida.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOR0sKcxxRVlULdRgV",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYV1dRf0wFVAoAJU0=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkJBcg4WUA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E06: Episodio 6",
+                            "d": "El tráfico de drogas es un asunto familiar para Etta Tiger Jonze. Pero cuando su familia es asesinada ante sus ojos, Etta se propone hacer justicia a los responsables, vengando a su familia de sangre. Al mismo tiempo, construye su propia familia elegida, iniciando su nuevo viaje de huérfana impotente a la más poderosa Queenpin criminal del sur de Florida.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOV0oDdEdUBkoBLgEE",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYV1dRf0JYAVBXJEA=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEltYf0EVXw=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E05: Episodio 5",
+                            "d": "El tráfico de drogas es un asunto familiar para Etta Tiger Jonze. Pero cuando su familia es asesinada ante sus ojos, Etta se propone hacer justicia a los responsables, vengando a su familia de sangre. Al mismo tiempo, construye su propia familia elegida, iniciando su nuevo viaje de huérfana impotente a la más poderosa Queenpin criminal del sur de Florida.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJORVFFNw4YQ0dWNBYZ",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYV1dRcEVQBAUBIk0=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEl1QdgwYWQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E04: Episodio 4",
+                            "d": "El tráfico de drogas es un asunto familiar para Etta Tiger Jonze. Pero cuando su familia es asesinada ante sus ojos, Etta se propone hacer justicia a los responsables, vengando a su familia de sangre. Al mismo tiempo, construye su propia familia elegida, iniciando su nuevo viaje de huérfana impotente a la más poderosa Queenpin criminal del sur de Florida.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOBVdAPwAFS15GNBwE",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYV1dRcUwAAVEAckE=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOElBbIwUPWQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E03: Episodio 3",
+                            "d": "El tráfico de drogas es un asunto familiar para Etta Tiger Jonze. Pero cuando su familia es asesinada ante sus ojos, Etta se propone hacer justicia a los responsables, vengando a su familia de sangre. Al mismo tiempo, construye su propia familia elegida, iniciando su nuevo viaje de huérfana impotente a la más poderosa Queenpin criminal del sur de Florida.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOU1NcdgwUQV9KLhUP",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYV1dRcUIDBAsGfkw=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNAATQQBDaRcOXB0QchsXRAFD"
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E02: Episodio 2",
+                            "d": "El tráfico de drogas es un asunto familiar para Etta Tiger Jonze. Pero cuando su familia es asesinada ante sus ojos, Etta se propone hacer justicia a los responsables, vengando a su familia de sangre. Al mismo tiempo, construye su propia familia elegida, iniciando su nuevo viaje de huérfana impotente a la más poderosa Queenpin criminal del sur de Florida.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOU0pfdQdYRUVZIhVQ",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYV1dRckcACQcBdRA=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNQQMQkZBIhUMH15aMRFOEgpCLE0KAA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E01: Episodio 1",
+                            "d": "El tráfico de drogas es un asunto familiar para Etta Tiger Jonze. Pero cuando su familia es asesinada ante sus ojos, Etta se propone hacer justicia a los responsables, vengando a su familia de sangre. Al mismo tiempo, construye su propia familia elegida, iniciando su nuevo viaje de huérfana impotente a la más poderosa Queenpin criminal del sur de Florida.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOQQdFLAYQSVBcKQcU",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYV1dRcUYAVAJRIRU=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEgtZJhIAVw=="
+                            ],
+                            "s": true
+                        }
+                    ]
+                }
+            ]
+        },
+        "s2": {
+            "t": "S",
+            "n": "La casa de los espíritus (2026)",
+            "d": "Adaptación de la famosa novela de Isabel Allende, crónica de una saga familiar que narra la épica historia de una familia orgullosa y apasionada, amores secretos y una revolución sangrienta. Las pasiones, las luchas y los secretos de la familia Trueba abarcan un siglo de cambios sociales violentos, culminando en una crisis que lanza al orgulloso y tiránico patriarca y a su querida nieta en direcciones opuestas.",
+            "i": "https://image.tmdb.org/t/p/w342/cynTNWEyPbaduRVWDmAwSb69E1L.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/kt87GDnUHXU8F4EHmiafVRAMmak.jpg",
+            "y": "2026",
+            "g": "Drama",
+            "tm": [
+                {
+                    "n": "Temporada 1",
+                    "ep": [
+                        {
+                            "n": "S01E05: El tiempo de los espíritus",
+                            "d": "Clara se recupera de la violencia de su marido gracias al amor y los cuidados de sus hermanas astrales: Luisa, Nora y Marta Mora. Junto a ellas transforma la gran casa de la esquina, guiada por los espíritus, para acoger a necesitados, artistas y buscadores espirituales. Mientras tanto, Blanca sobrevive a la ausencia de Pedro y se adentra en lo desconocido.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOSVEFIAdUQANWd0xS",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYV1dRc0RRCVdSfkM=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEllCMA0ARg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E04: Los amantes",
+                            "d": "Blanca y Pedro Tercero, el hijo del capataz, crecen encontrándose cada verano en Las Tres Marías. Su amor prohibido se intensifica con cada año que pasa, transformándose en una pasión salvaje y peligrosa. Cuando Trueba lo descubre, toda la furia que había mantenido enterrada sale a la superficie, poniendo en peligro la seguridad tanto de su esposa como de su hija.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOCQVWLBFWVFYELhZW",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYV1dRc0cFUgQHd0M=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEgpEIBwMAg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E03: Clara, la clarividente",
+                            "d": "Esteban lleva a Clara a su nuevo hogar en la capital, la gran casa de la esquina. Allí nace su hija Blanca y, cuando es lo suficientemente mayor, la familia -incluida Férula- viaja a Las Tres Marías. Allí, Clara descubre el oscuro pasado de su marido y comprende que su destino está ligado a Pancha García y a sus descendientes.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJORkJUKxIPR11JcgMX",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYV1dRdENXBFAHcRE=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNQQMQkZBIhUMH15aMRFOEldfJhcUAA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E02: Las Tres Marías",
+                            "d": "Tras la muerte de Rosa, Esteban Trueba abandona el desierto para construir su imperio en Las Tres Marías. Mientras tanto, Clara del Valle, guiada por su madre Nívea y el tío Marcos, despierta a un mundo de presagios y dones ocultos. Dos caminos opuestos se cruzan, dando origen a una única historia familiar.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOVksAJkFTQUpKdRNZ",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYV1dRdEdRVQMHd0A=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkJBcg5SUg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E01: Rosa la bella",
+                            "d": "Alba regresa a la casa familiar y descubre los diarios de su abuela Clara. A medida que los lee, se ve arrastrada a un viaje luminoso a través del tiempo, en el que descubre las fuerzas tempranas que moldearon el destino de Clara y, sin darse cuenta, los ecos que continúan dando forma al suyo propio.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOWkQKLERWAAQFMhcM",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYV1dRdERVAAYGcEA=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEgQKNgAPXQ=="
+                            ],
+                            "s": true
+                        }
+                    ]
+                }
+            ]
+        },
+        "s3": {
+            "t": "S",
+            "n": "El señor de las moscas (2026)",
+            "d": "Relata la historia de un grupo de chicos británicos atrapados en una isla tropical desocupada. Poco a poco van cayendo en la anarquía a medida que desaparecen las convenciones sociales y fracasan los intentos de gobernar responsablemente.",
+            "i": "https://image.tmdb.org/t/p/w342/o867yrias7YUjEvNrjoeQD97xHP.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/yRqFvu6rIytqZlzY0pBVvZG3W0S.jpg",
+            "y": "2026",
+            "g": "Acción, Drama, Aventura",
+            "tm": [
+                {
+                    "n": "Temporada 1",
+                    "ep": [
+                        {
+                            "n": "S01E04: Episodio 4",
+                            "d": "Una emboscada violenta le causa problemas a Piggy, y Ralph se encuentra superado en número.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOBQpJLgUZQEFJJk1V",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYV1NXJkcHVAALdEU=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEllCJhcKAg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E03: Episodio 3",
+                            "d": "Se forma un campamento rival a medida que los temores sobre la bestia alcanzan nuevas alturas.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOR1xRMwEIR1dJcAFY",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYV1NXfxACVVQLd0M=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEl9DNU0ZRg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E02: Jack",
+                            "d": "Las tensiones aumentan a medida que la caza de Jack pone en peligro la posibilidad de rescate.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOVVNadA4bAVxGKUQM",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYV1NXf0QFBwMBIhc=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNQQMQkZBIhUMH15aMRFOElpHPx8DQA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E01: Piggy",
+                            "d": "Los chicos intentan descubrir cuál es la mejor manera de sobrevivir después de que su avión se estrella en una isla desierta.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJORkUCIx4ZXlFJJUFY",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYV1NXfxEDBVAHf0Q=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNQQMQkZBIhUMH15aMRFOElRQMBYNSQ=="
+                            ],
+                            "s": true
+                        }
+                    ]
+                }
+            ]
+        },
+        "s4": {
+            "t": "S",
+            "n": "Gloria (2026)",
+            "d": "",
+            "i": "https://image.tmdb.org/t/p/w342/juAQ7fFQGu2n3A2gW5tfNub1cW8.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/o9rD068PXoATK5H5Z3W2sJ4fA60.jpg",
+            "y": "2026",
+            "g": "Acción, Drama, Misterio, Aventura",
+            "tm": [
+                {
+                    "n": "Temporada 1",
+                    "ep": [
+                        {
+                            "n": "S01E07: Episodio 7",
+                            "d": "",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOXVhSLxIISwQGIEEC",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDIhVQAQEHckA=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEllCMUwYQQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E06: Episodio 6",
+                            "d": "",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOXURAc0xYRlVSdBxR",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDIUVQAQAEdEQ=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNQQMQkZBIhUMH15aMRFOEkdAK0cJRQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E05: Episodio 5",
+                            "d": "",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOQ0EELQANBwZbdQ5Q",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDIxBWCANQfkM=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNQQMQkZBIhUMH15aMRFOEl9bNgQWRw=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E04: Episodio 4",
+                            "d": "",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOXlRLMARTAwZBf0QR",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDJEwECAUAc0c=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEgQKKR9SRA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E03: Episodio 3",
+                            "d": "",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOSQQGMxEHSF1aKQBS",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDJEEFB1QGI0E=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEgECIBIJQA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E02: Episodio 2",
+                            "d": "",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOBgZDKRECBAoLcA4O",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDI01UVQULIhU=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkRRIgwNCA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E01: Episodio 1",
+                            "d": "",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOX1RZdgFSA0haNEYH",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDIk0DAwEAc0M=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNQQMQkZBIhUMH15aMRFOElxcLBgHAA=="
+                            ],
+                            "s": true
+                        }
+                    ]
+                }
+            ]
+        },
+        "s5": {
+            "t": "S",
+            "n": "Half Man (2026)",
+            "d": "Ruben se presenta en la boda de su hermano, que está separado, y actúa como catalizador para el renacimiento de los últimos 40 años de su relación.",
+            "i": "https://image.tmdb.org/t/p/w342/mACHtXZphR0JXbNrcEpWjdCSul5.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/uvmn7g7G0cVj7OVeDRrklky4NfF.jpg",
+            "y": "2026",
+            "g": "Familia, Drama, Misterio",
+            "tm": [
+                {
+                    "n": "Temporada 1",
+                    "ep": [
+                        {
+                            "n": "S01E03: Episodio 3",
+                            "d": "Ruben se presenta en la boda de su hermano, que está separado, y actúa como catalizador para el renacimiento de los últimos 40 años de su relación.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOUEhKKkMAQ0VEJRoF",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEldGJEIUAA==",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNAATQQBDaRcOXB0QJgcJWwcF"
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E02: Episodio 2",
+                            "d": "Ruben se presenta en la boda de su hermano, que está separado, y actúa como catalizador para el renacimiento de los últimos 40 años de su relación.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOWAZDMAYWBENUIQAK",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDfhVXCApWdE0=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEl9DIxgLRw=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E01: Episodio 1",
+                            "d": "La vida de Niall, un adolescente que sufre acoso, se pone patas arriba cuando Rubén, el hijo de la pareja de su madre, llega a vivir con ellos.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOV0oAJBxQBlRdcEQF",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDJkZVAQZQdkY=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOElBbMgcTVQ=="
+                            ],
+                            "s": true
+                        }
+                    ]
+                }
+            ]
+        },
+        "s6": {
+            "t": "S",
+            "n": "Gina Yei (2023)",
+            "d": "Gina Yei es una talentosa joven que gana una beca para estudiar en el prestigioso Instituto Musical del Caribe en Puerto Rico, con el sueño de componer para grandes artistas. Al llegar, descubre que la industria musical es más compleja y competitiva de lo que imaginaba, enfrentando rivalidades, como la de Ruby Rubí, y obstáculos personales mientras busca dejar su huella.",
+            "i": "https://image.tmdb.org/t/p/w342/kLsuCzYE3OJR1murUraHTup6WXC.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/mn7SzJ7096mhnpUJraQ031LfdPK.jpg",
+            "y": "2023",
+            "g": "Kids, Drama, Comedia",
+            "tm": [
+                {
+                    "n": "Temporada 1",
+                    "ep": [
+                        {
+                            "n": "S01E12: Volví",
+                            "d": "Inicia el festival Playero, luego de una larga jornada Gina queda como ganadora e imagen del IMC.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOAF9DdUcWRUgHJk1S",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDdEJTCVEBJBA=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOElVfNU0URA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E11: Queremos Saber",
+                            "d": "Mr.One anuncia que los ganadores del Festival Playero representarán al Instituto antes los medios.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOU1pLNR4EWEQLdQ4Z",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDdRVRBAAFf0c=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOElFJKkUHQA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E10: Tomando el Control",
+                            "d": "Manu decide prepararle una sorpresa a Gina. Una pista falsa convierte la esperanza de Gina, en un gran dolor.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOQ19VfhoIUEREcQNT",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDdEMFAAcDdhI=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOElYAPQBUWQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E09: El Regreso",
+                            "d": "Rocío Le dice a Gina que Jayden no le gusta para ella.. Gina recibe una pertenencia de su padre.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOVABLIwJYSURLIx0O",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDdRECVQFVIRc=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEltYLQEOXw=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E08: Los Nueva Onda",
+                            "d": "Gina y Manu hacen equipo y crean en una nueva versión del nuevo tema de Mr One. Se verán en problemas.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOBlRENkAOWwEKLEwT",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDdRdYAwMAJkU=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOElhFPhUAXg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E07: El Show de los Influencers",
+                            "d": "Valentina invita a su show a Gina y otros influencers mientras Rubi graba un video como solista.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOXgZEdU0KSEdYdBET",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDdUxTCAJRdkw=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEl9DIxgNXw=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E06: #RubyNumber1",
+                            "d": "Rubí Invita a Jairo a hacer un nuevo video para darle Celos a Jayden. Jayden sigue buscando a Gina",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOW1cLMwdWB1RQdx1X",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDdUUACAoGI00=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNQQMQkZBIhUMH15aMRFOEkVdJBFUBw=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E05: Mystery D",
+                            "d": "Gina sale airosa de una prueba de Baile. Mystery D baila en las redes. Aurora habla con Salvador.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOSAVJMEYOWkREdgUU",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDdhcAAlZWdEQ=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkpAKAQSBA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E04: El Grande Contra Ataca",
+                            "d": "La cercanía entre Gina y Manu tiene molesta a muchos. Jayden invitará a gina a pasear en Skateboard.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOXlNcJg0HAQsHPUwH",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDdhIHAFAEcEA=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNAATQQBDaRcOXB0QdhgDSVtJ"
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E03: Con Todo el Corazón",
+                            "d": "Gina y Manu se acercan más, componen e interpretan “Con Todo El Corazón”, Jayden busca conquistar a Gina.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOWEpUIR4XRUIHd0EU",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDdhJQUwRSdkE=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkJBdBoTXg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E02: Bienvenida al IMC",
+                            "d": "Gina y Manu son reprendidos por Mr.One.Jayden está decidido a conquistar a GinaYei y humillar a Manu",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOQF9CKwUABktbNEUL",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDdkdQVQRRdxY=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOElwGIQIVRA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E01: @GinaYei",
+                            "d": "El primer día en el IMC, Gina conocerá a Jaiden, a Rubi y a Manu con quien tendrá una gran conexión",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOWUtbNkVRXAEHMwVR",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDdxICBwRVJUU=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEgpEPw4ARQ=="
+                            ],
+                            "s": true
+                        }
+                    ]
+                },
+                {
+                    "n": "Temporada 2",
+                    "ep": [
+                        {
+                            "n": "S02E01: Influencers y Modelos",
+                            "d": "A Valentina se le ocurre comenzar una campaña de ropa playera. Jayden y Manu quieren irse del instituto.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOWEhXMhsNRQJLcEQG",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDdBJUCQZSfhU=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkJBdBoQRg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S02E02: De Dos en Dos",
+                            "d": "Isabel quiere que Gina y Ruby formen un duo Gina está triste porque Manu se quiere ir del instituto.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOR1YGIhcZWQdKMQAA",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDc01VAQIHfhA=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNAATQQBDaRcOXB0QNQ0HWgdV"
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S02E03: Hecho Para Ti",
+                            "d": "Jayden y Manu siguen con su dúo. Luis Diego se enreda con Vero y Amy. Valentina quiere averiguar si Rocío y Mr. One tienen algo.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOCF9XK0EYSVxeME0J",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDckVZVVYHdUE=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNQQMQkZBIhUMH15aMRFOEldfMg5ZVg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S02E04: Letra y Musica",
+                            "d": "Rocío admite que estuvo con Mr. One “Sigo pensando en ti” es el nuevo tema éxito de Jayden y Manu.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOQkhKcB9UA0hDdhtS",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDcxJZCAUEdkM=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEgECIBIZRA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S02E05: Dime Con Quién Andas",
+                            "d": "Mr. One saca a Hansel del instituto. Gina decide hablar con Jayden sobre el beso entre él y Lucía.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOQAtbNgIJBkYHdxMA",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDckJXB1QKc0c=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNQQMQkZBIhUMH15aMRFOEllKKAcGVg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S02E06: Secretos y Renuncias",
+                            "d": "Lucía decide aliarse con Ruby y las Joyas. Gina le confiesa a su mamá que está confundida entre Jayden y Manu",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJORF5VMhFZXlNFPgwH",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDcUUABwILJkE=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEgdKLhZXSA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S02E07: El Regreso de los Anillos",
+                            "d": "Ruby le cuenta a Manu que Gina y Jayden se besaron. Hansel propone a Mr. One el retorno de los “Golden Rings”",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOBgIEKEICU0hRJkxV",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDcxEHBwALd00=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEltYLQEPCQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S02E08: La Sirena Está Triste",
+                            "d": "Jayden pide a Gina si quiere ser su novia. Manu enfrenta a ambos, termina con Gina y también el dúo con Jayden",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOQVVBNgQQRwZGLwIF",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDckxRA1NWchI=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNQQMQkZBIhUMH15aMRFOEl1WPgYWWA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S02E09: Uno es Suficiente",
+                            "d": "Jayden y Manu se pelean y Gina trata de impedirlo. Mistery “D” reaparece y roba los 3 golden Rings.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJORAJLPR0DUAZadhkC",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDchdZBlRSc0Y=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOElpcfxAQVA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S02E10: Dime Con Quién Andas",
+                            "d": "Jayden y Ruby Rubí planean competir por separado. Cassandra contrata a un hacker para alterar los resultados de las votaciones.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJORQtGJBIZCFZfNAQb",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDcRIAVAcLfhU=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNQQMQkZBIhUMH15aMRFOEllKKAcHVw=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S02E11: La Primera Batalla",
+                            "d": "Siguen los “Golden Rings”, Manu tiene roto el corazón y Gina no puede creer que Manu vuelve terminar con ella.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOUERDdhlQBApWIxNV",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDcBJUVAMKf0w=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkZVcQ1XXQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S02E12: La Cantante Soy Yo",
+                            "d": "Salvador dice a Gina que él su papá, Aurora confiesa que ella es “Mistery D” y también la hermana de Gina… Gina y Manu se reenuentran y deciden estar juntos de nuevo ¡Con todo el corazón y más!",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJORwZWf0BZRFoCIBkF",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwoDcE0DAwMCfhE=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEgECIBIGVQ=="
+                            ],
+                            "s": true
+                        }
+                    ]
+                }
+            ]
+        },
+        "s7": {
+            "t": "S",
+            "n": "Las gotas de Dios (2023)",
+            "d": "Mientras el mundo del vino llora la muerte de Alexandre Léger, su hija Camille, muy distanciada de él, descubre la extraordinaria colección que puede ser suya. Pero, para reclamar su herencia, Camille debe superar a Issei, el protegido de Alexandre, en una prueba para sus sentidos.",
+            "i": "https://image.tmdb.org/t/p/w342/pWmWtTqcWdE4QnA5UMr2jCvmzEE.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/n1S7wjXldg351ajDMWSgMpfmfyW.jpg",
+            "y": "2023",
+            "g": "Drama",
+            "tm": [
+                {
+                    "n": "Temporada 2",
+                    "ep": [
+                        {
+                            "n": "S02E01: El presente",
+                            "d": "Issei y Camille se reúnen en la finca Chassangre, donde reciben un misterioso regalo y una serie de instrucciones que pondrán a prueba su vínculo.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOXkhWf0FZXQRacAME",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwBRJE1YUAYAJEU=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkJBf0ERQg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S02E02: La misión",
+                            "d": "Tras vivir una experiencia cercana a la muerte, Issei busca junto a Camille una pista crucial sobre el vino misterioso.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOQEtZfx8XXlNFMx8P",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwBRIxACCQADd0Y=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOElpcLQANQA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S02E03: El origen",
+                            "d": "La tensión entre Issei y Camille aumenta cuando su búsqueda los lleva a la campiña georgiana y a un conflicto familiar que comenzó hace décadas.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOV0UHKwIQQFdcLwwR",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwBRJEdSCVdSIxA=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEltYNRcSSQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S02E04: Hermano y hermana",
+                            "d": "En una fiesta crucial, Issei y Camille utilizan sus conocimientos sobre vinos para intentar impresionar a una invitada especial y hacer cambiar de opinión a Davit.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOR1pbJRYVWVwFdRkH",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwBRI0cAUAYEfhE=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNQQMQkZBIhUMH15aMRFOEl1LKAYHXQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S02E05: Confía en mí",
+                            "d": "Issei pasa la noche en la bodega y allí resurgen recuerdos oscuros. Tamar cumple su parte del trato y aceptar reunirse con Davit.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOWQRDIRsHA1RedwYL",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwBRIxFSAQoCfk0=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNQQMQkZBIhUMH15aMRFOEgpYfxVYAg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S02E06: El concurso",
+                            "d": "Issei regresa a Tokio para afrontar su pasado. Camille asume un riesgo que puede ponerlo todo en peligro.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOXQBdcUQFU0tYLhgX",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwBQdxBQAlMKckc=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOElVfKAURSA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S02E07: Pirro",
+                            "d": "La mentira de Camille acaba con el Concurso de Nuevos Vinos y con su vida personal mientras Issei se esfuerza por poder perdonar.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOXVALcUUUSEgFN0II",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwBQdhFTUwVVc0Y=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkpALBoSUA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S02E08: Liberación",
+                            "d": "Issei y Camille buscan cómo empezar de nuevo tras una pelea amarga y una tragedia familiar.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOAgFSKwITBVNQLxkO",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwBQdkQFVVZSfxU=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNAATQQBDaRcOXB0QL0IbWlhY"
+                            ],
+                            "s": true
+                        }
+                    ]
+                }
+            ]
+        },
+        "s8": {
+            "t": "S",
+            "n": "¿Debería casarme con un asesino? (2026)",
+            "d": "",
+            "i": "https://image.tmdb.org/t/p/w342/kSnudctwOTHPArz78vHmf4Emc1B.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/A1DSMj6VQcvvJmNNBTSSLqQ5bzF.jpg",
+            "y": "2026",
+            "g": "Crimen, Documental",
+            "tm": [
+                {
+                    "n": "Temporada 1",
+                    "ep": [
+                        {
+                            "n": "S01E03: Episodio 3",
+                            "d": "",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOUwZVcxoTAQBCPhMJ",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwBQcEZRAgtXIUU=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEgQKI0xSXg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E02: Episodio 2",
+                            "d": "",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOB0pAJRECRF5YdR8M",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwBQcEJQUAIFckI=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEgQKI0wCXA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E01: Episodio 1",
+                            "d": "",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOQwRFJA0JBF8GNBkX",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwBQcUxZVVRXIhY=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEgECPxEJQQ=="
+                            ],
+                            "s": true
+                        }
+                    ]
+                }
+            ]
+        },
+        "s9": {
+            "t": "S",
+            "n": "Gold Land (2026)",
+            "d": "",
+            "i": "https://image.tmdb.org/t/p/w342/exAqL4Hbh2M712QlFwGDTqZeiAl.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/9PPwN7uMdYPYFfpZ9VciDoJQHm6.jpg",
+            "y": "2026",
+            "g": "Crimen, Drama, Misterio",
+            "tm": [
+                {
+                    "n": "Temporada 1",
+                    "ep": [
+                        {
+                            "n": "S01E04: Episodio 4",
+                            "d": "",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOQ1NRNhFTAlNDLBwC",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYV1dRfhcEUFFWckc=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEl1QdgwMXQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E03: Episodio 3",
+                            "d": "",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOAlNcJQYKXgoCKUQK",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYV1dRfkNUBwUHcEE=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNQQMQkZBIhUMH15aMRFOElRQIwZZWg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E02: Episodio 2",
+                            "d": "",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOR1RDIBwHREtGNhsP",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwBQcRUDA1FVJRA=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkcLckVQWg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E01: Episodio 1",
+                            "d": "",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOUFBcLwcGXFpALxcD",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwBQcxUAUwVXfhU=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNQQMQkZBIhUMH15aMRFOEkNKNh0FUA=="
+                            ],
+                            "s": true
+                        }
+                    ]
+                }
+            ]
+        },
+        "s10": {
+            "t": "S",
+            "n": "La maldición de Widow's Bay (2026)",
+            "d": "Un alcalde de Nueva Inglaterra intenta fomentar el turismo, pero se enfrenta a extraños acontecimientos que sugieren que la isla está encantada.",
+            "i": "https://image.tmdb.org/t/p/w342/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
+            "y": "2026",
+            "g": "Drama, Misterio, Comedia",
+            "tm": [
+                {
+                    "n": "Temporada 1",
+                    "ep": [
+                        {
+                            "n": "S01E03: El baño inaugural",
+                            "d": "Es el momento de la inauguración anual de la playa. Extiende una toalla mientras el alcalde \"prueba el agua\". Por otro lado: no recojas autoestopistas.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJORUFQN0NWBlQDIQEF",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYV1NXJE1ZUwQEI0c=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEgpEKhIVQA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E02: Alojamiento",
+                            "d": "Descubre el encanto histórico de nuestro hostal. El alcalde Loftis demostrará que es seguro y dormirá una noche allí, solo.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOQUZVPRJSUkRLKQIN",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYV1NXJE1SUwADf0U=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEl1QPUEPSQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E01: ¡Te damos la bienvenida a Widow's Bay!",
+                            "d": "Esperamos que hayas disfrutado de las tres horas de ferri hasta el secreto mejor guardado de Nueva Inglaterra. A la niebla no le pasa nada.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOUEFbLh8HB1QLIRgS",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYV1NXJhYACFFVIhY=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEgdKIhkACQ=="
+                            ],
+                            "s": true
+                        }
+                    ]
+                }
+            ]
+        },
+        "s11": {
+            "t": "S",
+            "n": "Los encantos del sinvergüenza (2026)",
+            "d": "",
+            "i": "https://image.tmdb.org/t/p/w342/o5qxoBRhFrBMmpwPGKFJ18KOUbe.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/nu2yviKOFBHtPUTydnPp09xPBT5.jpg",
+            "y": "2026",
+            "g": "Drama, Comedia",
+            "tm": [
+                {
+                    "n": "Temporada 1",
+                    "ep": [
+                        {
+                            "n": "S01E05: Episodio 5",
+                            "d": "",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOBQJDfk0WQVtCcwcT",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwIBfkVUB1QGc0Y=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEldGNQ0GQA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E04: Episodio 4",
+                            "d": "",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOCEpYLkYNAl1BdRsF",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwIBfxdZAgoCdxU=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkRRIB5SVg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E03: Episodio 3",
+                            "d": "",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOBVdSNUcFXARQKxpQ",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwIBf01YBgZRcBE=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNQQMQkZBIhUMH15aMRFOEgsFfhMJSQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E02: Episodio 2",
+                            "d": "",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOV1leJRxWWltAPUwD",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwIBf0xZAVYDdxc=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkcLMxENVQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E01: Episodio 1",
+                            "d": "",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOQUBYJEMEUEYKKRYD",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwIBf0JTVQQBdEA=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOElwGMBgUVQ=="
+                            ],
+                            "s": true
+                        }
+                    ]
+                }
+            ]
+        },
+        "s12": {
+            "t": "S",
+            "n": "Sociedade da Virtude: A Série (2026)",
+            "d": "",
+            "i": "https://image.tmdb.org/t/p/w342/sFUK0nVuUQ7JptFAfamnWl3nplz.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/dxcRZgViVjQsabWEgUi3PQMbtRU.jpg",
+            "y": "2026",
+            "g": "Animación, Comedia",
+            "tm": [
+                {
+                    "n": "Temporada 1",
+                    "ep": [
+                        {
+                            "n": "S01E10: Episodio 10",
+                            "d": "",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOXQRJI0RRSEdCLBkI",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwIBcBJTAQoBIxU=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOElhFPU0OXg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E09: Episodio 9",
+                            "d": "",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOXAJZPR8KWFBANhIS",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwIBcE1RAFcLdUU=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEl1QchwNWQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E08: Episodio 8",
+                            "d": "",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOA1lQcUJSRFdbLBwR",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwIBcEwCAVBRdhE=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkpAfhVQRw=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E07: Episodio 7",
+                            "d": "",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJORURLfkYCQV0BfkBY",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwIBcENRUgZQcUQ=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOElYAMQdYVA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E06: Episodio 6",
+                            "d": "",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOQgBZLxcJVQJbKx4Q",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwIBcENXUAtWd0c=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEgtZJEIJUw=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E05: Episodio 5",
+                            "d": "",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOAgsBdEEIW0UAIU0H",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwIBcEcECQMKd0E=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEgECJRALXQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E04: Episodio 4",
+                            "d": "",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOS0pWLh0QVwVLLgZQ",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwIBcEBYCAAAJkc=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkJBNhkIRw=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E03: Episodio 3",
+                            "d": "",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOX19RfkwLS1tZLxUF",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwIBcERWAQBQcE0=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEgQKKEUDXg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E02: Episodio 2",
+                            "d": "",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOVAUCKgYUV1RQdhUQ",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwIBcRJQAwMFcEM=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOElBbKwIbWQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E01: Episodio 1",
+                            "d": "",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOQV8AfhULAUZEKB4V",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwIBcRIAA1YKIxU=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEgQKKEUYXA=="
+                            ],
+                            "s": true
+                        }
+                    ]
+                }
+            ]
+        },
+        "s13": {
+            "t": "S",
+            "n": "La nena (2026)",
+            "d": "Meses después de los sucesos de La Red Púrpura, la cacería no ha terminado. Tras la muerte de Lucas, Elena Blanco ha desaparecido. Solo Mariajo conoce su paradero, manteniéndolo en secreto incluso para el resto del equipo. La lucha contra La Red le arrebató demasiado y en un intento desesperado por recuperar el control de su vida dejó atrás la BAC.",
+            "i": "https://image.tmdb.org/t/p/w342/v0dOqOT7XlHcPEoZ99lYz1D235D.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/b1wlHMNqxXw5Rpyc1ILaduPd8C1.jpg",
+            "y": "2026",
+            "g": "Drama, Misterio",
+            "tm": [
+                {
+                    "n": "Temporada 1",
+                    "ep": [
+                        {
+                            "n": "S01E02: Sin perdón",
+                            "d": "Tras un brutal intento de asesinato, Elena sobrevive y, a pesar de su frágil estado, decide reincorporarse a la BAC, consciente de que la Red Púrpura la quiere muerta. La investigación oficial avanza cuando Buendía identifica un nuevo cadáver encontrado en un pozo. La víctima: Beatriz Villacampa, una poderosa empresaria que dirigió el mismo centro de menores que Rocío Narváez, líder de la red, tiempo atrás. La tensión en el equipo crece cuando el juez Zamora vuelve a intervenir, liberando a Cardona y confirmando las sospechas de corrupción en las altas esferas. Mientras la BAC se siente maniatada por el sistema, Chesca, operando desde las sombras, localiza a Cardona y a sus secuaces en una finca aislada. En un violento asalto, los neutraliza y secuestra a Cardona, llevándolo a un matadero abandonado para iniciar su propio y sádico interrogatorio, cruzando una línea de la que ya no habrá retorno.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOB10BK0dTAFMEMUcH",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwIBcExWCQdVd0Y=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEgECJRAPQQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E01: Agua y sangre",
+                            "d": "Tras la resolución de un caso que ha dejado profundas cicatrices, la BAC se enfrenta a la desoladora realidad de sus consecuencias. La inspectora Elena Blanco lucha por sobrellevar la pérdida de su hijo, mientras que su compañera Chesca está atrapada en una espiral de trauma y autodestrucción a raíz de su secuestro y tortura a manos de la violenta organización conocida como la \"Red Púrpura\". Cuando surgen nuevas pistas que apuntan a que la red sigue activa, el equipo se ve forzado a adentrarse de nuevo en un mundo de extrema violencia. La investigación se centra en un peligroso exconvicto que parece ser una pieza clave en las operaciones de la organización, obligando a los inspectores a poner en marcha un arriesgado operativo para capturarlo. El detenido es Camilo Cardona, viejo amigo de Miguel Vistas…",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOUAtKKEYSXVQCNhBZ",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwIBf0UEVwIHIU0=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkJBNhlXBA=="
+                            ],
+                            "s": true
+                        }
+                    ]
+                }
+            ]
+        },
+        "s14": {
+            "t": "S",
+            "n": "La Escalera (2022)",
+            "d": "Basada en una historia real, The Staircase explora la vida de Michael Peterson, su familia de Carolina del Norte y la sospechosa muerte de su esposa, Kathleen Peterson.",
+            "i": "https://image.tmdb.org/t/p/w342/jiAcdCyf1UbWYBImcNtVeLW0pRj.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/rtDGYw9xUh4bdrIdjzUuvVHS7kb.jpg",
+            "y": "2022",
+            "g": "Crimen, Drama",
+            "tm": [
+                {
+                    "n": "Temporada 1",
+                    "ep": [
+                        {
+                            "n": "S01E08: La pareja del año o: Tiempo al tiempo",
+                            "d": "Con la posibilidad de un nuevo juicio, a sus 73 años Michael se enfrenta a una importante decisión. Martha y Margaret comparten sus historias y Sophie debe aceptar algo.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOW1cCIhVRWkEFKUIE",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwIBdE1ZAVECfxc=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkpAfhUWVg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E07: Buscad y hallaréis",
+                            "d": "Cuando aparece un cadáver con heridas parecidas a las de Kathleen, Sophie sigue intentando descubrir qué le ocurrió realmente a Kathleen. Martha investiga su pasado a pesar de las reservas de Margaret.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOA0ZfcBlUBkpWdQEG",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwIBc0YCBFFScBY=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEgQKKEVQUw=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E06: Cruel y despiadado",
+                            "d": "En 2006 Sophie investiga una teoría disparatada sobre la noche en que Kathleen murió. En 2017 Michael se plantea comprometer sus principios a cambio de conseguir la libertad.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOREhDLRAHQ0JQP0wS",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwIBc0QFUgVSJEA=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEl5dfxMGSQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E05: El corazón palpitante",
+                            "d": "Tras el veredicto, los Peterson tienen dificultades para aceptar la decisión del jurado. Michael se apoya en una amistad que se encuentra a miles de kilómetros.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOBgVHLwwQVEBUcBgO",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwIBdRdXVAtSfkY=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOElYAMQcSVg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E04: Sentido común",
+                            "d": "Un descubrimiento muy importante estremece a los Peterson. El final del juicio se acerca y el futuro de Michael pende de un hilo.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOBF9LJh1ZBFdXKxwY",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwIBdRZTUgBScBY=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkJBNhkMAg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E03: El gran mentiroso",
+                            "d": "Mientras el fiscal del distrito intenta cerrar su caso, unos detalles del pasado de Michael salen a la luz y ponen en peligro su defensa.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOWEEKLEUOWUJadBEF",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwIBdRFZU1QFc00=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkZVPwYTXA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E02: Quirópteros",
+                            "d": "Mientras trabaja en su defensa, Michael se plantea contar su historia en un documental. Caitilin tiene muchas dudas tras descubrir algo impactante sobre su padrastro.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOQgZCdEwARF0HLxxQ",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwIBdUJUVFQAdEQ=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkRRIB4LSA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E01: 911",
+                            "d": "En 2001 el escritor y aspirante a político local Michael Peterson es acusado de asesinato tras la extraña muerte de su mujer Kathleen.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOSEdWJAwKRF8AMA4Q",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwIBdhFUVFFRdhA=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNAATQQBDaRcOXB0QMwEPVFlC"
+                            ],
+                            "s": true
+                        }
+                    ]
+                }
+            ]
+        },
+        "s15": {
+            "t": "S",
+            "n": "La isla del minotauro (2026)",
+            "d": "Un minotauro criado por humanos empieza a soñar con su pasado y se embarca en una aventura trepidante con la ayuda de su hermano y sus amigos para revelar su identidad.",
+            "i": "https://image.tmdb.org/t/p/w342/3rWAA1bJq7jeOtGU9B080uCJ3uv.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/iWFrb4RtT7EknjtoRarAFi7ysUt.jpg",
+            "y": "2026",
+            "g": "N/A",
+            "tm": [
+                {
+                    "n": "Temporada 1",
+                    "ep": [
+                        {
+                            "n": "S01E10: Solucionar y luchar",
+                            "d": "Cuando las fuerzas oscuras se infiltran en Bryony Island, unos niños deberán proteger a sus habitantes.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOQlUKPgUGWkBedhMS",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYEcUADAAIFI0I=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEldGNRAKWg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E09: Hermanos y tormentas",
+                            "d": "Todo parece perdido, incluso Lorcan y el amuleto, pero los niños están decididos a recuperarlo cueste lo que cueste.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOVwtFJgRUS1ZCIxkK",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYEck0HB1dWJkw=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNQQMQkZBIhUMH15aMRFOElgAMQYDRw=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E08: Laberintos y mentiras",
+                            "d": "La púca intenta llevarse a Lorcan al mundo de los minotauros con falsas promesas y los demás tratan de encontrarlo antes de que sea demasiado tarde.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOWFpHKwRVCVELNgUb",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYEckEFAQcEdkw=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEgECJQ0WVg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E07: Respuestas y amuletos",
+                            "d": "Los Ancianos por fin revelan lo que saben sobre Lorcan y su mundo con la esperanza de disuadirlo de que regrese jamás.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJORQMHPRgNRlADLhIW",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYEckICCQUBcBY=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEldGNRBYCA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E06: Sospechas y secretos",
+                            "d": "Cuando los niños descubren la verdadera identidad de la púca, trazan un plan para atraparla de una vez por todas.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJORgtLP0cZXQZEfhgO",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYEchdYU1YAIhI=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOElhFPQNSVA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E05: Minotauros y monstruos",
+                            "d": "Para ayudar a Lorcan a controlar su ira, George se lo lleva a un retiro de artes marciales. Los demás encuentran la pista más importante.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOAUAHJhcIS0JBNkIT",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYEchYHUApWckc=",
+                                "LwAVQUEJaFsRVF5aNAQNREFHKFpVXFdDKxUYVEAdNwYOHhEKJgcQRA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E04: Cabras y rabia",
+                            "d": "Un encuentro con la púca lleva al grupo hasta una puerta misteriosa que les acerca a las respuestas que buscan.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOAVNQKRZZAlhFIwEN",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYEcxJUUgoLf0I=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkFXLRpYWw=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E03: Mapas y mitos",
+                            "d": "Los niños exploran las ruinas y sus peligros ocultos y Craignelder recluta a su atormentado hijo para incriminar a Lorcan en un retorcido plan.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOAQIEdEALBVMGKAIA",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYEc01RVFMHJRA=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEgQKKAEEBw=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E02: Portales y reuniones",
+                            "d": "Los Ancianos están decididos a frenar los ambiciosos planes de Craignelder y los niños descubren un vínculo pasado con consecuencias inesperadas.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOVlpbN0JTR0tSfxgY",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYEdEMEAAAHJUU=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOElhFPQNZBw=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E01: Lorcan y la locura",
+                            "d": "Cuando Lorcan, el minotauro, empieza a tener visiones y a comportarse de forma extraña, su hermano humano Charlie lo ayuda a llegar al fondo de todo.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOVllVfhIISEgDNhcZ",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYEdENRA1dWc0Q=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkZVPxYXRg=="
+                            ],
+                            "s": true
+                        }
+                    ]
+                }
+            ]
+        },
+        "s16": {
+            "t": "S",
+            "n": "El profe (2026)",
+            "d": "Eddy, genio de las matemáticas y delincuente de poca monta, evita la cárcel haciéndose pasar por profesor. Su misión: identificar a un criminal importante.",
+            "i": "https://image.tmdb.org/t/p/w342/ieFwnQWpI1XYIiYMTFMYNH3ny09.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/caabnbe4QJ5ZvJipH4cssFkbzwc.jpg",
+            "y": "2026",
+            "g": "Crimen, Comedia",
+            "tm": [
+                {
+                    "n": "Temporada 1",
+                    "ep": [
+                        {
+                            "n": "S01E08: Acorralado",
+                            "d": "Los alumnos se preparan para el examen final con francotiradores rodeando el instituto. Ante el pánico generalizado, Eddy protege a una alumna, arriesgando su propia vida.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOBFpCJUdYWVoHdQAG",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYEdRFQAFcEfkA=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkNSdgMQQg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E07: Atrapado",
+                            "d": "Tras una carta de amor que ablanda el corazón de Tiphaine, una mentira imprudente provoca una oleada de acusaciones y Lucie lleva a Eddy al límite para completar la misión.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOAgoKMgIFSERDcgRU",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYEdRACAVQBIhI=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNQQMQkZBIhUMH15aMRFOElxCfxAKQw=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E06: Enmadrado",
+                            "d": "Alguien del pasado arroja nueva luz y genera nuevas dudas sobre el caso. Eddy organiza una reunión de padres y profesores para que Lucie pueda buscar pistas.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOX1VKPhFZVl9UJARX",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYEdRIEUwYAcUQ=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNQQMQkZBIhUMH15aMRFOElVEcUdQXA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E05: Viralizado",
+                            "d": "El profesor Pez se hace viral en toda Francia mientras Lucie intenta llegar a un acuerdo con el contacto de Sagirov y Eddy aparece en la televisión local.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOWAZfIkAPQANHfkMV",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYEdEdZAgBVIUY=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEgtZJAUNCQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E04: Cabreado",
+                            "d": "Mientras una huelga en el instituto atrae la atención de los medios, Eddy trata de descubrir a un topo entre los profesores, lo que da lugar a una protesta con tintes políticos.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOU0JRK0BUBkYBMB4J",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYEdUADBQRWchU=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOElVfMk0ZVw=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E03: Desembarcado",
+                            "d": "Durante una excursión a Normandía, Eddy intenta torpemente recoger muestras de ADN para Lucie e impresionar a Tiphaine de una forma bastante polémica.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJORFVeckwKQgBfMxMD",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYEdURTCQUKJhU=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNQQMQkZBIhUMH15aMRFOEkZfIhwVRg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E02: Hackeado",
+                            "d": "El caos reina en el instituto tras un tenso simulacro de seguridad y las incursiones nocturnas de Eddy, lo que lo convierte en el principal sospechoso… y lo acerca más a Tiphaine.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOWlxRdhhUVFEGMBpT",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYEdURWUAJSIUI=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOElhFPRUTSQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E01: Infiltrado",
+                            "d": "Cuando la policía lo atrapa en una redada, Eddy, un delincuente de poca monta, tiene dos opciones: ir a la cárcel o infiltrarse como profe de mates en un instituto.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOUFFQKBhXXFpZfx4A",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYEdkwABwUDc0Q=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkBHJkEOCQ=="
+                            ],
+                            "s": true
+                        }
+                    ]
+                }
+            ]
+        },
+        "s17": {
+            "t": "S",
+            "n": "Si los deseos mataran... (2026)",
+            "d": "Una enigmática aplicación concede deseos, pero inicia una cuenta atrás mortal. Un grupo de adolescentes se ven atrapados en este círculo y deberán romperlo para sobrevivir.",
+            "i": "https://image.tmdb.org/t/p/w342/UfderQmlqcufq6ZOULpoLmb18y.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
+            "y": "2026",
+            "g": "Drama, Misterio",
+            "tm": [
+                {
+                    "n": "Temporada 1",
+                    "ep": [
+                        {
+                            "n": "S01E08: Episodio 8",
+                            "d": "Cuando todo parece perdido, Se-ah se enfrenta al origen de la maldición. ¿Podrá detener las muertes de una vez por todas?",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOVUgAKBkJWlUCNxFV",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYEdURUAQIFc0M=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEgpEIQ4PCA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E07: Episodio 7",
+                            "d": "Mientras los espíritus intentan sabotearlos, el grupo busca el teléfono original. Sin embargo, cuanto más se aproximan, más cerca acecha el peligro.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOXEtXPxgMAQtcIUZY",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYEdkxYBFcCJEU=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEgQKKB8ZUg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E06: Episodio 6",
+                            "d": "La inocente amistad entre Kwon Si-won y Do Hye-ryung, echada a perder por los celos, el resentimiento y la venganza, acaba dando origen a Girigo y a la maldición.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOX0tGcAUPXVlRKkIW",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYEdkwHBlAAdRY=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNQQMQkZBIhUMH15aMRFOEllbKhcMWA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E05: Episodio 5",
+                            "d": "Después de una noche de fiesta, Lim Na-ri descubre una verdad aterradora. Mientras intenta entender lo que siente por Geon-woo, los celos empiezan a consumirla.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOUEULMA0WR1oBdEUE",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYEdxEACAIKIkY=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEldGNRsMVg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E04: Episodio 4",
+                            "d": "Ha-joon, Se-ah y Bangwool investigan el origen de Girigo siguiendo la pista de un amigo virtual de Hyeong-wook. Pronto encuentran una casa con posibles pistas.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOBkJRIAUQXgtJIxsS",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYEdxVQBFAFdxU=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkJBNhoIUw=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E03: Episodio 3",
+                            "d": "Para expulsar el mal, Kang Ha-joon lleva a Se-ah con su hermana chamana, que la envía a un lugar maldito lleno de miedo, trauma y abandono.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJORVkDJUBSR11ZP0ZX",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYEd0wABVYGfxU=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkNSdgMFBw=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E02: Episodio 2",
+                            "d": "Tras una tragedia repentina, Yoo Se-ah teme que Kim Geon-woo sea el siguiente y reúne a sus amigos para encontrar una solución. Pero Girigo resulta imposible de frenar.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOB0JQcgEKXlUCPR4E",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYEd0JVBgMKd0E=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkpAfgRQXQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E01: Episodio 1",
+                            "d": "Tras concederle Girigo un deseo, Choi Hyeong-wook enseña la aplicación a sus amigos, que se lo toman a broma. Pero pronto empiezan a preocuparse por su comportamiento.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOS1lLMwYCS1YHKB8E",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYEd0VVUwZQJhY=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEgECJRILRg=="
+                            ],
+                            "s": true
+                        }
+                    ]
+                }
+            ]
+        },
+        "s18": {
+            "t": "S",
+            "n": "Cochinas (2026)",
+            "d": "La historia de una mujer madura en el Valladolid de los 90, que tiene que coger las riendas del videoclub familiar. Para salvar el negocio apuesta por el porno.",
+            "i": "https://image.tmdb.org/t/p/w342/mwHiEXTdby9chLpuNrWGSUt8C8p.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/pGhq2AODZEB1y0aAYYF6DqiJMj7.jpg",
+            "y": "2026",
+            "g": "Comedia",
+            "tm": [
+                {
+                    "n": "Temporada 1",
+                    "ep": [
+                        {
+                            "n": "S01E08: Devórame otra vez",
+                            "d": "Tras los destrozos provocados en el videoclub, el Dorothy cierra definitivamente sus puertas y Nines decide tirar la toalla y volver a su papel de ama de casa. Pero lo que ha despertado en ella ya no puede borrarse. Mientras, Chon descubre el secreto mejor guardado de Eloísa.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOU1FDMwVRU1hfch4X"
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E07: Mientras dormías",
+                            "d": "El cisma entre Nines y Chon parece insalvable. Ya despierto, Mariano vuelve a casa y Nines le oculta la verdad sobre el videoclub mientras hace un último intento por salvar el local. Tere tiene una mala experiencia sexual y la tensión en el barrio acaba explotando.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOREoLc0MUXksGMh5S",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYFIUFUBAAFIkw=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEgdKKhYLXQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E06: Lelly Kelly y Dolly Melony en la fiesta de las pollas",
+                            "d": "Nines y Chon viajan a la Feria del Porno de Barcelona en busca de un inversor para salvar el negocio. Durante su ausencia, Mariví lidera las reuniones del cinefórum mientras Agu trata de explorar su sexualidad. Pero una nueva amenaza se cierne sobre el Dorothy...",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOSwICLUUNXApAIhpU",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYFIURZAQsBfxA=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEgtZJAUIVQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E05: Sáhara",
+                            "d": "Las vecinas se reúnen en la trastienda del Dorothy para hablar de sexo, lo que despierta recelos entre los hombres del barrio. Nines afronta una noticia inesperada y Chon descubre un secreto de Alfonso que cambia todo. Mientras, Agu conoce a alguien que puede ayudarle con sus dudas.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOVwVAdh8HUgNEdhkT",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYFIkxYBAFQJkE=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEl9DLBgWWw=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E04: Empresaria del año",
+                            "d": "El boca a boca de las vecinas hace que el Dorothy viva una nueva época dorada, lo que levanta las sospechas de Fidel. Nines disfruta del éxito de su nuevo negocio y se entrega por fin al maravilloso mundo de la masturbación. Por su parte, Agu siente que no encaja.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOB0YEfhdQCVtLNw4X",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYFI0ADAAcFfxE=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOElYAMQASCQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E03: Ve y cuéntaselo a tus amigos pajilleros",
+                            "d": "Chon debe viajar a Madrid para tratar un asunto urgente. Mientras, el nuevo Dorothy abre sus puertas y Nines se desespera al ver que no va nadie. ¿Y los guarros? Mariví, una madre superada con mucho carácter, descubre por accidente el porno gay... y siente cositas.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOQAZJPhgLQFNUJh8M",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYFI0JXAwBSJUI=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNAATQQBDaRcOXB0QJRNSRFVc"
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E02: No nos pasemos de modernas",
+                            "d": "Nines trata de convencer a Nazario para invertir en el nuevo Dorothy. Mientras, Agu y Chon transforman el almacén en la nueva zona X clandestina y comparten su secreto con Paca, la charcutera, que llega buscando películas verdes para atajar sus problemas de alcoba.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOVUZRMEQVBgQFMw0I",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYFJBdRBQcLIxc=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNAATQQBDaRcOXB0QMRxXXFoL"
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E01: ¿Qué les pasa a todos con el sexo?",
+                            "d": "Nines, una devota ama de casa, deberá hacerse cargo del videoclub familiar cuando su marido cae en coma. Tras descubrir que el negocio está en quiebra, a Nines no le quedará otra que especializarse en el único género que aún se alquila en el Dorothy: el porno.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOUApEfwwMXQdbLhAA",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYFJEJYBgdSf0Y=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOElhFPRUNRg=="
+                            ],
+                            "s": true
+                        }
+                    ]
+                }
+            ]
+        },
+        "s19": {
+            "t": "S",
+            "n": "Stranger Things: Relatos del 85 (2026)",
+            "d": "Hawkins. Invierno de 1985. En un pueblo lleno de secretos, unos héroes se enfrentan a nuevos misterios... y a una nueva y extraña amenaza.",
+            "i": "https://image.tmdb.org/t/p/w342/ssls8OpHHXtHcvIy7AiXipBddQX.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/ulBGaxq9GmJexyEOi4Xci74g6Vt.jpg",
+            "y": "2026",
+            "g": "Acción, Fantasía, Animación, Misterio, Ciencia ficción, Aventura",
+            "tm": [
+                {
+                    "n": "Temporada 1",
+                    "ep": [
+                        {
+                            "n": "S01E10: Capítulo diez: La cuenta atrás",
+                            "d": "Con el tiempo en contra, el grupo se une para librar una valiente batalla por sobrevivir. Los amigos deben ayudarse: el futuro de Hawkins depende de ello.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOWVhBP0wUXFBRIxxV",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYFJkMFCAcHcEI=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNAATQQBDaRcOXB0QLQIJVUVe"
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E09: Capítulo nueve: Sospechas",
+                            "d": "Tras una revelación impactante, el C. I. H. se moviliza para investigar, dividiéndose en equipos para encontrar nuevas pistas y destapar la verdad.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOX0ZAPR8EQlZcIBsU",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYFJk0AAlRRJBA=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEl9DLBhUVQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E08: Capítulo ocho: La fiesta",
+                            "d": "Dustin corre peligro en el minimercado cuando dos criaturas terroríficas irrumpen en el local. El grupo se equipa para bajar al subsuelo justo a tiempo para el cumpleaños de Nikki.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOVkJEfhEAWlhbMgUK",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYFJkECVQZRI0w=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkpAfgQVBw=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E07: Capítulo siete: Atrapados por la nieve",
+                            "d": "Lucas y Max buscan un lugar alto para enviar un código rojo. Mientras, Will, Mike y Nikki quedan atrapados en la escuela por la nieve... y Ce descubre que no están solos.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOBgELcBpYUwVYM0ML",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYFfhdWAgIFcE0=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkZVPw0KVQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E06: Capítulo seis: Se avecina una tormenta",
+                            "d": "Una ventisca se cierne sobre Hawkins. Dustin emprende una misión solo y Max y Lucas oyen una llamada de ayuda. Una jugada arriesgada acaba con parte del grupo castigado.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOXEZfdQYJV0tYPRoJ",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYFfhVRBAtRJkY=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkpAfgRSVQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E05: Capítulo cinco: El Weekly Watcher",
+                            "d": "Una foto que podría poner a Ce en peligro acaba en manos de un periódico, y los chicos convencen a Nancy para recuperarla con un arriesgado plan. Si fallan... es el fin.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJORVgBcw4WVF8BcR0X",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYFfhZVVAoHdUY=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNAATQQBDaRcOXB0QMB0FU1lb"
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E04: Capítulo cuatro: La confesión",
+                            "d": "Mike, preocupado, decide contarle la verdad a Hopper. Dustin arrastra a Steve hasta el C. I. H. y Nikki invita a Will al Pogo. Lucas y Max van al salón recreativo.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOWwUGLQ0QRAoEMBJW",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYFfkEEU1YDfxc=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkpAfgRSVg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E03: Capítulo tres: Evolución",
+                            "d": "La pandilla intenta averiguar qué ocurre con las criaturas mutantes que afectan al pueblo y reciben la ayuda de la señora Baxter, su profesora sustituta de ciencias.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOXF4FfkNYXwILJB1Q",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYFfkcHBAcFdEI=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkBHJkFXXQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E02: Capítulo dos: Mala cosecha",
+                            "d": "Nikki se une al grupo y al nuevo Club de investigadores de Hawkins. Unos extraños sucesos en una granja cercana ponen patas arriba el festival de invierno.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOX1QCIRkMB1hLPgcZ",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYFfkQHAVcKfhE=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkRRIAwUCA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E01: Capítulo uno: Bienvenida a Hawkins",
+                            "d": "Una inesperada amenaza trastoca los planes del grupo de ganarse un dinerillo extra quitando nieve y los lleva directo al peligro... y a conocer a una nueva estudiante.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOBVpGKhZSXQEHdRUH",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVFYFf00FBlYDdEw=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOElFJPkURRg=="
+                            ],
+                            "s": true
+                        }
+                    ]
+                }
+            ]
+        },
+        "s20": {
+            "t": "S",
+            "n": "Hulk Hogan: Real American (2026)",
+            "d": "Antes de ser Hulk Hogan, fue Terry Bollea. Descubre al hombre detrás de la leyenda en este documental sin censura que incluye su última entrevista.",
+            "i": "https://image.tmdb.org/t/p/w342/pdEEOQystKjHtC71RV6yRobY8bk.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/1nfKbw3TW9mANPRhfuJq9Gk9XuO.jpg",
+            "y": "2026",
+            "g": "Documental",
+            "tm": [
+                {
+                    "n": "Temporada 1",
+                    "ep": [
+                        {
+                            "n": "S01E04: Hulk vs. Terry",
+                            "d": "Hulk se ve obligado a diversificarse y acaba envuelto en una polémica. Se reinventa y habla sin pelos en la lengua, pero su muerte deja al mundo pendiente de su legado.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOB0FKNAQQW0oFNR5Q",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVAsDcRYFCQAFJU0=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkpAKxhSRA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E03: Hollywood Hogan",
+                            "d": "Aunque Hulk se dedica al cine y la televisión tras su expulsión de la WWE por un escándalo, la lucha libre le sigue llamando… y ahora necesita un villano.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOREdELh0ES1xXMBAV",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVAsDcUdWUwQEI0Q=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkBHMQJXQg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E02: Hulkmanía",
+                            "d": "WrestleMania III catapulta a Hulk al estrellato. Se enamora y se convierte en padre, pero conseguir todo lo que siempre ha deseado tiene un precio muy alto.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOUkIDIwFYAgEHLAEJ",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVAsDcRZQCQoCdUc=",
+                                "LwAVQUEJaFsRVF5aNAQNREFHKFpVXFdDKxUYVEAdNwYOHhECcgAKWQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E01: El ascenso",
+                            "d": "¿Quién era Terry Bollea? Así nació el carismático personaje de Hulk Hogan, desde sus inicios en la lucha libre hasta su impresionante ascenso a la fama.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOWlUANgMKW0pHIxgU",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVAsDcEQHA1YHIRA=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNAATQQBDaRcOXB0QdAQPRUcG"
+                            ],
+                            "s": true
+                        }
+                    ]
+                }
+            ]
+        },
+        "s21": {
+            "t": "S",
+            "n": "Santita (2026)",
+            "d": "",
+            "i": "https://image.tmdb.org/t/p/w342/v3kDHO5LFIvzqmOYNDPzwXnfMyq.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/yFMVgMYmAMy2LfztV0JhxWefIaj.jpg",
+            "y": "2026",
+            "g": "Drama",
+            "tm": [
+                {
+                    "n": "Temporada 1",
+                    "ep": [
+                        {
+                            "n": "S01E07: Suerte, doctora",
+                            "d": "Santita está contra las cuerdas después de las impactantes revelaciones, y la petición de Alejandro la pone ante una decisión imposible entre el deber y la devoción.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOUEoDdxZRR15cf0NV",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVAsDcUMCBVFVIUA=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkpAKxgQVw=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E06: Siempre arruinamos las bodas",
+                            "d": "En la boda de su sobrino, Santita se enfrenta a deudas cada vez mayores, sentimientos complicados y el futuro de su familia mientras salen a la luz viejas verdades.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOCVgCJUZYAkNaLAcV",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVAsDcxFQUgZVd0Q=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEl9Dfk1ZQQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E05: Conozco el caos",
+                            "d": "La tensión aumenta cuando Santita se enfrenta a Lía y luego intenta ocultar sus propios secretos durante una cena con Mauricio, Cecilia y Alejandro.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOBUQLMBYSQUMLcQAK",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVAsDcxUDAFcGJRI=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOElwGJhUGCQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E04: Errores mejores",
+                            "d": "En un viaje a la costa, Santita rememora el pasado mientras Alejandro reúne valor para pedirle algo impensable.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOWAVKIxwGUlxVLw0X",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVAsDcxAHVQUBJUM=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEllCJBdQXA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E03: No estoy para juegos",
+                            "d": "Alma se mete en un negocio arriesgado para salvar la clínica. Mientras Santita lidia con sus celos por Mauricio, Alejandro intenta arrastrarla de nuevo al pasado.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOVUFVNx5SWAYFPRoS",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVAsDckZYBVAHI0I=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNQQMQkZBIhUMH15aMRFOElZdMBhUXA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E02: Los Mandamientos de Santita",
+                            "d": "El marido de Cecilia corre a su lado en busca de respuestas. Mientras tanto, Santita pone en riesgo su seguridad y Lía llega a la clínica con problemas.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOCAdGKUEGWAdafkYN",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVAsDc0NXBgsHfkA=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEgQKMgECWQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E01: Ser Santa tiene su precio",
+                            "d": "Mientras sus deudas crecen por su generosidad y su afición al juego, Santita recibe en la clínica a una paciente rica con una petición discreta y un secreto impactante.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOV1dLPRcRQUBCLR4K",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVAsDc0FZAwVSd0M=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkFXKRpUVw=="
+                            ],
+                            "s": true
+                        }
+                    ]
+                }
+            ]
+        },
+        "s22": {
+            "t": "S",
+            "n": "Margo tiene problemas de dinero (2026)",
+            "d": "La escritora en ciernes Margo Millet se queda embarazada, lo que la obliga a dejar la universidad y la lleva a la ruina. Pero cuando aparece su padre, un ex luchador profesional con el que no tenía relación, Margo halla una forma inesperada de rentabilizar su talento para contar historias.",
+            "i": "https://image.tmdb.org/t/p/w342/zqUvfOQtaffnkQL0ZVKPD7Z1KIR.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/5O9CNnYuH1U0L3ym7q7q93eH99u.jpg",
+            "y": "2026",
+            "g": "Drama, Comedia",
+            "tm": [
+                {
+                    "n": "Temporada 1",
+                    "ep": [
+                        {
+                            "n": "S01E06: La revancha",
+                            "d": "Los planes para expandir el imperio digital de AlmaInsaciable se ven frustrados cuando los secretos de la familia de Margo salen a la luz.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOVwBQcRhTUlABdBoP",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYV1NXJhZUCAIHdUI=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNQQMQkZBIhUMH15aMRFOElhRfgYZXg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E05: Flamencos",
+                            "d": "Las Vegas, bebé.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOSEVAdx0KW1FKIxsb",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVwAFfhJVAwtRJkE=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEltYNR4ZQg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E04: Coleguitas",
+                            "d": "Dos mundos chocan cuando Margo hace nuevas amigas. Jinx vuelve a sus raíces luchadoras.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOSQdJNxsPVEJCLQxY",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVAsDdUEAVVdXIkQ=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkcLdEcWVQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E03: Padre y muy señor mío",
+                            "d": "Margo explora una nueva profesión mientras Jinx se instala. Shyanne y Kenny se encuentran en una encrucijada lírica.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOWABBMEwSVUBaKEET",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVAsDdUICAwMEdUE=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNAATQQBDaRcOXB0QchsSRAdd"
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E02: Vuelta a casa",
+                            "d": "Margo lleva a Bodhi a casa. Shyanne apuesta por su futuro y Jinx vuelve a entrar en escena.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOA1UHfkMbXwJUKAEX",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVAsDdxcHUgIHcBc=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNQQMQkZBIhUMH15aMRFOEllbKkEbWA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E01: Alma insaciable",
+                            "d": "El primer año de universidad de Margo se tuerce y la deja tambaleándose. Se verá obligada a tomar una difícil decisión que lo cambiará todo.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOXkJeMB8JAFRRIRFQ",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVAsDdxAFUlcGIxI=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNQQMQkZBIhUMH15aMRFOElRXIAAAVw=="
+                            ],
+                            "s": true
+                        }
+                    ]
+                }
+            ]
+        },
+        "s23": {
+            "t": "S",
+            "n": "Los testamentos (2026)",
+            "d": "\"Los testamentos\", la continuación de \"El cuento de la criada\", es un drama sobre el paso a la adultez ambientado en Gilead. La historia sigue a dos adolescentes: la devota y obediente Agnes Mackenzie y Daisy, una conversa recién llegada de fuera de las fronteras de Gilead.",
+            "i": "https://image.tmdb.org/t/p/w342/h5f0Apc2aENV2IMegrPHIhQMice.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/n8fffwUPi9DMxtwDIR6xoGx9ItP.jpg",
+            "y": "2026",
+            "g": "Drama",
+            "tm": [
+                {
+                    "n": "Temporada 1",
+                    "ep": [
+                        {
+                            "n": "S01E07: Compromiso",
+                            "d": "El pasado de Daisy amenaza con salir a la luz y Agnes se enfrenta a un pretendiente no deseado.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOW1pCJBIRQVsKNBIQ",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYV1dSIRVVUwRSdhI=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOElVfLUcOWA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E06: Estadio",
+                            "d": "Mientras las Tías revisan los registros genealógicos para confirmar las coincidencias, Agnes planea su oportunidad para encontrar el amor. Mientras tanto, Lydia reflexiona sobre las decisiones que marcaron su ascenso en Gilead.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJORkQDKxMIRV5ddRNS",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYV1dSIUAFCQYFdBE=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEl9DKRcKAA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E05: El baile",
+                            "d": "Se celebra un baile al estilo puesta de largo donde las verdes desfilan ante los Comandantes.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOX1dYcRcUQ1lfcRNQ",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVApVIRUEVAtWfxY=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOElpcNQYQQA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E04: Té verde",
+                            "d": "Las verdes se reúnen para tomar el té, pero a Daisy le cuesta centrarse.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOBkUBJB9SWF9YIUIA",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVAsDdkZVVQEGJkE=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNQQMQkZBIhUMH15aMRFOEktHL00DAA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E03: Daisy",
+                            "d": "Un incidente durante una excursión escolar trae a Daisy recuerdos de Toronto.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOREZePwZVU0dBKBEC",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVApVIUAFBlQAJEQ=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOElwGJhUbRA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E02: Dientes perfectos",
+                            "d": "Agnes comienza los rituales que dan paso a la edad adulta.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOV0VJPUYIRlkCdUdZ",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVApVIRBYAlRWd0Q=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNQQMQkZBIhUMH15aMRFOElFeIwQIVA=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E01: Preciosas flores",
+                            "d": "En la academia de Preparación Prematimonial Tía Lydia, Agnes orienta a una nueva alumna.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJORAJJIxtVAVNSPRpY",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVApVIUIDAlcGcEE=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkpAKxgKRQ=="
+                            ],
+                            "s": true
+                        }
+                    ]
+                }
+            ]
+        },
+        "s24": {
+            "t": "S",
+            "n": "Los no elegidos (2026)",
+            "d": "Una joven madre de una secta aislada se cruza con un misterioso desconocido e inicia una relación arriesgada que despierta deseos y desvela secretos oscuros.",
+            "i": "https://image.tmdb.org/t/p/w342/cssRL2zNmTlxrvDNpKHBEV2FkAs.jpg",
+            "h": "https://image.tmdb.org/t/p/w1280/rfUT32eWuaYcs7pFSyhT08vfCaF.jpg",
+            "y": "2026",
+            "g": "Drama",
+            "tm": [
+                {
+                    "n": "Temporada 1",
+                    "ep": [
+                        {
+                            "n": "S01E06: Episodio 6",
+                            "d": "Cuando la seguridad de la pequeña Grace vuelve a estar en peligro, las sospechas de Rosie hacen que se plantee una inquietante pregunta: ¿quién es el verdadero diablo?",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOWUJEJB9UVgABLBMW",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVAUKJUEFVwNQd0w=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkJBKRECRw=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E05: Episodio 5",
+                            "d": "Un trágico incidente despierta dudas sobre la lealtad, el poder y el pecado, y provoca un gran cambio en la comunidad y una tensa búsqueda de respuestas.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOAQRBdBxTA0FCcxZR",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVAUKJhFVUAUAJUM=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEl5dLRxSXg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E04: Episodio 4",
+                            "d": "Un nuevo miembro de la Hermandad despierta sospechas, y Rosie empieza a mirar más allá de los límites de la comunidad en busca de nuevas experiencias.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOX1hHLUIbWgJAKB9V",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVAUKJhZXBAFXcUI=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEkpANxIUVg=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E03: Episodio 3",
+                            "d": "Las transgresiones dentro de la Hermandad se castigan con dureza. Un suceso inquietante le da a Rosie una inesperada baza a cambio de su silencio.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOXVUFLkcZUlVAKQQZ",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVAUKJhdSB1cEchE=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEgtZNgdSQQ=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E02: Episodio 2",
+                            "d": "Rosie lucha contra la tentación del fruto prohibido. Su marido, Adam, debe tomar una decisión difícil para demostrar que merece una oportunidad divina.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOAlUAckcQAUdQP0AP",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVAUKJhVTAwELdxc=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdNQQMQkZBIhUMH15aMRFOEllbKhgXRw=="
+                            ],
+                            "s": true
+                        },
+                        {
+                            "n": "S01E01: Episodio 1",
+                            "d": "Rosie desafía las órdenes de la Hermandad y se adentra en el bosque en busca de su hija desaparecida... donde se cruza con un misterioso forastero.",
+                            "r": "N/A",
+                            "urls": [
+                                "LwAVQUEJaFsCUF5fLgcVUFxaNBFPUl1eaAJOR1tFMBcVX0pCJgAb",
+                                "LwAVQUEJaFsEXEZGNRYOR1tXaRcOXB1HaEJYVAUKJkFXVFNScBY=",
+                                "LwAVQUEJaFsRVF5aNAQNREEdMgQPQhxDNRtOEgdKJRcGBw=="
+                            ],
+                            "s": true
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
