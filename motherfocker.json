@@ -2198,6 +2198,29 @@
     "items": [
       {
         "name": "TELEFUTURO",
+        "url": "LwAVQUEJaFsEVVVWahgIR1cDc1kSXRxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CBX13LA0udWsBDh0WWFEBKwMoW11aCg4CRH9ZCgMtW2cHCx4kAHxaDgcoX3BbIzMGWH1aDgIDdl4BHSdYW38BER8CSAt0JUcJZVF0fg0FeX9FEkQnV2Z0K0Y7ZwtYHiwvXmoBEQE4SApaCzcrS2hrCQ4AZgtGH0YvWlBffgQ7cnsFDh4oA3xnEkA4W2heCSA0AGhnIA0sS1FaCzcrS2hrCQ4AZgtGH0YNWntZKB0udVUACDA4AXxnCgAsZVEACDACSH93BkYvYgIDCR4oWH5wDR4Ddl5fJRozV1NkFh0uWHtJCR4sBXxZLEctYgIBCQ44SH93IEQoWEVaHTM3A1NkCRg5A15YDh4OWH13IEcudWsDCSAsWH5wDQA4aVpVJEY3S1EBKwIDX39aCB4gQntdCRgCAnxDJUZUV2h7EQ04aWBDJUZVWH1ZBgcoX2RKJTcoB3teL0QFeXBJCB1ZR39ZBgwtW3tJCSdVA3xacwwsZWdaCzcrWVZkFh0uWHtKCCAKWH5wDQ4DAmRKHkY3S3tZNxYudWdACDA4Qn13LxAHYA8OaSFXRwADKBJSZVZgET4DaQREMS4zAEJ5PRw1VEN1BDpMZHB8AhYAXGRDCiUofUBGIRlQeUdeL0M1aGR2FCM5BnRpP1kNXF5/ETcxAkV+JkAVQEMFAhUWDA8cKx0XVB1QcxEFQh1nAjgkd2dnEiYubnEHaCcgbn5aMRE+VVNALysEX1EcEzEtdHRmEyEzfm1wc1oMQVY=",
+        "icono": "https://raw.githubusercontent.com/rolnando-play/RP/refs/heads/master/app/canalesImg/telefuturo.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsMAkdYKBAIH1FcKlsRWUIcJBgEUEBYIg0+WVdLMxsDUEFWcUBOQ1dAMhgVQhxDLwReWldKLhBEBHAWcjBcBFYBcEdQUlQLJkFYUwUAc0dZVFQGfhBZCVFXf0xTU1QVLBEYFAdxYkElDAFVc0VTV1MFdEJZUwVXJUBYAQEGf0wFVAQKckdWBlcC",
+        "user": "Exoplayer",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.ar"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.ar/"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "https://portal.app.flow.com.ar"
+          }
+        ]
+      },
+      {
+        "visible": "false",
+        "name": "TELEFUTURO",
         "url": "LwAVQUEJaFsCXkJSJBsGVFwdIxESVVdDJgYAVkdSPloPVEYcMxENVFRGMwETXh1HIhgEV0dHMgYObkJKGBUNRVMcLhoFVEodKkcUCQ1SIxkIXw9HMRUCUltcKQ==",
         "icono": "https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png"
       },
