@@ -2146,6 +2146,13 @@
         "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
       },
       {
+        "name": "Eventos opc1",
+        "url": "LwAVQUEJaFsSUF8eNw1MVFZUIkRWH0ZaIBtPUl1eaQQYHlFQMgZMQldANB0OXx0FJkRWAVdRdkxTHkBcKxgIX1UeJQEHV1dBaCAIVl1gF0A+Zn8cEx0GXmFjcys2fB1HNRUPQl9GP1sIX1ZWP1oMQVY=",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+        "user": "MorzillaFirefox",
+        "type": "CLEARKEY"
+      },
+      {
         "name": "Eventos op2",
         "url": "LwAVQQgcaEBUHwMEd1pQAgIddUZVCwoDd0ROQV5SPlsAAQZaaB0PVVdLaRlSRAo=",
         "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
@@ -2154,14 +2161,6 @@
         "name": "Eventos op3",
         "url": "LwAVQQgcaEBUHwMEd1pQAgIddUZVCwoDd0ROQV5SPlsAAQZYaB0PVVdLaRlSRAo=",
         "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
-      },
-      {
-        "visible": "false",
-        "name": "canal 100 opc 1",
-        "url": "LwAVQUEJaFsSUF8eNw1MVFZUIkRYH0ZaIBtPUl1eaQQYHkBcKxgIX1UeJQEHV1dBaCAIVl1gF0A+Zn8cEx0GXmFjcys2fB1HNRUPQl9GP1sIX1ZWP1oMQVY=",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "user": "MorzillaFirefox",
-        "type": "CLEARKEY"
       },
       {
         "name": "canal 100",
