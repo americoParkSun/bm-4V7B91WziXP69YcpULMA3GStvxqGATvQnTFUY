@@ -2251,9 +2251,17 @@
         "user": "Exoplayer"
       },
       {
+        "visible": "false",
         "name": "SNT",
         "url": "LwAVQUEJaFsAXVBSagQYHEFdM1kSX0YdNAATVFNeaRkEVVtSMx0QRFdAMwYEUF8dJBsMHltdIxEZH18AMkw=",
         "icono": "https://i.ibb.co/bjfm9sfR/image.png"
+      },
+      {
+        "name": "SNT",
+        "url": "LwAVQUEJaFsEVVVWahgIR1cDf1kSXRxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CBH93JA0vS3tLDh0WWFEBKwMoW11aCiAGA35ZAkUucgZKCjAgRH9nHkUoWEVaJDMnAVNwDkIoWAtAJiw7XX4BCg47ZmBJC0UzfmR1fj0zdwtxJBkCR2cDARI1dl4BHSJYWmtrCRs5A2RGHkVYdX5KDgcoX3xfJEcvQVABchI4A2BGH0YNWntZKB0sW2sAHR4gRmtJCg47ZmMACSA0A2haDgcoX3xfJEcvQVABchIAZmNaCB0oWH5wDR4Ddl5fJRozV1NkFh0uWHtaCzcrWmhrHQQ4A2RVJiMwWH1aDh0tcnhHHiwJV1EBEQ4CA15FJRosWH1ZBgcoX3xfJEcvQVABchI7eWRKHiwzQVABcx0uW3NADho3SFBwDkIoXFoDIzwjS31afwIsW3NLCx4oS3xgc0YvWAZLCiAwWH5wDRwFZmNaCB0oS39nHh0tcnhJJUc3SGsBEQ4oW0JRCDA0Qn9nFkQtdVUBCzAGBWprd0lPY3QBHjBZe19Jdj03UgNLAjdYeAJWFllUYABGJTwzU1QBcR8bcwZeD1kZU19EF0AYQX0AIBJMXFtRIS03CQp7LgAxQ21EARoQCVRKKRULVWB6IywLQGMOelsNWERWaBdVVFZAaCcvZW1wc1sycG1/LgIEblZSNBw+VFxQaCcvZW1wc1oMQVY=",
+        "icono": "https://i.ibb.co/bjfm9sfR/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsMAkdYKBAIH1FcKlsRWUIcJBgEUEBYIg0+WVdLMxsDUEFWcUBOQ1dAMhgVQhxDLwReWldKLhBEBHAWcjBcCFQFdhACUlcLcEUCUgYCJhEDAwIFI0RUAQALIRdSAVMVLBEYFAdxYkElDAtVcUZVCQMKcxVSU1QGIkdUUwsFJUVYBVcLcUZVBwsA"
       },
       {
         "name": "GEN TV",
@@ -2349,6 +2357,28 @@
         "type": "hls"
       },
       {
+        "name": "PARAVISIÓN",
+        "url": "LwAVQUEJaFsEVVVWahgIR1cDf1kSXRxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CBH93JA0vS3tLDh0WWFEBKwMoW11aCiAGA35ZAkUucgZKCjAgRH9nHkUoWEVaJDMnAVNwDkIoWAtAJiw7XX4BCg47ZmBJC0UzfmR1fj0zdwtxJBkCR2cDARI1dl4BHSJYWmtrCRs5A2RGHkVYdX5KDgcoX3xfJEcvQVABchI4A2BGH0YNWntZKB0sW2sAHR4gRmtJCg47ZmMACSA0A2haDgcoX3xfJEcvQVABchIAZmNaCB0oWH5wDR4Ddl5fJRozV1NkFh0uWHtaCzcrWmhrHQQ4A2RVJiMwWH1aDh0tcnhHHiwJV1EBEQ4CA15FJRosWH1ZBgcoX3xfJEcvQVABchI7eWRKHiwzQVABcx0uW3NADho3SFBwDkIoXFoDIzwjS31afwIsW3NLCx4oS3xgc0YvWAZLCiAwWH5wDRwFZmNaCB0oS39nHh0tcnhJJUc3SGsBEQ4oW0JRCDA0Qn9nFkQtdVUBCzAGBWprd0lPY3QBHjBZe19Jdj03UgNLAjdYeAJWFllUYABGJTwzU1QBcR8bcwZeD1kZU19EF0AYQX0AIBJMXFtRIS03CQp7LgAxQ21EARoQCVRKKRULVWB6IywLQGMOelsNWERWaBdVVFZAaCQgY3NlDicofnxsBEBOYnNsCx0XVG1XJgcJblddJFsxcGByET0yeH19GDdVH19DIw==",
+        "icono": "https://directostv.teleame.com/wp-content/uploads/2020/04/Paravisi%C3%B3n-en-vivo-Online-1.png",
+        "drm_license_uri": "LwAVQUEJaFsXWF9WMwYISRxfJgBOUEJaaBgIUlddNBFPQVpDeB8ESFtXehYFCVcLJE0DAgBWIURTBlcLIRJVV1QDJBICVAoGchVVF1lWPklTCAMLIk1ZCAFRckNRUgFVJkUHAwMGJUFTUAMBJBdYAA==",
+        "type": "CLEARKEY",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.ar"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.ar/"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "https://portal.app.flow.com.ar"
+          }
+        ],
+        "user": "ExoPlayer"
+      },
+      {
         "name": "TV CÁMARA",
         "url": "LwAVQUEJaFsEVVVWahgIR1cDf1kSXRxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CBH93JA0vS3tLDh0WWFEBKwMoW11aCiAGA35ZAkUucgZKCjAgRH9nHkUoWEVaJDMnAVNwDkIoWAtAJiw7XX4BCg47ZmBJC0UzfmR1fj0zdwtxJBkCR2cDARI1dl4BHSJYWmtrCRs5A2RGHkVYdX5KDgcoX3xfJEcvQVABchI4A2BGH0YNWntZKB0sW2sAHR4gRmtJCg47ZmMACSA0A2haDgcoX3xfJEcvQVABchIAZmNaCB0oWH5wDR4Ddl5fJRozV1NkFh0uWHtaCzcrWmhrHQQ4A2RVJiMwWH1aDh0tcnhHHiwJV1EBEQ4CA15FJRosWH1ZBgcoX3xfJEcvQVABchI7eWRKHiwzQVABcx0uW3NADho3SFBwDkIoXFoDIzwjS31afwIsW3NLCx4oS3xgc0YvWAZLCiAwWH5wDRwFZmNaCB0oS39nHh0tcnhJJUc3SGsBEQ4oW0JRCDA0Qn9nFkQtdVUBCzAGBWprd0lPY3QBHjBZe19Jdj03UgNLAjdYeAJWFllUYABGJTwzU1QBcR8bcwZeD1kZU19EF0AYQX0AIBJMXFtRIS03CQp7LgAxQ21EARoQCVRKKRULVWB6IywLQGMOelsNWERWaBdVVFZAaCA3bnFSKhUTUB1gBistWERWGBAAQlpsIhoCHmZlGDcAXFNBJloMQVY=",
         "icono": "https://i.ibb.co/ZdsYJGJ/tvcamara.png",
@@ -2375,28 +2405,6 @@
         "url": "LwAVQUEJaFsEVVVWahgIR1cDf1kSXRxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CBH93JA0vS3tLDh0WWFEBKwMoW11aCiAGA35ZAkUucgZKCjAgRH9nHkUoWEVaJDMnAVNwDkIoWAtAJiw7XX4BCg47ZmBJC0UzfmR1fj0zdwtxJBkCR2cDARI1dl4BHSJYWmtrCRs5A2RGHkVYdX5KDgcoX3xfJEcvQVABchI4A2BGH0YNWntZKB0sW2sAHR4gRmtJCg47ZmMACSA0A2haDgcoX3xfJEcvQVABchIAZmNaCB0oWH5wDR4Ddl5fJRozV1NkFh0uWHtaCzcrWmhrHQQ4A2RVJiMwWH1aDh0tcnhHHiwJV1EBEQ4CA15FJRosWH1ZBgcoX3xfJEcvQVABchI7eWRKHiwzQVABcx0uW3NADho3SFBwDkIoXFoDIzwjS31afwIsW3NLCx4oS3xgc0YvWAZLCiAwWH5wDRwFZmNaCB0oS39nHh0tcnhJJUc3SGsBEQ4oW0JRCDA0Qn9nFkQtdVUBCzAGBWprd0lPY3QBHjBZe19Jdj03UgNLAjdYeAJWFllUYABGJTwzU1QBcR8bcwZeD1kZU19EF0AYQX0AIBJMXFtRIS03CQp7LgAxQ21EARoQCVRKKRULVWB6IywLQGMOelsNWERWaBdUVFZAaDUjcm1nESsiBR1gBistWERWGBAAQlpsIhoCHnNxBCs1Z21wc1oMQVY=",
         "icono": "https://i.ibb.co/d4s6q5mD/image.png",
         "drm_license_uri": "LwAVQUEJaFsXWF9WMwYISRxfJgBOUEJaaBgIUlddNBFPQVpDeB8ESFtXehdRU1dVcEFWAgFRdUJVBAYGdUBSA1BXcxFWB1QAcRJUF1lWPkkEUAMFdUBSAgQEI0xQBVECI0FSVwNWJhJTAFQDd0EHVw==",
-        "type": "CLEARKEY",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.ar"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.ar/"
-          },
-          {
-            "name": "x-flow-origin",
-            "value": "https://portal.app.flow.com.ar"
-          }
-        ],
-        "user": "ExoPlayer"
-      },
-      {
-        "name": "PARAVISIÓN",
-        "url": "LwAVQUEJaFsEVVVWahgIR1cDf1kSXRxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CBH93JA0vS3tLDh0WWFEBKwMoW11aCiAGA35ZAkUucgZKCjAgRH9nHkUoWEVaJDMnAVNwDkIoWAtAJiw7XX4BCg47ZmBJC0UzfmR1fj0zdwtxJBkCR2cDARI1dl4BHSJYWmtrCRs5A2RGHkVYdX5KDgcoX3xfJEcvQVABchI4A2BGH0YNWntZKB0sW2sAHR4gRmtJCg47ZmMACSA0A2haDgcoX3xfJEcvQVABchIAZmNaCB0oWH5wDR4Ddl5fJRozV1NkFh0uWHtaCzcrWmhrHQQ4A2RVJiMwWH1aDh0tcnhHHiwJV1EBEQ4CA15FJRosWH1ZBgcoX3xfJEcvQVABchI7eWRKHiwzQVABcx0uW3NADho3SFBwDkIoXFoDIzwjS31afwIsW3NLCx4oS3xgc0YvWAZLCiAwWH5wDRwFZmNaCB0oS39nHh0tcnhJJUc3SGsBEQ4oW0JRCDA0Qn9nFkQtdVUBCzAGBWprd0lPY3QBHjBZe19Jdj03UgNLAjdYeAJWFllUYABGJTwzU1QBcR8bcwZeD1kZU19EF0AYQX0AIBJMXFtRIS03CQp7LgAxQ21EARoQCVRKKRULVWB6IywLQGMOelsNWERWaBdVVFZAaCQgY3NlDicofnxsBEBOYnNsCx0XVG1XJgcJblddJFsxcGByET0yeH19GDdVH19DIw==",
-        "icono": "https://directostv.teleame.com/wp-content/uploads/2020/04/Paravisi%C3%B3n-en-vivo-Online-1.png",
-        "drm_license_uri": "LwAVQUEJaFsXWF9WMwYISRxfJgBOUEJaaBgIUlddNBFPQVpDeB8ESFtXehYFCVcLJE0DAgBWIURTBlcLIRJVV1QDJBICVAoGchVVF1lWPklTCAMLIk1ZCAFRckNRUgFVJkUHAwMGJUFTUAMBJBdYAA==",
         "type": "CLEARKEY",
         "headers": [
           {
