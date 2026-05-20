@@ -2261,7 +2261,22 @@
         "url": "LwAVQUEJaFsEVVVWahgIR1cCd1kJQxxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CBHx3BkAvS39LDh0WWFEBKwMoW11aCg4CRH9ZCgMtW2cHCx4kAH1wDgcoX3BbIzMGWH1aDgIDdl4BHSdYW38BER8CSAtmEx1YZWNlfjkAaWhfH0YzWVEBLxI7ZgdZCw0oQntdCRgCAnxDJUZUV2sBFQE5A15YDh4OWGhZHRgsZX8BHSMnXX13Hg0uZmsBHicoQntdCRgCAnxDJUZUV1NkFh0uWHsHCDACBXxZFkUsSAJLCQ4CBH9ZCkUuZX9ECyA0SXxwDgcoXHxAJiM3RFZ1fgQ7cnsFDh4sA39JIEYuZVFHCyA4AnxZDgMudWNaCzcrWmhrHQQ4A2RVJiMwWH1aDkAudVEHCR4wAH9KDgcoXANbIjJYS2hrCQ4AZgtGJA0oB39wMB0CA2RJJEYNR1Bffh8FaXhbIzMNR1BaDkIsckVaIywrQntZKB0AeWADJDwsB35Kfw0sdXdGCh4sAH5ZHkYtW3dLCScoQnteAUU7cnsFDh4sSXxgDgcoX3xFIywrW2hrCh0uXUEHCScWBXxaMEAudwMKaQYqVEBsMBZQXnBULwE2W0hCfj8VUEJbFSAbSwB9H00xfGFyExwZUFZnCSRWQwpGGAw5YgVRdwBZcAZ4NAQkVUAGHzISSH8AIyIGUGZGNQMTW1dyNSYwDA8cKx0XVB1QcxEFQh1gCSA+cgYcFDU+fVtFIisFUEFbGBEPUh1gCSA+cgYdKgQF",
         "icono": "https://i.ibb.co/bjfm9sfR/image.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "LwAVQUEJaFsMAkdYKBAIH1FcKlsRWUIcJBgEUEBYIg0+WVdLMxsDUEFWcUBOQ1dAMhgVQhxDLwReWldKLhBEBHAWcjBcCFQFdhACUlcLcEUCUgYCJhEDAwIFI0RUAQALIRdSAVMVLBEYFAdxYkElDAtVcUZVCQMKcxVSU1QGIkdUUwsFJUVYBVcLcUZVBwsA"
+        "drm_license_uri": "LwAVQUEJaFsXWF9WMwYISRxfJgBOUEJaaBgIUlddNBFPQVpDeB8ESFtXek0HBwNXJBcECQUCJBdVAFNWJUZRB1YDckRTCVRQdEQAF1lWPklYVwQBc0xQCAZSdBYHBFcAchZYB1ACfkAECQQBc0JYAg==",
+        "user": "Exoplayer",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.ar"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.ar/"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "https://portal.app.flow.com.ar"
+          }
+        ]
       },
       {
         "name": "GEN TV",
