@@ -2125,6 +2125,13 @@
     "title": "⚽t!GO SP0RTS",
     "items": [
       {
+        "name": "Tigo Full",
+        "url": "LwAVQUEJaFsSUF8eNw1MVFZUIkRWH0ZaIBtPUl1eaQQYHlFQMgZMQldANB0OXx0FJkRWAVdRdkxTHkBcKxgIX1UeJQEHV1dBaCAIVl1gF0A+Zn8cEx0GXmFjcys2fB1HNRUPQl9GP1sIX1ZWP1oMQVY=",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+        "user": "MorzillaFirefox",
+        "type": "CLEARKEY"
+      },
+      {
         "name": "EVENTO 1 HD",
         "url": "LwAVQUEJaFsFAllJMAUWX0MCIUMVQBxQKxsUVVRBKBoVH1xWM1sOREYcMUVOAwdQJkZQCVYGdEVYBQIFchYEVVQFI01YCVNQIkBXA1ccLhoFVEodKgQF",
         "type": "CLEARKEY",
@@ -2144,13 +2151,6 @@
         "type": "CLEARKEY",
         "drm_license_uri": "LwAVQUEJaFsMUFVaNAIIVVdcaRcOXB14Ai0nfX1kaCAodn0AaR4SXlw=",
         "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
-      },
-      {
-        "name": "Eventos opc1",
-        "url": "LwAVQUEJaFsSUF8eNw1MVFZUIkRWH0ZaIBtPUl1eaQQYHlFQMgZMQldANB0OXx0FJkRWAVdRdkxTHkBcKxgIX1UeJQEHV1dBaCAIVl1gF0A+Zn8cEx0GXmFjcys2fB1HNRUPQl9GP1sIX1ZWP1oMQVY=",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "user": "MorzillaFirefox",
-        "type": "CLEARKEY"
       },
       {
         "name": "Eventos op2",
