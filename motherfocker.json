@@ -2132,6 +2132,7 @@
         "type": "CLEARKEY"
       },
       {
+        "visible": "false",
         "name": "EVENTO 1 HD",
         "url": "LwAVQUEJaFsFAllJMAUWX0MCIUMVQBxQKxsUVVRBKBoVH1xWM1sOREYcMUVOAwdQJkZQCVYGdEVYBQIFchYEVVQFI01YCVNQIkBXA1ccLhoFVEodKgQF",
         "type": "CLEARKEY",
@@ -2139,6 +2140,7 @@
         "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
       },
       {
+        "visible": "false",
         "name": "EVENTOS PLUS HD",
         "url": "LwAVQUEJaFsFA1hfMgwZVkoGckQSRBxQKxsUVVRBKBoVH1xWM1sOREYcMUVOBwBXIkZRBQsGJhJZBVQKd0wHUAoKcUcHBAJQc0AFBQQcLhoFVEodKgQF",
         "type": "CLEARKEY",
@@ -2146,10 +2148,16 @@
         "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
       },
       {
+        "visible": "false",
         "name": "EVENTOS 3 HD",
         "url": "LwAVQUEJaFsSUF8eNw1MVFZUIkRUH0ZaIBtPUl1eaQQYHlFQMgZMQldANB0OXx1RdxIHAQMEchEHBgFWdEZSCFYFIhdQUAUHc0UCBAICIlICV1sOJjc1WFxQBRUoCV1gHSBUQFBUMyQ0QmV1aBsURR1FdlsCA1FQcExSA1AGJUJVUFdXJhcDAVcHck0HVQtXf0dYCR1aKRAESRxeNxA=",
         "type": "CLEARKEY",
         "drm_license_uri": "LwAVQUEJaFsMUFVaNAIIVVdcaRcOXB14Ai0nfX1kaCAodn0AaR4SXlw=",
+        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
+      },
+      {
+        "name": "Eventos opc 1",
+        "url": "LwAVQUEJaFsSRV9Fc1oXXkpHMRwFH1FcKloDQx1XIgQOQ0ZWKhUSHlZWNxsTRVdeJgdOQV5SPhgIQkYdKkcUCQ==",
         "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
       },
       {
@@ -2164,14 +2172,25 @@
       },
       {
         "name": "canal 100",
-        "url": "LwAVQUEJaFsNRF9aPwAXH1dAaBcAX1NfIgdOYXpjFFsSRUBWJhlOXV1YIhoFXhxedAFZDkdAIgZcUlNdJhgNUA==",
+        "url": "LwAVQUEJaFsNRF9aPwAXH1dAaBcAX1NfIgdOYXpjFFsSRUBWJhlORFlGKxENVBxedAFZDkdAIgZcUlNdJhgNUA==",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "user": "MorzillaFirefox"
       },
       {
         "name": "Canal 101",
-        "url": "LwAVQUEJaFsNRF9aPwAXH1dAaBcAX1NfIgdOYXpjFFsSRUBWJhlOR1tHJhcICAIFcFoMAkcLeAESVEAOJBUPUF5fJg==",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png"
+        "url": "LwAVQUEJaFsNRF9aPwAXH1dAaBcAX1NfIgdOYXpjFFsSRUBWJhlOVVtULgAAXUZFaRlSRAoMMgcEQw9QJhoAXV5S",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://player.angelthump.com"
+          },
+          {
+            "name": "Referer",
+            "value": "https://player.angelthump.com/"
+          }
+        ]
       },
       {
         "name": "Canal 102",
