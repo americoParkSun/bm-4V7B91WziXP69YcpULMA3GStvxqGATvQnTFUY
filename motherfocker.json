@@ -2298,9 +2298,32 @@
         ]
       },
       {
+        "visible": "false",
         "name": "GEN TV",
         "url": "LwAVQUEJaFsTVUEAIBEPH1ZWNBAEQVNBJhMUUEsdKREVHlVWKQAXHlVWKQAXbkJKGBUNRVMcJBwUX1lfLgcVH18AMkxeUFZeLhpcX1NQLhsP",
         "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1"
+      },
+      {
+        "name": "GEN TV",
+        "url": "LwAVQUEJaFsEVVVWcVkCUlNAM1kSXRxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CBHxnIEEsZVUADh0WWFEBKwMoW11aCg4CRH9ZCgMtW2cHCx4kAH1wDgcoX3BbIzMGWH1aDgIDdl4BHSdYW38BER8CSAtmEx1YZWNlfjkAaWhfH0YzWVEBLxI7ZgdZCw0oQntdCRgCAnxDJUZUV2sBFQE5A15YDh4OWGtkARw4S3BfCR4nWH1kDkUvS3tJCg0oQntdCRgCAnxDJUZUV1NkFh0uWHsHCDACBXxZFkUsSAJLCQ4CBHx3AkYsS1UGCyAsS39aDgcoXHxAJiM3RFZ1fgQ7cnsFDh4sA39JIEYuZVFHCyA4AnxZDgMudWNaCzcrWmhrHQQ4A2RVJiMwWH1aDkAudVEHCR4wAH9KDgcoXANbIjJYS2hrCQ4AZgtGJA0oB39wMB0CA2RJJEYNR1Bffh8FaXhbIzMNR1BaDkIsckVaIywrQntZKB0AeWADJDwsB35Kfw0sdXdGCh4sAH5ZHkYtW3dKCh0oQnteAUU7cnsFDh4oSHxgDgcoX3xFIywrW2hrCh0uXUEHCScWSXx3FgcudWtACDAJVVRieklPBXFQPwctZgNSBRAZaUtDFEI2f3RJK0ZTcgEBCQ5MWFx5GBsZZFNDIiwiBFN4dRhSYFMCPxcNcEd+EzAlZFBGajVSfmZUdx4neUp/AxguBHNdMEcFVnMOelsNWERWaBdWVFZAaDMkf21nEVsycG1/LgIEblZSNBw+VFxQaDMkf21nEVoMQVY=",
+        "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsMAkdYKBAIH1FcKlsRWUIcJBgEUEBYIg0+WVdLMxsDUEFWcUBOQ1dAMhgVQhxDLwReWldKLhBEBHAWcjBcBQtWJU1TBVBSfk1ZUlMEIRYDUFdWdEQFUldVdhECUwYVLBEYFAdxYkElDARWdkdQUwIHJUYECQUGfkwHUwcLfxUCAwIGcUNSBwsL",
+        "user": "Exoplayer",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.ar"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.ar/"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "https://portal.app.flow.com.ar"
+          }
+        ]
       },
       {
         "name": "LA TELE HD",
@@ -2479,9 +2502,32 @@
         ]
       },
       {
+        "visible": "false",
         "name": "ÑANDUTI TV",
         "url": "LwAVQUEJaFsTVUEAIBEPH1ZWNBAEQVNBJhMUUEsdKREVHlxSKRAURVtHMVsPUFxXMgAIRURsJRULUB1DKxUYXVtAM1oMAkcL",
         "icono": "https://i.ibb.co/r2DnTpxP/vnIkhRO.png"
+      },
+      {
+        "name": "Ñanduti TV",
+        "url": "LwAVQUEJaFsEVVVWcVkCUlNAM1kSXRxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CBHxnIEEsZVUADh0WWFEBKwMoW11aCg4CRH9ZCgMtW2cHCx4kAH1wDgcoX3BbIzMGWH1aDgIDdl4BHSdYW38BER8CSAtmEx1YZWNlfjkAaWhfH0YzWVEBLxI7ZgdZCw0oQntdCRgCAnxDJUZUV2sBFQE5A15YDh4OWGtkARw4S3BfCR4nWH1kDkUvS3tJCg0oQntdCRgCAnxDJUZUV1NkFh0uWHsHCDACBXxZFkUsSAJLCQ4CBHx3AkYsS1UGCyAsS39aDgcoXHxAJiM3RFZ1fgQ7cnsFDh4sA39JIEYuZVFHCyA4AnxZDgMudWNaCzcrWmhrHQQ4A2RVJiMwWH1aDkAudVEHCR4wAH9KDgcoXANbIjJYS2hrCQ4AZgtGJA0oB39wMB0CA2RJJEYNR1Bffh8FaXhbIzMNR1BaDkIsckVaIywrQntZKB0AeWADJDwsB35Kfw0sdXdGCh4sAH5ZHkYtW3dKCh0oQnteAUU7cnsFDh4oSHxgDgcoX3xFIywrW2hrCh0uXUEHCScWSXx3FgcudWtACDAJVVRieklPBXFQPwctZgNSBRAZaUtDFEI2f3RJK0ZTcgEBCQ5MWFx5GBsZZFNDIiwiBFN4dRhSYFMCPxcNcEd+EzAlZFBGajVSfmZUdx4neUp/AxguBHNdMEcFVnMOelsNWERWaBdVVFZAaDoAX1ZGMx0+YUscFDU+fVtFIisFUEFbGBEPUh19JhoFREZaGCQYH19DIw==",
+        "icono": "https://i.ibb.co/3TJQVdt/nandutitv.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsMAkdYKBAIH1FcKlsRWUIcJBgEUEBYIg0+WVdLMxsDUEFWcUBOQ1dAMhgVQhxDLwReWldKYkEjFAd3ehUEVQIFIRBTCABXdUNZUFMHcUAFUAYHcEFTUwtQdEVSF1lWPh0FFAdxYkElDAYFJEcFCVEHdRYDCAUKfhFUVVcGcE1TVAFVJUBUVVcH",
+        "user": "Exoplayer",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.ar"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.ar/"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "https://portal.app.flow.com.ar"
+          }
+        ]
       },
       {
         "name": "SUR TV",
