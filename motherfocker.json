@@ -3150,6 +3150,102 @@
   },
   {
     "type": "category",
+    "image": "https://i.ibb.co/4ntjBYhF/image.png",
+    "title": "Deportes Brazil",
+    "items": [
+      {
+        "name": "PREMIERE CLUBE",
+        "url": "LwAVQUEJaFsAAABSLgIORUZWNxhMUBxSLBUMUFtbI1oPVEYcIAYUHFxaMwYOHl5aMRFOVVNAL1sEX1EcKRENV0tGJANYUB1cMgBORwMccRIHUwBQdEJUUFYCcxJZCVACckBUCANRIhZVAlYCIUJOUlddJFoMQVY=",
+        "icono": "https://images.uncyc.org/pt/f/f1/Logotipo_PFC.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsXWF9WMwYISRxfJgBOUEJaaBgIUlddNBFPQVpDeB8ESFtXekFXUwUKJEVWCQBRdEQEB1AFIRdYBgFRdxFZV1YHdkRVF1lWPkkHUAELJhUACQQGJkFWVFZScBdWBgYHc0JYBlBSfxEFAg=="
+      },
+      {
+        "name": "PREMIERE 2",
+        "url": "LwAVQUEJaFsAAABSLgIORUZWNxhMUBxSLBUMUFtbI1oPVEYcIAYUHFxaMwYOHl5aMRFOVVNAL1sEX1EcKA1XQ0IDLQMMVx1cMgBORwMcckxRVFFVdkYDUFYBc01WCFBSIUwFVQsKdBACVAIGdBFOUlddJFoMQVYR",
+        "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsXWF9WMwYISRxfJgBOUEJaaBgIUlddNBFPQVpDeB8ESFtXek0FUgYDc0JRUgsAd0xWUFdSf0AFBwECchJRCVdQJUJVF1lWPkkHBwtQfxBVBwAHIRAFV1QHJBVZCFBXdxZSAFBXJEAABg=="
+      },
+      {
+        "name": "PREMIERE 3",
+        "url": "LwAVQUEJaFsAAABSLgIORUZWNxhMUBxSLBUMUFtbI1oPVEYcIAYUHFxaMwYOHl5aMRFOVVNAL1sEX1EccRsPQ1RdLg0TSB1cMgBORwMcIUZSAQQKJEJQVVBVcxFRAQoKdxVVAVAEd0EACQYDcE1OUlddJFoMQVY=",
+        "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsXWF9WMwYISRxfJgBOUEJaaBgIUlddNBFPQVpDeB8ESFtXehBTAlQEc0dSBgsLJkJUA1MEI0AHBwUKdhBYVAMDdEICF1lWPklVCAYBIhEDVQcKfxZUBgAEJEECUgYLcxcCBwBRckYECQ=="
+      },
+      {
+        "name": "PREMIERE 4",
+        "url": "LwAVQUEJaFsAAABSLgIORUZWNxhMUBxSLBUMUFtbI1oPVEYcIAYUHFxaMwYOHl5aMRFOVVNAL1sEX1EcMx0TW11BcUAKWR1cMgBORwMcIRBTVFYKfkVXVQsKcxJRCFMAJRBXA1AFc0VVAFAKJBZOUlddJFoMQVY=",
+        "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsXWF9WMwYISRxfJgBOUEJaaBgIUlddNBFPQVpDeB8ESFtXehFTAgEFchdTUFYKcExWAVELcEVWAABRcEcHAVYFdk1UF1lWPklUCQUDfhdWAAYAdUQDUwoFdRADVQIEdUNRVVQLdhdYBQ=="
+      },
+      {
+        "name": "PREMIERE 5",
+        "url": "LwAVQUEJaFsAAABSLgIORUZWNxhMUBxSLBUMUFtbI1oPVEYcIAYUHFxaMwYOHl5aMRFOVVNAL1sEX1EcdhsDWkZBPhYJRR1cMgBORwMcd0xTBwcHckcCCVQFcxBYV1BWJUcCVwYAcEJVBQIAJkxOUlddJFoMQVY=",
+        "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsXWF9WMwYISRxfJgBOUEJaaBgIUlddNBFPQVpDeB8ESFtXekdSA1QFdREDAlFSIkxTBVcKfxVVAAAHIxVTCFMEI0dQF1lWPkkFAAQKfxcFUAFXd0BRVwsDckVQAwdScUVWBQdRck1XUw=="
+      },
+      {
+        "name": "PREMIERE 6",
+        "url": "LwAVQUEJaFsAAABSLgIORUZWNxhMUBxSLBUMUFtbI1oPVEYcIAYUHFxaMwYOHl5aMRFOUl5aIhoVQh1XJgcJHEFXaBEPUh1YdhkQXQFKIEATHl1GM1sXAB0LfkxRBwVVdEJTUAcHc0ADU1cHdRBWBAQLc0dRUlMCc1sCVFxQagcFH19DIw==",
+        "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsXWF9WMwYISRxfJgBOUEJaaBgIUlddNBFPQVpDeB8ESFtXekFXAFBSJkxYBwUFJExYUgNXd0BWVAMLckYDUAICJERYF1lWPkkACVECckNZAwRXIRAHAAAKfhVSAwtRcEMEA1NRcRVQUA=="
+      },
+      {
+        "name": "Sportv",
+        "url": "LwAVQUEJaFsAAABSLgIORUZWNxhMUBxSLBUMUFtbI1oPVEYcIAYUHFxaMwYOHl5aMRFOVVNAL1sEX1EcKkMFRERdLEYDRB1cMgBORwMcI0UAVQQKdkVZUwcFc0NSAQtRdhEDBgACdBUHV1ZRdBBOUlddJFoMQVY=",
+        "icono": "https://i.postimg.cc/3xsnqX4B/Sportv-nova-logo.webp",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsXWF9WMwYISRxfJgBOUEJaaBgIUlddNBFPQVpDeB8ESFtXekADU1FVIUdTCQtXc0FWUwZXI0EFU1ZXdUVTAwNXIk0AF1lWPkkCBQsDcRZYUAtVfxAFUAFQd0NTBFBXIxZZUgYKcENSAg=="
+      },
+      {
+        "name": "Sportv 2",
+        "url": "LwAVQUEJaFsAAABSLgIORUZWNxhMUBxSLBUMUFtbI1oPVEYcIAYUHFxaMwYOHl5aMRFOVVNAL1sEX1EcIwcAAlpEMhwFAB1cMgBORwMccUdQUwYLJEwFCFdSc0dWVAoAd00FAFMHJUFUUFFWIUFOUlddJFoMQVY=",
+        "icono": "https://i.postimg.cc/FHNjkTLY/1775952186751.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsXWF9WMwYISRxfJgBOUEJaaBgIUlddNBFPQVpDeB8ESFtXekcFVAIBfxEAV1AAJUYCUFRVIhdRAlBWdhdQUgoCfxZSF1lWPklZV1BXI0wACFNWcUNVCQQKcRYDAAFWckBWU1ADfkcHUg=="
+      },
+      {
+        "name": "Sportv 3",
+        "url": "LwAVQUEJaFsAAABSLgIORUZWNxhMUBxSLBUMUFtbI1oPVEYcIAYUHFxaMwYOHl5aMRFOVVNAL1sEX1EccRsVWFVfKQQVQR1cMgBORwMcJhAFBgYKfkJWCFADc0ZTUlAFcE1QVwUEd0UHCAdWJBdOUlddJFoMQVY=",
+        "icono": "https://i.postimg.cc/Rhx3501R/1775952232398.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsXWF9WMwYISRxfJgBOUEJaaBgIUlddNBFPQVpDeB8ESFtXek1RA1cGIhdRVAFXd0EEBwQGIxUAAgBVJEZSVwZVck0EF1lWPklWUwAAdUYAAwUAf0BSCAACJkBSVABQcUUFUFEEJBUEAg=="
+      },
+      {
+        "name": "CAZÉ TV",
+        "url": "LwAVQUEJaFsFV0ALdwUbBQEGJAYCH1FfKAEFV0BcKQBPX1dHaDkvfmIcBhkAVlscBBUbVB1wJg4EbmZlGDYzHnFSPRE+ZWQdKkcUCQ==",
+        "icono": "https://i.postimg.cc/XJjjwygm/cazetv-logo-0-2048x2048-Easy-Resize-com-(1).jpg",
+        "type": "hls"
+      },
+      {
+        "name": "CAZÉ TV 2",
+        "url": "LwAVQUEJaFsAAABSLgIORUZWNxhMUBxSLBUMUFtbI1oPVEYcIAYUHFxaMwYOHl5aMRFOVVNAL1sEX1EcdA0PQ0JXJhoQAx1cMgBORwMcf0UHVQZQdUJUCQYDc0AFA1ACJkUCUgdRdEYHUAtSIUROUlddJFoMQVY=",
+        "icono": "https://i.postimg.cc/XJjjwygm/cazetv-logo-0-2048x2048-Easy-Resize-com-(1).jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsXWF9WMwYISRxfJgBOUEJaaBgIUlddNBFPQVpDeB8ESFtXekdVBQUGIhAAUwsKdhUFBFcKdUFVCVNWJRBWAAIHdkQAF1lWPklUAQNRdURYUlFQI0dTAlNQd0QDVwdSJEVUUwYDcRcDBQ=="
+      },
+      {
+        "name": "CAZÉ TV 3",
+        "url": "LwAVQUEJaFsAAABSLgIORUZWNxhMUBxSLBUMUFtbI1oPVEYcIAYUHFxaMwYOHl5aMRFOUl5aIhoVQh1XJgcJHEFXaBEPUh1aPkNYS0cLMxZYHl1GM1sXAB1Wf0IFVwpRc0ECAVQHckYFUFQHfhcAB1cAI0ZWAAIAIlsCVFxQagcFH19DIw==",
+        "icono": "https://i.postimg.cc/XJjjwygm/cazetv-logo-0-2048x2048-Easy-Resize-com-(1).jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsXWF9WMwYISRxfJgBOUEJaaBgIUlddNBFPQVpDeB8ESFtXekQAAwtWdBZWVVEBcRcEVQoDdkVVVVMKfkZXB1dScUdXF1lWPklYVwNWc0RSBQcHchIEVQsDJUECVAVSfxJZCAAGIkJTAA=="
+      },
+      {
+        "name": "NSPORT",
+        "url": "LwAVQUEJaFsSQlNadVkAVUEdJgQIH15WLhoIUF0dJBsMHlVfKBYAXR9SIx0PQldBMx0OXx9SNx1OWV5AaBgIR1ccMUZOVApVdxUHU1YDIxdTBVALdxUCAwUAcBEHAFYAcUZQAVccNxgASF5aNABPXAFGfw==",
+        "icono": "https://i.postimg.cc/4yGSKzbz/N-Sports-e-NWB-reforcam-lideranca-e-ampliam-operacoes-em-ano-da-Copa-do-Mundo-2026.png",
+        "type": "hls"
+      }
+    ]
+  },
+  {
+    "type": "category",
     "image": "https://i.ibb.co/zbWxZ95/fs1.png",
     "title": "⚽ Deportes ARG",
     "items": [
