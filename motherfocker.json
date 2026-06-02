@@ -2394,18 +2394,17 @@
         "headers": [
           {
             "name": "Origin",
-            "value": "Android"
+            "value": "https://portal.app.flow.com.ar"
           },
           {
             "name": "Referer",
-            "value": "Android"
+            "value": "https://portal.app.flow.com.ar/"
           },
           {
             "name": "x-flow-origin",
-            "value": "Android"
+            "value": "https://portal.app.flow.com.ar"
           }
-        ],
-        "user": "Android"
+        ]
       },
       {
         "name": "VISIÓN TV VILLARRICA",
@@ -2495,15 +2494,15 @@
         "headers": [
           {
             "name": "Origin",
-            "value": "Android"
+            "value": "https://portal.app.flow.com.ar"
           },
           {
             "name": "Referer",
-            "value": "Android"
+            "value": "https://portal.app.flow.com.ar/"
           },
           {
             "name": "x-flow-origin",
-            "value": "Android"
+            "value": "https://portal.app.flow.com.ar"
           }
         ]
       },
