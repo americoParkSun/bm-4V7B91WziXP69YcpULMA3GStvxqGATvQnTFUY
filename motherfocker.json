@@ -2412,7 +2412,7 @@
       },
       {
         "name": "VISIÓN TV VILLARRICA",
-        "url": "LwAVQUEJaFsTVUEAIBEPH1ZWNBAEQVNBJhMUUEsdKREVHkFSMxENWEZSKwAXHkFSMxENWEZSKwAXHlFbMhoKXVtAM1oMAkcLeBUFXFtdehoAUltcKQ==",
+        "url": "LwAVQUEJaFsVWFVcJBgORFZUIhpPVVdAIxERUEBSIAEASBxdIgBOQlNHIhgIRVNfMwJOQlNHIhgIRVNfMwJOQV5SPhgIQkYdKkcUCQ1SIxkIXw9dJhcIXlw=",
         "icono": "https://i.ibb.co/2TSxtJ7/canal-8-villa.png"
       },
       {
@@ -2568,10 +2568,16 @@
       },
       {
         "name": "E40",
-        "url": "LwAVQUEJaFsTVUEAIBEPH1ZWNBAEQVNBJhMUUEsdKREVHlcHdwAXHlcHdwAXbkJKGBUNRVMcNxgASF5aNABPXAFGf0sAVV9aKUkVR1NQJB0OXw==",
+        "url": "LwAVQUEJaFsVWFVcJBgORFZUIhpPVVdAIxERUEBSIAEASBxdIgBOVAYDMwJOVAYDMwI+QUtsJhgVUB1DKxUYXVtAM1oMAkcLeBUFXFtdegAXUFFQLhsP",
         "icono": "https://i.ibb.co/jz9XkvP/e40.png"
       },
       {
+        "name": "Mega Tv",
+        "url": "LwAVQUEJaFsWRkUdIxESVVceNxUTUFVGJg1PUl1eaBkEVlMdKkcUCQ1SIxkIXw9dJhcIXlw=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLkFN7kPYQjj41H-EcPSmqD6ceZJ3ZiU5pA&s"
+      },
+      {
+        "visible": "false",
         "name": "POPU TV",
         "url": "LwAVQUEJaFsTVUEAIBEPH1ZWNBAEQVNBJhMUUEsdKREVHkddLgIEQ0FcMwJORFxaMRETQl1HMSsRSG1SKwAAHlFbMhoKXVtAM1oMAkcLeBUFXFtdehoAUltcKQ==",
         "icono": "https://i.ibb.co/d0fxfHsr/image.png"
@@ -2600,18 +2606,18 @@
       },
       {
         "name": "UNION TV",
-        "url": "LwAVQUEJaFsCXkJSJBsGVFwdIxESVVdDJgYAVkdSPloPVEYcf0RRRUQcf0RRRUQcNxgASF5aNABPXAFGfw==",
+        "url": "LwAVQUEJaFsCXkJSJBsGVFwdIxESVVdDJgYAVkdSPloPVEYcf0RRRUQcf0RRRUQcNxgASF5aNABPXAFGf0sAVV9aKUkVR1NQJB0OXw==",
         "icono": "https://i.ibb.co/HLvq6nfQ/logo-retina-01.png"
       },
       {
         "name": "HEI",
-        "url": "LwAVQUEJaFsTVUEAIBEPH1ZWNBAEQVNBJhMUUEsdKREVHlpWLgAXHlpWLgAXbkJKGBUNRVMcNxgASF5aNABPXAFGf0sAVV9aKUkPUFFaKBo=",
+        "url": "LwAVQUEJaFsVWFVcJBgORFYdIxESVVdDJgYAVkdSPloPVEYcLxEIRUQcLxEIRURsNw0+UF5HJlsRXVNKKx0SRRxedAFZDlNXKh0PDFxSJB0OXw==",
         "icono": "https://i.ibb.co/1fL1SsSm/image.png"
       },
       {
         "name": "Mi Tv",
         "icono": "https://i.postimg.cc/qvvgzQzD/1200px-LOGO-MITV-ALTA-DEFINICION-2020-PNG.png",
-        "url": "LwAVQUEJaFsTVUEAaRAEQlZWNxUTUFVGJg1PX1dHfUBVAh1eLgAXHl9aMwJOUlpGKR8NWEFHaRlSRAoMJhAMWFwOKRUCWF1d"
+        "url": "LwAVQUEJaFsCXkJSJBsGVFwdIxESVVdDJgYAVkdSPloPVEYcKh0VRx1eLgAXHkJfJg0NWEFHaRlSRAoMJhAMWFwOKh0VR1tHJgQUUA=="
       }
     ]
   },
