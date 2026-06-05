@@ -2137,6 +2137,7 @@
     "title": "⚽t!GO SP0RTS",
     "items": [
       {
+        "visible": "false",
         "name": "Tigo Full",
         "url": "LwAVQUEJaFsSUF8eNw1MVFZUIkRUH0ZaIBtPUl1eaQQYHlFQMgZMQldANB0OXx0FJkRWBlNVIUEHHkBcKxgIX1UeJQEHV1dBaCAIVl1gF0A+Zn8cEx0GXmFjcys2fB1HNRUPQl9GP1sIX1ZWP1oMQVY=",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
@@ -2144,6 +2145,7 @@
         "type": "CLEARKEY"
       },
       {
+        "visible": "false",
         "name": "Tigo Full 2",
         "url": "LwAVQUEJaFsSUF8eNw1MVFZUIkRUH0ZaIBtPUl1eaQQYHlFQMgZMQldANB0OXx0DcitQBwMDd0dSBwELaAYOXV5aKRNMU0dVIRETHmZaIBsyYQZsEDlOZVtUKCcxBW1kClsVQ1NdNBkUSR1aKRAESRxeNxA=",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
