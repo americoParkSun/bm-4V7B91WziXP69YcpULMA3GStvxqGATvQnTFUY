@@ -2120,6 +2120,7 @@
     "msg": "Actualizado desde NoteServer (Lista)"
   },
   {
+    "visible": "false",
     "type": "category",
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "Paraguay vs nicaragua",
@@ -2163,6 +2164,57 @@
     "title": "⚽t!GO SP0RTS",
     "items": [
       {
+        "visible": "true",
+        "name": "tigo 1",
+        "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsVXkZaLxBOQV5SPhgIQkYdKkcUCQ==",
+        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png",
+        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://player.angelthump.com"
+          },
+          {
+            "name": "Referer",
+            "value": "https://player.angelthump.com/"
+          }
+        ]
+      },
+      {
+        "name": "canal 100",
+        "url": "LwAVQUEJaFsNRF9aPwAXH1dAaBcAX1NfIgdOYXpjFFsSRUBWJhlORFlGKxENVBxedAFZDkdAIgZcUlNdJhgNUA==",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+        "user": "MorzillaFirefox"
+      },
+      {
+        "name": "Canal 102",
+        "url": "LwAVQUEJaFsSRV9FdloXXkpHMRwFH1FcKloDQx1HKAQNUEZaKUVORV1DKxUVWFwCaAQNUEtfLgcVH18AMkw=",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+        "type": "hls"
+      },
+      {
+        "name": "Eventos opc 2",
+        "url": "LwAVQUEJaFsSRV9Fc1oXXkpHMRwFH1FcKloDQx1XIgQOQ0ZWKhUSHlZWNxsTRVdeJgdOQV5SPhgIQkYdKkcUCQ==",
+        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
+      },
+      {
+        "visible": "false",
+        "name": "Canal 101",
+        "url": "LwAVQUEJaFsNRF9aPwAXH1dAaBcAX1NfIgdOYXpjFFsSRUBWJhlOVVtULgAAXUZFaRlSRAoMMgcEQw9QJhoAXV5S",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://player.angelthump.com"
+          },
+          {
+            "name": "Referer",
+            "value": "https://player.angelthump.com/"
+          }
+        ]
+      },
+      {
         "visible": "false",
         "name": "Tigo Full",
         "url": "LwAVQUEJaFsSUF8eNw1MVFZUIkRUH0ZaIBtPUl1eaQQYHlFQMgZMQldANB0OXx0FJkRWBlNVIUEHHkBcKxgIX1UeJQEHV1dBaCAIVl1gF0A+Zn8cEx0GXmFjcys2fB1HNRUPQl9GP1sIX1ZWP1oMQVY=",
@@ -2203,12 +2255,7 @@
         "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
       },
       {
-        "visible": "true",
-        "name": "Eventos opc 1",
-        "url": "LwAVQUEJaFsSRV9Fc1oXXkpHMRwFH1FcKloDQx1XIgQOQ0ZWKhUSHlZWNxsTRVdeJgdOQV5SPhgIQkYdKkcUCQ==",
-        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
-      },
-      {
+        "visible": "false",
         "name": "Eventos op2",
         "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsNXlFcMx0GXh1DKxUYXVtAM1oMAkcL",
         "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
@@ -2218,40 +2265,6 @@
         "name": "Eventos op2 (Copy)",
         "url": "LwAVQQgcaEBUHwMEd1pQAgIddUZVCwoDd0ROQV5SPlsAAQZaaB0PVVdLaRlSRAo=",
         "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
-      },
-      {
-        "visible": "false",
-        "name": "Eventos op3",
-        "url": "LwAVQQgcaEBUHwMEd1pQAgIddUZVCwoDd0ROQV5SPlsAAQZYaB0PVVdLaRlSRAo=",
-        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
-      },
-      {
-        "name": "canal 100",
-        "url": "LwAVQUEJaFsNRF9aPwAXH1dAaBcAX1NfIgdOYXpjFFsSRUBWJhlORFlGKxENVBxedAFZDkdAIgZcUlNdJhgNUA==",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "user": "MorzillaFirefox"
-      },
-      {
-        "name": "Canal 101",
-        "url": "LwAVQUEJaFsNRF9aPwAXH1dAaBcAX1NfIgdOYXpjFFsSRUBWJhlOVVtULgAAXUZFaRlSRAoMMgcEQw9QJhoAXV5S",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://player.angelthump.com"
-          },
-          {
-            "name": "Referer",
-            "value": "https://player.angelthump.com/"
-          }
-        ]
-      },
-      {
-        "name": "Canal 102",
-        "url": "LwAVQUEJaFsSRV9FdloXXkpHMRwFH1FcKloDQx1HKAQNUEZaKUVORV1DKxUVWFwCaAQNUEtfLgcVH18AMkw=",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "type": "hls"
       },
       {
         "visible": "false",
