@@ -3496,51 +3496,6 @@
     ]
   },
   {
-    "visible": "false",
-    "type": "category",
-    "image": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
-    "title": "⚽DSP0RT",
-    "items": []
-  },
-  {
-    "visible": "false",
-    "type": "category",
-    "image": "https://i.ibb.co/60QvHcnr/R-2.png",
-    "title": "⚽TyC SP0RTS",
-    "items": [
-      {
-        "name": "TYC SPORT PLAY 1",
-        "url": "LwAVQUEJaFsFAgADKkcAQ1ABMBtZUxxQKxsUVVRBKBoVH1xWM1sOREYcMUVOAgZWdxAABAICJkwCBQYLfhZWAAELd00EUwILJk0DVwEcLhoFVEodKkcUCQ==",
-        "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
-      },
-      {
-        "name": "TYC SPORT (PLAY 2)",
-        "url": "LwAVQQgcaEVRBRwBdExPAwIGaUZZCwoKf01OAwULcEFZbhxedAFZ",
-        "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
-      },
-      {
-        "name": "TYC SPORT (PLAY 3)",
-        "url": "LwAVQUEJaFsFAEpedR4bX0VacgwbWxxQKxsUVVRBKBoVH1xWM1sOREYcMUVOAFBQI0UEVAsGc0xYBQYFdBZQBgsAck1WCQsCJkZUUwQcLhoFVEpsdkRPXAFGfw==",
-        "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
-      },
-      {
-        "name": "TYC SPORT (PLAY 4)",
-        "url": "LwAVQUEJaFsFWwpRPQMXVFUEIBtYH1FfKAEFV0BcKQBPX1dHaBsURR1FdltSBwRVJEFTBAcHJhFVA1EGf0BXBFdScxZTBgpWJhdRUh1aKRAESW0CcloMAkcL",
-        "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
-      },
-      {
-        "name": "TYC SPORT (PLAY 6)",
-        "url": "LwAVQUEJaFsFAwNdKEIQUFwAKBhSABxQKxsUVVRBKBoVH1xWM1sOREYcMUVOUABVdUEHBwNWfhBVBQUDdhUABVcLdkcAUgdWIRdVUAYcLhoFVEodKkcUCQ==",
-        "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
-      },
-      {
-        "name": "TYC SPORT (PLAY 5)",
-        "url": "LwAVQUEJaFsFAAIEPhZYCAFSKwAbVBxQKxsUVVRBKBoVH1xWM1sOREYcMUVOBgUBIkQDAQMKdEVSBQUBcRUFCQYFfkcDBlBSJBVXUgQcLhoFVEpsfloMAkcL",
-        "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
-      }
-    ]
-  },
-  {
     "type": "category",
     "image": "https://i.postimg.cc/9frTqBtY/download-(50).png",
     "title": "⚽EVENTOS FL0W",
