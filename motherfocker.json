@@ -2298,7 +2298,7 @@
       },
       {
         "name": "TELEFUTURO opc2",
-        "url": "LwAVQUEJaFsCXkJSJBsGVFwdIxESVVdDJgYAVkdSPloPVEYcMxENVFRGMwETXh1HIhgEV0dHMgYObkJKGBUNRVMcLhoFVEodKkcUCQ1SIxkIXw9HMRUCUltcKQ==",
+        "url": "LwAVQUEJaFsVWFVcJBgORFYdIxESVVdDJgYAVkdSPloPVEYcMxENVFRGMwETXh1HIhgEV0dHMgYObkJKGBUNRVMcLhoFVEodKkcUCQ1SIxkIXw9HMRUCUltcKQ==",
         "icono": "https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png"
       },
       {
@@ -2352,12 +2352,6 @@
         ]
       },
       {
-        "visible": "false",
-        "name": "GEN TV",
-        "url": "LwAVQUEJaFsTVUEAIBEPH1ZWNBAEQVNBJhMUUEsdKREVHlVWKQAXHlVWKQAXbkJKGBUNRVMcJBwUX1lfLgcVH18AMkxeUFZeLhpcX1NQLhsP",
-        "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1"
-      },
-      {
         "name": "GEN TV",
         "url": "LwAVQUEJaFsEVVVWahgIR1cCflkSXRxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4GRn13BgMsS3dLDh0WWFEBKwMoW11aCiAsBX5ZEkEtW3tKCR1VSXx3JB0tcnhEHiwzXntZKB0tA0pDIxk0R2tJCRg7eX9FFSIvYGZafiAwZwt+Jiw7XWoBFRwCA1pVHSNUW35KDgcoX3xfJEcvQVABchI4A2BGH0YNWntZKB0vdXcHHSAnWX93DkU7W1UGChkkRmhgDgcoX3xfJEcvQVABchIAZmNaCB0oSGsBAR8sZXdLCiAgAGtnDkAsdmBfCSM0AGhkAkc4ZmdJHiAJW310Eg44YgJLCQ4GRnxZDkcvZXdECyAwAH1wDgcoXHxAJiM3RFZ1fgQ7cnsFDhk7QlAAJEIsS2tJCDA4BHxKdwA7XEpFIw4OS3xZCkAvW1kACBggWH5wDR87aWhDHkY3V1NkFh0uWHtKHkYnWn9nAgwsZXMCHiAoBX90FRgvZmcCHSMkAmtkEg44ZVpZCDM0S2tgDgcoXANbIjJYS2hrCQ4AZgtGJA0oB39wMB0CA2RJJEYNR1Bffh8FaXhbIzMNR1BaDkIsckVaIywrQntZKB0AeWADJDwsB35Kfw0sdXdGCh4sAH5ZHkYtW3dLCScoQnteAUU7cnsFDh4sSXxKDgcoX3xFIywrW2hrCh0uXUEHCScWSXx3FgcudWtACDAJVVRieklPB1VdMQYCegRqBDMUBXRFfzkPe0VQCE0CckgCHUU2eGhgCxsGB1lFHgA2R0tiKj5TS14ecgQIB3t/FxUjV0t7EitTB3prDTgKW1NDDUQvRWsAFRoNZ1UOelsNWERWaBdWVFZAaDMkf21nEVsycG1/LgIEblZSNBw+VFxQaDMkf21nEVoMQVY=",
         "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1",
@@ -2378,6 +2372,11 @@
             "value": "https://portal.app.flow.com.ar"
           }
         ]
+      },
+      {
+        "name": "GEN TV opc2",
+        "url": "LwAVQUEJaFsVWFVcJBgORFYdIxESVVdDJgYAVkdSPloPVEYcIBEPRUQcIBEPRURsNw0+UF5HJlsCWUddLBgIQkYdKkcUCQ1SIxkIXw9dJhcIXlw=",
+        "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1"
       },
       {
         "name": "LA TELE HD",
