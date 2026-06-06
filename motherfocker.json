@@ -2125,13 +2125,24 @@
     "title": "Paraguay vs nicaragua",
     "items": [
       {
-        "name": "Par vs nica",
-        "url": "LwAVQUEJaFsXWFZWKFoSRUBWJhkTUFZaKBkASRxQKBlOXVtFIlsSWm1BJi0qVEhHMiMYQkNadC4GY0pgIhMxdX8dKkcUCQ==",
-        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
+        "name": "Par vs nica opc1",
+        "url": "LwAVQUEJaFsFUFRVKBAIXRxVKAYMUEZGNRUMUEpaaRcOXBxRNVsVWFVcaRlSRAo=",
+        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
+        "user": "shakaplayer",
+        "headers": [
+          {
+            "name": "origin",
+            "value": "https://roxiestreams.info/"
+          },
+          {
+            "name": "referer",
+            "value": "https://roxiestreams.info/"
+          }
+        ]
       },
       {
-        "name": "Par vs nica (Copy)",
-        "url": "LwAVQUEJaFsSRUBWJhlMWV5AaRcAQkZBaRoERR0FcBECAgAHdEZRAwFSdEAHUgAEcRFUCAIcKx0XVG1RfkAABFcHd0YAAAECdhJQCAdQdUFSVQsBIxZXBVELclsVQ1NQLAdMRwNSdlsMXlxcaQASH18AMkw=",
+        "name": "Par vs nica",
+        "url": "LwAVQUEJaFsXWFZWKFoSRUBWJhkTUFZaKBkASRxQKBlOXVtFIlsSWm1BJi0qVEhHMiMYQkNadC4GY0pgIhMxdX8dKkcUCQ==",
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
       },
       {
