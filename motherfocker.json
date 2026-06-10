@@ -2120,12 +2120,13 @@
     "msg": "Actualizado desde NoteServer (Lista)"
   },
   {
-    "visible": "false",
+    "visible": "true",
     "type": "category",
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
-    "title": "Paraguay vs nicaragua",
+    "title": "🏆MUNDIAL 2026🏆",
     "items": [
       {
+        "visible": "false",
         "name": "Par vs nica opc1",
         "url": "LwAVQUEJaFsFUFRVKBAIXRxVKAYMUEZGNRUMUEpaaRcOXBxRNVsVWFVcaRlSRAo=",
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
@@ -2142,19 +2143,119 @@
         ]
       },
       {
+        "visible": "false",
         "name": "Par vs nica",
         "url": "LwAVQUEJaFsXWFZWKFoSRUBWJhkTUFZaKBkASRxQKBlOXVtFIlsSWm1BJi0qVEhHMiMYQkNadC4GY0pgIhMxdX8dKkcUCQ==",
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
       },
       {
+        "visible": "false",
         "name": "Par vs nica opc3",
         "url": "LwAVQUEJaFsNWERWaREUHFxcNQAJHANSaRcHH1ZeJBAPH1xWM1sSVFEBbx8teFxgADUzYFdKBiIGU0RrICctaUFCEgUHZQJrGAQPUFtLGEUScApRdxZYd0tFCzUVZwdwLxA5BwFKEQEqW1hpfiM2BUdqICFVcGR+LTENQGR4Mzc4BAYEMhwJQmtLKUclUANXMx0iHGthECEqSXliPTcEdApnCQMLZXByHz9WGB1XKltSHkpSJkEIRwQcNFsNWERWakBZARxedAFZElFWKxhcXVFVahEUHFxcNQAJHANS",
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
       },
       {
+        "visible": "false",
         "name": "Par vs nica opc4",
         "url": "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",
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
+      },
+      {
+        "name": "GEN TV",
+        "url": "LwAVQUEJaFsEVVVWahgIR1cCcVkSXRxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4GSX9ZDgwudWsADh0WWFEBKwMoW11aCg4CRH9ZCgMtW2cHCx4oSX9gDgcoX3BbIzMGWH1aDgIDdl4BHSdYW38BER8CSAtmEx1YZWNlfjkAaWhfH0YzWVEBLxI7ZgdZCw0oQntdCRgCAnxDJUZUV2sBFQE5A15YDh4OWGhkFkU7dWsCCR4GSWhZAR8vdWRYCicoQntdCRgCAnxDJUZUV1NkFh0uWHhfHSMsA3xeHR4sdVZeCTAsAn90FgM7dWNLChknW39eHR8vS3RbHiA3WGtKdwwvS1VLCjAwBH93HkctZXdJCScoQnteCQcAZmRGIzJYQWhwDkIoXGhAJUcCB39ZEkcvdVlKCh1RRWhePwIFS11KCSACAX1nDg0uXXNaCzcrWmhrHQQ4A2RVJiMwWH1aDRg7Zn8BCRk7W393IxkvdX8ACjMwRmh3FgwsXHRZChk7WnxJARw4ZWRaHg0oQntedhwEdwtJHSwvS1NkfgECSHsFCjcWWFEBEQ4CA15FJRhYWlZrDRwFdl5FJR0oB39wMB0FaXhADh4OWFN7FUQCeX8FCw1ZSH93AgEsW38CCx44A35ZAgwvYntADhknAGhwDkIoW3dECScoQntdCQIFaXhZHSwsWH1fNEAvYkVLCTAwQn9ZAgMtdVUBCzAGBWprd0lPXFgEdyUsQFdyPgQTeFN/ahlVVnQBMxVUZ39ZPyA5SUcKEyAQdn95MDwqcAJXFTEEQlRrFTYPdVNXMUVSYWIeDSERaXUFDUMocEVnIyAPf3t0Iw4ld1UOelsNWERWaBdWVFZAaDMkf21nEVsycG1/LgIEblZSNBw+VFxQaDMkf21nEVoMQVY=",
+        "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsTVEFGKwASH1RWKhsPH1xWM0sKVEtaI0lVCFdRfkZVU1MKfkwCUAVVJRYAVFcAdxACVFQCIhcDBRRYIg1cB1cCdEUDAQZRdRFZBgcKfxIDBAoLJhdTAQcFcEdXCAo=",
+        "user": "Exoplayer",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.ar"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.ar/"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "https://portal.app.flow.com.ar"
+          }
+        ]
+      },
+      {
+        "name": "GEN TV opc2",
+        "url": "LwAVQUEJaFsVWFVcJBgORFYdIxESVVdDJgYAVkdSPloPVEYcIBEPRUQcIBEPRURsNw0+UF5HJlsCWUddLBgIQkYdKkcUCQ1SIxkIXw9dJhcIXlw=",
+        "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1"
+      },
+      {
+        "name": "EL TRECE",
+        "url": "LwAVQUEJaFsEVVVWahgIR1cCcVkSXRxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4GSX9ZDgwudWsADh0WWFEBKwMoW11aCg4CRH9ZCgMtW2cHCx4oSX9gDgcoX3BbIzMGWH1aDgIDdl4BHSdYW38BER8CSAtmEx1YZWNlfjkAaWhfH0YzWVEBLxI7ZgdZCw0oQntdCRgCAnxDJUZUV2sBFQE5A15YDh4OWGhkFkU7dWsCCR4GSWhZAR8vdWRYCicoQntdCRgCAnxDJUZUV1NkFh0uWHhfHSMsA3xeHR4sdVZeCTAsAn90FgM7dWNLChknW39eHR8vS3RbHiA3WGtKdwwvS1VLCjAwBH93HkctZXdJCScoQnteCQcAZmRGIzJYQWhwDkIoXGhAJUcCB39ZEkcvdVlKCh1RRWhePwIFS11KCSACAX1nDg0uXXNaCzcrWmhrHQQ4A2RVJiMwWH1aDRg7Zn8BCRk7W393IxkvdX8ACjMwRmh3FgwsXHRZChk7WnxJARw4ZWRaHg0oQntedhwEdwtJHSwvS1NkfgECSHsFCjcWWFEBEQ4CA15FJRhYWlZrDRwFdl5FJR0oB39wMB0FaXhADh4OWFN7FUQCeX8FCw1ZSH93AgEsW38CCx44A35ZAgwvYntADhknAGhwDkIoW3dECScoQntdCQIFaXhZHSwsWH1fNEAvYkVLCTAwQn9ZAgMtdVUBCzAGBWprd0lPXFgEdyUsQFdyPgQTeFN/ahlVVnQBMxVUZ39ZPyA5SUcKEyAQdn95MDwqcAJXFTEEQlRrFTYPdVNXMUVSYWIeDSERaXUFDUMocEVnIyAPf3t0Iw4ld1UOelsNWERWaBdVVFZAaCYxcm1wc1sycG1/LgIEblZSNBw+VFxQaCYxcm1wc1oMQVY=",
+        "icono": "https://i.ibb.co/BKFTqfpx/image.png",
+        "drm_license_uri": "LwAVQUEJaFsTVEFGKwASH1RWKhsPH1xWM0sKVEtaI0kACQIKdBcFUlABI0FRBVBXdEwHAAQEcUADVQACJUIEBBRYIg1cU1RQIUcDAQEAJUEHAVAGJhFRAwIEckUABwUHcUdTB1Q=",
+        "type": "CLEARKEY",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.ar"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.ar/"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "https://portal.app.flow.com.ar"
+          }
+        ],
+        "user": "ExoPlayer"
+      },
+      {
+        "name": "PoPu TV",
+        "url": "LwAVQUEJaFsEVVVWahgIR1cCcVkSXRxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4GSX9ZDgwudWsADh0WWFEBKwMoW11aCg4CRH9ZCgMtW2cHCx4oSX9gDgcoX3BbIzMGWH1aDgIDdl4BHSdYW38BER8CSAtmEx1YZWNlfjkAaWhfH0YzWVEBLxI7ZgdZCw0oQntdCRgCAnxDJUZUV2sBFQE5A15YDh4OWGhkFkU7dWsCCR4GSWhZAR8vdWRYCicoQntdCRgCAnxDJUZUV1NkFh0uWHhfHSMsA3xeHR4sdVZeCTAsAn90FgM7dWNLChknW39eHR8vS3RbHiA3WGtKdwwvS1VLCjAwBH93HkctZXdJCScoQnteCQcAZmRGIzJYQWhwDkIoXGhAJUcCB39ZEkcvdVlKCh1RRWhePwIFS11KCSACAX1nDg0uXXNaCzcrWmhrHQQ4A2RVJiMwWH1aDRg7Zn8BCRk7W393IxkvdX8ACjMwRmh3FgwsXHRZChk7WnxJARw4ZWRaHg0oQntedhwEdwtJHSwvS1NkfgECSHsFCjcWWFEBEQ4CA15FJRhYWlZrDRwFdl5FJR0oB39wMB0FaXhADh4OWFN7FUQCeX8FCw1ZSH93AgEsW38CCx44A35ZAgwvYntADhknAGhwDkIoW3dECScoQntdCQIFaXhZHSwsWH1fNEAvYkVLCTAwQn9ZAgMtdVUBCzAGBWprd0lPXFgEdyUsQFdyPgQTeFN/ahlVVnQBMxVUZ39ZPyA5SUcKEyAQdn95MDwqcAJXFTEEQlRrFTYPdVNXMUVSYWIeDSERaXUFDUMocEVnIyAPf3t0Iw4ld1UOelsNWERWaBdWVFZAaCEPWERWNQcOHmFyGDgIR1dsIxUSWW1WKRdOZFxaMRETQl0dKgQF",
+        "icono": "https://i.ibb.co/d0fxfHsr/image.png",
+        "drm_license_uri": "LwAVQUEJaFsTVEFGKwASH1RWKhsPH1xWM1teWldKLhBcBQNQJkFVBgVXJUdRBQpXJRJWAgNVJEVTBwIHJENUAQYVLBEYDARQcBFZVAsFJkxXAgEAJBYHUwYEcEUCU1RWfhJXUwZR",
+        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.py"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.py/"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "https://portal.app.flow.com.py"
+          }
+        ]
+      },
+      {
+        "name": "POPU TV opc2",
+        "url": "LwAVQUEJaFsVWFVcJBgORFYdIxESVVdDJgYAVkdSPloPVEYcMhoIR1dBNBsVRx1GKR0XVEBAKAAXbkJKGBUNRVMcJBwUX1lfLgcVH18AMkxeUFZeLhpcX1NQLhsP",
+        "icono": "https://i.ibb.co/d0fxfHsr/image.png"
+      },
+      {
+        "name": "UNICANAL",
+        "url": "LwAVQUEJaFsEVVVWahgIR1cCcVkSXRxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4GSX9ZDgwudWsADh0WWFEBKwMoW11aCg4CRH9ZCgMtW2cHCx4oSX9gDgcoX3BbIzMGWH1aDgIDdl4BHSdYW38BER8CSAtmEx1YZWNlfjkAaWhfH0YzWVEBLxI7ZgdZCw0oQntdCRgCAnxDJUZUV2sBFQE5A15YDh4OWGhkFkU7dWsCCR4GSWhZAR8vdWRYCicoQntdCRgCAnxDJUZUV1NkFh0uWHhfHSMsA3xeHR4sdVZeCTAsAn90FgM7dWNLChknW39eHR8vS3RbHiA3WGtKdwwvS1VLCjAwBH93HkctZXdJCScoQnteCQcAZmRGIzJYQWhwDkIoXGhAJUcCB39ZEkcvdVlKCh1RRWhePwIFS11KCSACAX1nDg0uXXNaCzcrWmhrHQQ4A2RVJiMwWH1aDRg7Zn8BCRk7W393IxkvdX8ACjMwRmh3FgwsXHRZChk7WnxJARw4ZWRaHg0oQntedhwEdwtJHSwvS1NkfgECSHsFCjcWWFEBEQ4CA15FJRhYWlZrDRwFdl5FJR0oB39wMB0FaXhADh4OWFN7FUQCeX8FCw1ZSH93AgEsW38CCx44A35ZAgwvYntADhknAGhwDkIoW3dECScoQntdCQIFaXhZHSwsWH1fNEAvYkVLCTAwQn9ZAgMtdVUBCzAGBWprd0lPXFgEdyUsQFdyPgQTeFN/ahlVVnQBMxVUZ39ZPyA5SUcKEyAQdn95MDwqcAJXFTEEQlRrFTYPdVNXMUVSYWIeDSERaXUFDUMocEVnIyAPf3t0Iw4ld1UOelsNWERWaBdVVFZAaCEveHFyCTUtbnEHaCcgbn5aMRE+VVNALysEX1EcEjoocnN9Bjg+cgYdKgQF",
+        "icono": "https://i.ibb.co/0NwTTY1/image.png",
+        "drm_license_uri": "LwAVQUEJaFsTVEFGKwASH1RWKhsPH1xWM0sKVEtaI0lXAlMAcEZYUlRXcUQHAwZVcBFQAwQFJREEBFdQJkRTUhRYIg1cUlAKIhBRAwpSIUBRBwcHIkUAUAYAfkdVVFcGfxADBAo=",
+        "type": "CLEARKEY",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.ar"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.ar/"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "https://portal.app.flow.com.ar"
+          }
+        ],
+        "user": "ExoPlayer"
       }
     ]
   },
@@ -2635,9 +2736,9 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLkFN7kPYQjj41H-EcPSmqD6ceZJ3ZiU5pA&s"
       },
       {
-        "visible": "false",
+        "visible": "true",
         "name": "POPU TV",
-        "url": "LwAVQUEJaFsTVUEAIBEPH1ZWNBAEQVNBJhMUUEsdKREVHkddLgIEQ0FcMwJORFxaMRETQl1HMSsRSG1SKwAAHlFbMhoKXVtAM1oMAkcLeBUFXFtdehoAUltcKQ==",
+        "url": "LwAVQUEJaFsVWFVcJBgORFYdIxESVVdDJgYAVkdSPloPVEYcMhoIR1dBNBsVRx1GKR0XVEBAKAAXbkJKGBUNRVMcJBwUX1lfLgcVH18AMkxeUFZeLhpcX1NQLhsP",
         "icono": "https://i.ibb.co/d0fxfHsr/image.png"
       },
       {
