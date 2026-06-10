@@ -2305,8 +2305,23 @@
     "title": "⚽t!GO SP0RTS",
     "items": [
       {
-        "visible": "true",
         "name": "tigo 1",
+        "url": "LwAVQQgcaEVZBBwCfkBPAwIHaUNTCwoBcUROXVtFIlsVRx1aKRAESRxedAFZ",
+        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png",
+        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://player.angelthump.com"
+          },
+          {
+            "name": "Referer",
+            "value": "https://player.angelthump.com/"
+          }
+        ]
+      },
+      {
+        "name": "tigo 2",
         "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsVXkZaLxBOQV5SPhgIQkYdKkcUCQ==",
         "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png",
         "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
