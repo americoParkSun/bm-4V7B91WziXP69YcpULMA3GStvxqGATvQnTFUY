@@ -2256,6 +2256,50 @@
           }
         ],
         "user": "ExoPlayer"
+      },
+      {
+        "name": "TELEFE",
+        "icono": "https://i.ibb.co/spF87Ccr/Telefe-nuevo-logo.png",
+        "url": "LwAVQUEJaFsEVVVWahgIR1cCcVkSXRxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4GSX9ZDgwudWsADh0WWFEBKwMoW11aCg4CRH9ZCgMtW2cHCx4oSX9gDgcoX3BbIzMGWH1aDgIDdl4BHSdYW38BER8CSAtmEx1YZWNlfjkAaWhfH0YzWVEBLxI7ZgdZCw0oQntdCRgCAnxDJUZUV2sBFQE5A15YDh4OWGhkFkU7dWsCCR4GSWhZAR8vdWRYCicoQntdCRgCAnxDJUZUV1NkFh0uWHhfHSMsA3xeHR4sdVZeCTAsAn90FgM7dWNLChknW39eHR8vS3RbHiA3WGtKdwwvS1VLCjAwBH93HkctZXdJCScoQnteCQcAZmRGIzJYQWhwDkIoXGhAJUcCB39ZEkcvdVlKCh1RRWhePwIFS11KCSACAX1nDg0uXXNaCzcrWmhrHQQ4A2RVJiMwWH1aDRg7Zn8BCRk7W393IxkvdX8ACjMwRmh3FgwsXHRZChk7WnxJARw4ZWRaHg0oQntedhwEdwtJHSwvS1NkfgECSHsFCjcWWFEBEQ4CA15FJRhYWlZrDRwFdl5FJR0oB39wMB0FaXhADh4OWFN7FUQCeX8FCw1ZSH93AgEsW38CCx44A35ZAgwvYntADhknAGhwDkIoW3dECScoQntdCQIFaXhZHSwsWH1fNEAvYkVLCTAwQn9ZAgMtdVUBCzAGBWprd0lPXFgEdyUsQFdyPgQTeFN/ahlVVnQBMxVUZ39ZPyA5SUcKEyAQdn95MDwqcAJXFTEEQlRrFTYPdVNXMUVSYWIeDSERaXUFDUMocEVnIyAPf3t0Iw4ld1UOelsNWERWaBdVVFZAaCAEXVdVIjwlHmFyGDgIR1dsIxUSWW1WKRdOZVdfIhIEeXYdKgQF",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsTVEFGKwASH1RWKhsPH1xWM0sKVEtaI0lSUldQdhZQVFMKcE1YVVZSckFYB1cFcxJSBlcGIhBTARRYIg1cUgQKIUcAV1ZWdURZBFZQJhUAVVZRIUFUAwYFJkRSAwE=",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.ar"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.ar/"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "https://portal.app.flow.com.ar"
+          }
+        ],
+        "user": "ExoPlayer"
+      },
+      {
+        "name": "Tv Publica",
+        "icono": "https://i.ibb.co/6cvkTygb/Televisi-n-P-blica-Argentina-2021.png",
+        "url": "LwAVQUEJaFsEVVVWahgIR1cCcVkSXRxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4GSX9ZDgwudWsADh0WWFEBKwMoW11aCg4CRH9ZCgMtW2cHCx4oSX9gDgcoX3BbIzMGWH1aDgIDdl4BHSdYW38BER8CSAtmEx1YZWNlfjkAaWhfH0YzWVEBLxI7ZgdZCw0oQntdCRgCAnxDJUZUV2sBFQE5A15YDh4OWGhkFkU7dWsCCR4GSWhZAR8vdWRYCicoQntdCRgCAnxDJUZUV1NkFh0uWHhfHSMsA3xeHR4sdVZeCTAsAn90FgM7dWNLChknW39eHR8vS3RbHiA3WGtKdwwvS1VLCjAwBH93HkctZXdJCScoQnteCQcAZmRGIzJYQWhwDkIoXGhAJUcCB39ZEkcvdVlKCh1RRWhePwIFS11KCSACAX1nDg0uXXNaCzcrWmhrHQQ4A2RVJiMwWH1aDRg7Zn8BCRk7W393IxkvdX8ACjMwRmh3FgwsXHRZChk7WnxJARw4ZWRaHg0oQntedhwEdwtJHSwvS1NkfgECSHsFCjcWWFEBEQ4CA15FJRhYWlZrDRwFdl5FJR0oB39wMB0FaXhADh4OWFN7FUQCeX8FCw1ZSH93AgEsW38CCx44A35ZAgwvYntADhknAGhwDkIoW3dECScoQntdCQIFaXhZHSwsWH1fNEAvYkVLCTAwQn9ZAgMtdVUBCzAGBWprd0lPXFgEdyUsQFdyPgQTeFN/ahlVVnQBMxVUZ39ZPyA5SUcKEyAQdn95MDwqcAJXFTEEQlRrFTYPdVNXMUVSYWIeDSERaXUFDUMocEVnIyAPf3t0Iw4ld1UOelsNWERWaBdXVFZAaDcAX1NfcFsycG1/LgIEblZSNBw+VFxQaDcAX1NfcFoMQVY=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsTVEFGKwASH1RWKhsPH1xWM0sKVEtaI0kCUgpQf0YAUgBWJEMECAUKfkFTBlEBfhADBgEGcxFZABRYIg1cUlEHJhUEAAUAIxBTVFQCcBUEAwRRIkcHBlNWf0NXBwA=",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.ar"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.ar/"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "https://portal.app.flow.com.ar"
+          }
+        ],
+        "user": "ExoPlayer"
       }
     ]
   },
