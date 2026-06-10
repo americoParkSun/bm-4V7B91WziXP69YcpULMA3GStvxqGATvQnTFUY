@@ -2306,8 +2306,8 @@
     "items": [
       {
         "name": "tigo 1",
-        "url": "LwAVQQgcaEVZBBwCfkBPAwIHaUNTCwoBcUROXVtFIlsVRx1aKRAESRxedAFZ",
-        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png",
+        "url": "LwAVQQgcaEVZBBwCfkBPAwIHaUNTCwoBcUROXVtFIlsVRwMcLhoFVEodKkcUCQ==",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
         "headers": [
           {
@@ -2322,8 +2322,8 @@
       },
       {
         "name": "tigo 2",
-        "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsVXkZaLxBOQV5SPhgIQkYdKkcUCQ==",
-        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png",
+        "url": "LwAVQQgcaEVZBBwCfkBPAwIHaUNTCwoBcUROXVtFIlsVRx1aKRAESRxedAFZ",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
         "headers": [
           {
@@ -2337,16 +2337,42 @@
         ]
       },
       {
-        "name": "canal 100",
-        "url": "LwAVQUEJaFsNRF9aPwAXH1dAaBcAX1NfIgdOYXpjFFsSRUBWJhlORFlGKxENVBxedAFZDkdAIgZcUlNdJhgNUA==",
+        "name": "tigo 3",
+        "url": "LwAVQQgcaEVZBBwCfkBPAwIHaUNTCwoBcUROXVtFIlsVRwEcLhoFVEodKkcUCQ==",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "user": "MorzillaFirefox"
+        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://player.angelthump.com"
+          },
+          {
+            "name": "Referer",
+            "value": "https://player.angelthump.com/"
+          }
+        ]
       },
       {
         "name": "Canal 102",
         "url": "LwAVQUEJaFsSRV9FdloXXkpHMRwFH1FcKloDQx1HKAQNUEZaKUVORV1DKxUVWFwCaAQNUEtfLgcVH18AMkw=",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "type": "hls"
+      },
+      {
+        "name": "tigo eventos opc1",
+        "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsVXkZaLxBOQV5SPhgIQkYdKkcUCQ==",
+        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png",
+        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://player.angelthump.com"
+          },
+          {
+            "name": "Referer",
+            "value": "https://player.angelthump.com/"
+          }
+        ]
       },
       {
         "name": "Eventos opc 2",
