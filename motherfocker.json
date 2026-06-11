@@ -2224,7 +2224,8 @@
             "name": "Referer",
             "value": "https://portal.app.flow.com.py/"
           }
-        ]
+        ],
+        "type": "CLEARKEY"
       },
       {
         "name": "POPU TV opc2",
