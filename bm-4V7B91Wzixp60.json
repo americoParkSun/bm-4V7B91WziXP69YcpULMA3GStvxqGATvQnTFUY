@@ -2205,6 +2205,86 @@
         "user": "ExoPlayer"
       },
       {
+        "name": "FOX SPORT 4K MUNDIAL",
+        "url": "LwAVQUEJaFsORUZWaRgIR1cdIRgYH0VEaRUIRx9QIxpPX1dHaB0AVR9dLgATXh1fLgIEHlFfLhEPRUEcIxUSWR1WKRdOUFhVKBEFVVlRPVsOREYcMUVOUwULf0RRUwtRdUdRBQoEfhZQBAoHdBJVBAcLdEJZAwscJBEPUhxeNxA=",
+        "icono": "https://i.ibb.co/CsngGzDW/Picsart-26-06-13-18-39-17-851.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsTVEFGKwASH1RWKhsPH1xWM1teWldKLhBcVwQGcUAEUgBSIhFZAAsDc0JSAwpSdxFQBAFRIkFWBVYVLBEYDFRVc0IACVMCd0dQVFABcBEHAwAGcEIAAQUEJE1ZUFAE",
+        "headers": [
+          {
+            "name": "Referer",
+            "value": "https://www.primevideo.com/"
+          }
+        ],
+        "user": "AivAndroidPlayer/1.0 (AndroidDevice)"
+      },
+      {
+        "name": "Camara Jugador",
+        "icono": "https://app.femon.net/tv/banners/6a28467e5acbd2.84801314.png",
+        "url": "LwAVQUEJaFsEVVVWahgIR1cDdVkTXkEdJAIARUZFaRcOXBxSNVsVXllsIg0rWVB0JB0uWHh6Eg40SX9aDgcoX2AGJDcoB3tYNyw3cngKaREYe15WDzUIflt6PzobVkp8EzVVf1h6cj0IRltQdRgWeFhcLjk1YAd/LSEWfVh2PToIBUp+PT0IfXF5MC05Y116LRsIfQBLNxAMZERqPRANa3p+MSAmd1RnKjILUGUKMjhQf3BrdwwRVV9lIS4md0hSAU0NU199IRBTRkR6LgMIUgBlPRdTXURRK00La3UGIRU2YFt8Lj4MfAB+dDobc1hqEC1UaGZ+MC4MYEp6LgMIUgBlPRdTXURRK00Ra3F6cT0IeEF6KjoSUGVlMhAnCEJpBD1XeFt6ND0MY15XKhgLa2QKNy4ieAR6Lj0SeF8CLxEnCEhpHzobUGUKMhcYeAR+BAMIUgBlPRdTXURRK00KVWp5LxAmXURRLj1XfHFELhA5e0F6LRsIUHphdxcpfAR/PkwYfHZ2MjkLfAN/LS1TfVh2PjkIeEF6KjJQa3F6cT0LeEV9FD0SeFx9MRA5e1hpHzkIfl5AdTsyRgZ9FAMZf3ZiNDkLdEV/AxNTfXZUcyw5AQ8dLkAjQUAGAxY5Y3BhHzwPd0Z7dRAYWUF/GBgPWmpwEjY2fgt3IycNRVRaJSETWlNfABkCdAJCdTctfmoEc0cJdFVjPQ4wQF57KTUjXnBwM0UkSwVFFANcDB1fLgIEHlEEIhASHnV2CSs+cnN+dlsycG1/LgIEblZSNBw+VFxQaDMkf21sBDUsABxeNxA=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsTVEFGKwASH1RWKhsPH1xWM1teWldKLhBcBgoKdExWUAFVc0BYBQMKI00DB1cBIUICCAMDIkRZBwMVLBEYDFMEfxZXAwUAf0QABQFWIUJQAQYLckRZA1dWfkVTBgVS",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.py"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.py/"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "https://portal.app.flow.com.py"
+          }
+        ],
+        "user": "ExoPlayer"
+      },
+      {
+        "name": "Camara DT",
+        "icono": "https://app.femon.net/tv/banners/6a28473207e693.35309536.png",
+        "url": "LwAVQUEJaFsEVVVWahgIR1cDdVkTXkEdJAIARUZFaRcOXBxSNVsVXllsIg0rWVB0JB0uWHh6Eg40SX9aDgcoX2AGJDcoB3tYNyw3cngKaREYe15WDzUIflt6PzobVkp8EzVVf1h6cj0IRltQdRgWeFhcLjk1YAd/LSEWfVh2PToIBUp+PT0IfXF5MC05Y116LRsIfQBLNxAMZERqPRANa3p+MSAmd1RnKjILUGUKMjhQf3BrdwwRVV9lIS4md0hSAU0NU199IRBTRkR6LgMIUgBlPRdTXURRK00La3UGIRU2YFt8Lj4MfAB+dDobc1hqEC1UaGZ+MC4MYEp6LgMIUgBlPRdTXURRK00Ra3F6cT0IeEF6KjoSUGVlMhAnCEJpBD1XeFt6ND0MY15XKhgLa2QKNy4ieAR6Lj0SeF8CLxEnCEhpHzobUGUKMhcYeAR+BAMIUgBlPRdTXURRK00KVWp5LxAmXURRLj1XfHFELhA5e0F6LRsIUHphdxcpfAR/PkwYfHZ2MjkLfAN/LS1TfVh2PjkIeEF6KjJQa3F6cT0LeEV9FD0SeFx9MRA5e1hpHzkIfl5AdTsyRgZ9FAMZf3ZiNDkLdEV/AxNTfXZUcyw5AQ8dLkAjQUAGAxY5Y3BhHzwPd0Z7dRAYWUF/GBgPWmpwEjY2fgt3IycNRVRaJSETWlNfABkCdAJCdTctfmoEc0cJdFVjPQ4wQF57KTUjXnBwM0UkSwVFFANcDB1fLgIEHlEEIhASHnV2CSsicH8BaCcgbn5aMRE+VVNALysEX1EcADEvbnFyCkZPXEJX",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsTVEFGKwASH1RWKhsPH1xWM1teWldKLhBcCAVSc0JXCAVXJUNUAwZQcEIFBQVXIk0DVFYGJUMHCVMVLBEYDApSdxVRCVZSc0ZSV1FScUNYBgIBJUBXAgBSfkQHAgEA",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.py"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.py/"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "https://portal.app.flow.com.py"
+          }
+        ],
+        "user": "ExoPlayer"
+      },
+      {
+        "name": "Mundial Multi Cam",
+        "icono": "https://app.femon.net/tv/banners/6a2847b9ef0f13.37782679.png",
+        "url": "LwAVQUEJaFsEVVVWahgIR1cDdVkTXkEdJAIARUZFaRcOXBxSNVsVXllsIg0rWVB0JB0uWHh6Eg40SX9aDgcoX2AGJDcoB3tYNyw3cngKaREYe15WDzUIflt6PzobVkp8EzVVf1h6cj0IRltQdRgWeFhcLjk1YAd/LSEWfVh2PToIBUp+PT0IfXF5MC05Y116LRsIfQBLNxAMZERqPRANa3p+MSAmd1RnKjILUGUKMjhQf3BrdwwRVV9lIS4md0hSAU0NU199IRBTRkR6LgMIUgBlPRdTXURRK00La3UGIRU2YFt8Lj4MfAB+dDobc1hqEC1UaGZ+MC4MYEp6LgMIUgBlPRdTXURRK00Ra3F6cT0IeEF6KjoSUGVlMhAnCEJpBD1XeFt6ND0MY15XKhgLa2QKNy4ieAR6Lj0SeF8CLxEnCEhpHzobUGUKMhcYeAR+BAMIUgBlPRdTXURRK00KVWp5LxAmXURRLj1XfHFELhA5e0F6LRsIUHphdxcpfAR/PkwYfHZ2MjkLfAN/LS1TfVh2PjkIeEF6KjJQa3F6cT0LeEV9FD0SeFx9MRA5e1hpHzkIfl5AdTsyRgZ9FAMZf3ZiNDkLdEV/AxNTfXZUcyw5AQ8dLkAjQUAGAxY5Y3BhHzwPd0Z7dRAYWUF/GBgPWmpwEjY2fgt3IycNRVRaJSETWlNfABkCdAJCdTctfmoEc0cJdFVjPQ4wQF57KTUjXnBwM0UkSwVFFANcDB1fLgIEHlEEIhASHnV2CSssRF5HLhcAXB1gBistWERWGBAAQlpsIhoCHnV2CSssRF5HLhcAXBxeNxA=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsTVEFGKwASH1RWKhsPH1xWM0sKVEtaI0kCUgpQf0YAUgBWJEMECAUKfkFTBlEBfhADBgEGcxFZABRYIg1cUlEHJhUEAAUAIxBTVFQCcBUEAwRRIkcHBlNWf0NXBwA=",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.py"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.py/"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "https://portal.app.flow.com.py"
+          }
+        ],
+        "user": "ExoPlayer"
+      },
+      {
         "name": "PoPu TV",
         "url": "LwAVQUEJaFsEVVVWahgIR1cDdVkTXkEdJAIARUZFaRcOXBxSNVsVXllsIg0rWVB0JB0uWHh6Eg40SX9aDgcoX2AGJDcoB3tYNyw3cngKaREYe15WDzUIflt6PzobVkp8EzVVf1h6cj0IRltQdRgWeFhcLjk1YAd/LSEWfVh2PToIBUp+PT0IfXF5MC05Y116LRsIfQBLNxAMZERqPRANa3p+MSAmd1RnKjILUGUKMjhQf3BrdwwRVV9lIS4md0hSAU0NU199IRBTRkR6LgMIUgBlPRdTXURRK00La3UGIRU2YFt8Lj4MfAB+dDobc1hqEC1UaGZ+MC4MYEp6LgMIUgBlPRdTXURRK00Ra3F6cT0IeEF6KjoSUGVlMhAnCEJpBD1XeFt6ND0MY15XKhgLa2QKNy4ieAR6Lj0SeF8CLxEnCEhpHzobUGUKMhcYeAR+BAMIUgBlPRdTXURRK00KVWp5LxAmXURRLj1XfHFELhA5e0F6LRsIUHphdxcpfAR/PkwYfHZ2MjkLfAN/LS1TfVh2PjkIeEF6KjJQa3F6cT0LeEV9FD0SeFx9MRA5e1hpHzkIfl5AdTsyRgZ9FAMZf3ZiNDkLdEV/AxNTfXZUcyw5AQ8dLkAjQUAGAxY5Y3BhHzwPd0Z7dRAYWUF/GBgPWmpwEjY2fgt3IycNRVRaJSETWlNfABkCdAJCdTctfmoEc0cJdFVjPQ4wQF57KTUjXnBwM0UkSwVFFANcDB1fLgIEHlEEIhASHmddLgIEQ0FcaCcgbn5aMRE+VVNALysEX1EcEhoIR1dBNBtPXEJX",
         "icono": "https://i.ibb.co/d0fxfHsr/image.png",
@@ -2284,72 +2364,6 @@
           {
             "name": "x-flow-origin",
             "value": "https://portal.app.flow.com.ar"
-          }
-        ],
-        "user": "ExoPlayer"
-      },
-      {
-        "name": "Camara Jugador",
-        "icono": "https://app.femon.net/tv/banners/6a28467e5acbd2.84801314.png",
-        "url": "LwAVQUEJaFsEVVVWahgIR1cDdVkTXkEdJAIARUZFaRcOXBxSNVsVXllsIg0rWVB0JB0uWHh6Eg40SX9aDgcoX2AGJDcoB3tYNyw3cngKaREYe15WDzUIflt6PzobVkp8EzVVf1h6cj0IRltQdRgWeFhcLjk1YAd/LSEWfVh2PToIBUp+PT0IfXF5MC05Y116LRsIfQBLNxAMZERqPRANa3p+MSAmd1RnKjILUGUKMjhQf3BrdwwRVV9lIS4md0hSAU0NU199IRBTRkR6LgMIUgBlPRdTXURRK00La3UGIRU2YFt8Lj4MfAB+dDobc1hqEC1UaGZ+MC4MYEp6LgMIUgBlPRdTXURRK00Ra3F6cT0IeEF6KjoSUGVlMhAnCEJpBD1XeFt6ND0MY15XKhgLa2QKNy4ieAR6Lj0SeF8CLxEnCEhpHzobUGUKMhcYeAR+BAMIUgBlPRdTXURRK00KVWp5LxAmXURRLj1XfHFELhA5e0F6LRsIUHphdxcpfAR/PkwYfHZ2MjkLfAN/LS1TfVh2PjkIeEF6KjJQa3F6cT0LeEV9FD0SeFx9MRA5e1hpHzkIfl5AdTsyRgZ9FAMZf3ZiNDkLdEV/AxNTfXZUcyw5AQ8dLkAjQUAGAxY5Y3BhHzwPd0Z7dRAYWUF/GBgPWmpwEjY2fgt3IycNRVRaJSETWlNfABkCdAJCdTctfmoEc0cJdFVjPQ4wQF57KTUjXnBwM0UkSwVFFANcDB1fLgIEHlEEIhASHnV2CSs+cnN+dlsycG1/LgIEblZSNBw+VFxQaDMkf21sBDUsABxeNxA=",
-        "type": "CLEARKEY",
-        "drm_license_uri": "LwAVQUEJaFsTVEFGKwASH1RWKhsPH1xWM1teWldKLhBcBgoKdExWUAFVc0BYBQMKI00DB1cBIUICCAMDIkRZBwMVLBEYDFMEfxZXAwUAf0QABQFWIUJQAQYLckRZA1dWfkVTBgVS",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          },
-          {
-            "name": "x-flow-origin",
-            "value": "https://portal.app.flow.com.py"
-          }
-        ],
-        "user": "ExoPlayer"
-      },
-      {
-        "name": "Camara DT",
-        "icono": "https://app.femon.net/tv/banners/6a28473207e693.35309536.png",
-        "url": "LwAVQUEJaFsEVVVWahgIR1cDdVkTXkEdJAIARUZFaRcOXBxSNVsVXllsIg0rWVB0JB0uWHh6Eg40SX9aDgcoX2AGJDcoB3tYNyw3cngKaREYe15WDzUIflt6PzobVkp8EzVVf1h6cj0IRltQdRgWeFhcLjk1YAd/LSEWfVh2PToIBUp+PT0IfXF5MC05Y116LRsIfQBLNxAMZERqPRANa3p+MSAmd1RnKjILUGUKMjhQf3BrdwwRVV9lIS4md0hSAU0NU199IRBTRkR6LgMIUgBlPRdTXURRK00La3UGIRU2YFt8Lj4MfAB+dDobc1hqEC1UaGZ+MC4MYEp6LgMIUgBlPRdTXURRK00Ra3F6cT0IeEF6KjoSUGVlMhAnCEJpBD1XeFt6ND0MY15XKhgLa2QKNy4ieAR6Lj0SeF8CLxEnCEhpHzobUGUKMhcYeAR+BAMIUgBlPRdTXURRK00KVWp5LxAmXURRLj1XfHFELhA5e0F6LRsIUHphdxcpfAR/PkwYfHZ2MjkLfAN/LS1TfVh2PjkIeEF6KjJQa3F6cT0LeEV9FD0SeFx9MRA5e1hpHzkIfl5AdTsyRgZ9FAMZf3ZiNDkLdEV/AxNTfXZUcyw5AQ8dLkAjQUAGAxY5Y3BhHzwPd0Z7dRAYWUF/GBgPWmpwEjY2fgt3IycNRVRaJSETWlNfABkCdAJCdTctfmoEc0cJdFVjPQ4wQF57KTUjXnBwM0UkSwVFFANcDB1fLgIEHlEEIhASHnV2CSsicH8BaCcgbn5aMRE+VVNALysEX1EcADEvbnFyCkZPXEJX",
-        "type": "CLEARKEY",
-        "drm_license_uri": "LwAVQUEJaFsTVEFGKwASH1RWKhsPH1xWM1teWldKLhBcCAVSc0JXCAVXJUNUAwZQcEIFBQVXIk0DVFYGJUMHCVMVLBEYDApSdxVRCVZSc0ZSV1FScUNYBgIBJUBXAgBSfkQHAgEA",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          },
-          {
-            "name": "x-flow-origin",
-            "value": "https://portal.app.flow.com.py"
-          }
-        ],
-        "user": "ExoPlayer"
-      },
-      {
-        "name": "Mundial Multi Cam",
-        "icono": "https://app.femon.net/tv/banners/6a2847b9ef0f13.37782679.png",
-        "url": "LwAVQUEJaFsEVVVWahgIR1cDdVkTXkEdJAIARUZFaRcOXBxSNVsVXllsIg0rWVB0JB0uWHh6Eg40SX9aDgcoX2AGJDcoB3tYNyw3cngKaREYe15WDzUIflt6PzobVkp8EzVVf1h6cj0IRltQdRgWeFhcLjk1YAd/LSEWfVh2PToIBUp+PT0IfXF5MC05Y116LRsIfQBLNxAMZERqPRANa3p+MSAmd1RnKjILUGUKMjhQf3BrdwwRVV9lIS4md0hSAU0NU199IRBTRkR6LgMIUgBlPRdTXURRK00La3UGIRU2YFt8Lj4MfAB+dDobc1hqEC1UaGZ+MC4MYEp6LgMIUgBlPRdTXURRK00Ra3F6cT0IeEF6KjoSUGVlMhAnCEJpBD1XeFt6ND0MY15XKhgLa2QKNy4ieAR6Lj0SeF8CLxEnCEhpHzobUGUKMhcYeAR+BAMIUgBlPRdTXURRK00KVWp5LxAmXURRLj1XfHFELhA5e0F6LRsIUHphdxcpfAR/PkwYfHZ2MjkLfAN/LS1TfVh2PjkIeEF6KjJQa3F6cT0LeEV9FD0SeFx9MRA5e1hpHzkIfl5AdTsyRgZ9FAMZf3ZiNDkLdEV/AxNTfXZUcyw5AQ8dLkAjQUAGAxY5Y3BhHzwPd0Z7dRAYWUF/GBgPWmpwEjY2fgt3IycNRVRaJSETWlNfABkCdAJCdTctfmoEc0cJdFVjPQ4wQF57KTUjXnBwM0UkSwVFFANcDB1fLgIEHlEEIhASHnV2CSssRF5HLhcAXB1gBistWERWGBAAQlpsIhoCHnV2CSssRF5HLhcAXBxeNxA=",
-        "type": "CLEARKEY",
-        "drm_license_uri": "LwAVQUEJaFsTVEFGKwASH1RWKhsPH1xWM0sKVEtaI0kCUgpQf0YAUgBWJEMECAUKfkFTBlEBfhADBgEGcxFZABRYIg1cUlEHJhUEAAUAIxBTVFQCcBUEAwRRIkcHBlNWf0NXBwA=",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          },
-          {
-            "name": "x-flow-origin",
-            "value": "https://portal.app.flow.com.py"
           }
         ],
         "user": "ExoPlayer"
