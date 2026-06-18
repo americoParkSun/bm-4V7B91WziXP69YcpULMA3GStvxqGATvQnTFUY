@@ -2183,11 +2183,6 @@
         ]
       },
       {
-        "name": "GEN TV opc2",
-        "url": "LwAVQUEJaFsVWFVcJBgORFYdIxESVVdDJgYAVkdSPloPVEYcIBEPRUQcIBEPRURsNw0+UF5HJlsCWUddLBgIQkYdKkcUCQ1SIxkIXw9dJhcIXlw=",
-        "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1"
-      },
-      {
         "name": "EL TRECE",
         "url": "LwAVQUEJaFsEVVVWahkISQICagYOQhxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4GSX1nBkQsS1kBDh0WWFEBKwMoW11aCiAwBH5ZEgMtW3dJCR1VSX9JDh0tcnhEHiwzXntZKB0tA0pDIxk0R2tJIxg7eX9FEzMnV2ZeAR4AZgtGC0Uvc2oDPwQFXGRVHTMnS1N1fhgDXHxVI0YWR3taMB0CA2RJJEYNR1Bffh47dgdVJiMwWH1aDRgsZVVKCjACSX1nAg4udmNLCCAJWntaMB0CA2RJJEYNR1BffgQ7cnsFDh0oQnteCQcAZmRGIzJYQWhwDkIoWHtADhkzXVZeKx47ZwtDHTcoB3taDgcoXANbIjJYS2hrCQ4AZgtGJA0oB39wMB0CA2RJJEYNR1Bffh8FaXhbIzMNR1BaDkIsckVaIywrQntZKB0AeWADJDwsB35Kfw0sdXdGCh4sAH5ZHkYtW3dKCh0oQnteAUU7cnsFDh4kRn9gDgcoX3xFIywrW2hrCh0uXUEBCCcWBXxgMAwvdWNACh4kRn53IEYtdVUHHyxRDBweIjsWBVtwahwrRXx0Ejs+BUZsFD4+AUV5fjgbe31rajwbfwBWLAUzQFxnFkYpXVhDcCIYX2UFCyVVRVBBHhs0ZlhWMxlZa1lhAjkRfkt+Hzk4BWBZFklcHl5aMRFOUgZWIwdOY2JwGDdVHmFyGDgIR1dsIxUSWW1WKRdOY2JwGDdVH19DIw==",
         "icono": "https://i.ibb.co/BKFTqfpx/image.png",
@@ -2226,11 +2221,6 @@
           }
         ],
         "type": "CLEARKEY"
-      },
-      {
-        "name": "POPU TV opc2",
-        "url": "LwAVQUEJaFsVWFVcJBgORFYdIxESVVdDJgYAVkdSPloPVEYcMhoIR1dBNBsVRx1GKR0XVEBAKAAXbkJKGBUNRVMcJBwUX1lfLgcVH18AMkxeUFZeLhpcX1NQLhsP",
-        "icono": "https://i.ibb.co/d0fxfHsr/image.png"
       },
       {
         "name": "UNICANAL",
@@ -2294,6 +2284,72 @@
           {
             "name": "x-flow-origin",
             "value": "https://portal.app.flow.com.ar"
+          }
+        ],
+        "user": "ExoPlayer"
+      },
+      {
+        "name": "Camara Jugador",
+        "icono": "https://app.femon.net/tv/banners/6a28467e5acbd2.84801314.png",
+        "url": "LwAVQUEJaFsEVVVWdkRMQl4dJAIARUZFaRcOXBxSNVsVXllsIg0rWVB0JB0uWHh6Eg40SX9aDgcoX2AGJDcoB3tYNyw3cngKaREYe15WDzUIflt6PzobVkp8Ax8bfEh6dz0IRltQdRgWeFhcLjk1VgB/LTEYfVh2czoiBUt+PR8IfXF5MC05Y116LRsIfQBLNxAMZERqPToNa3p+MSY3f2NnLT4oY3EKPS03CF1RDzoHa1xlNBYnCF5rPR9QYGdlACU0e3V9LTVTY1hqdDkbaAZhAy0YYGZiczoICVt/BD4ba2p9PRU2CEdrdToKU14KNy4ieAR6KiFUf1hiPzolWVh+ECVQaEhqcy4lVlt/BD4ba2p9PRU2CEdrdRgKeFhcLj0IRltqdQwRa2UGdyxTXVl6LRsIeFtELi4mZwBSEDoNaQBfLD0LXlt6LgMIU2V1cyxSf15QdDoRUwAGPT0LXkV/BD4ba2p9PRU2CEdrdSZQUl91dxU2CEd6LRsWfXF5dhcMRlt8Lj4OVXphMBcbXkR/PT0WfGEHPjkbZEd9LS0UfGZ6PT0IRltqHyIKeFhcLjsldFt/BD4bUwFlPi1TZ0h6LQQDfnZmNDk1YAJ/Az0ZfHFEczoIRgZ8AUVYH0JQKjEreFsCdxpVeQRFFB9UZGgDdxYmWkQGJj9QXQRQNh47blRiMxEGCQtpPjwKAn8BIj8wYGVeLgIQfgB/FjYLa3Z9N00+ZQRQJRcwcF9fD0EvW11UeklOXVtFIlsCBldXNFsmdHxsGDcgfAMcFDU+fVtFIisFUEFbGBEPUh10Ajo+bnFyCkVPXEJX",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsTVEFGKwASH1RWKhsPH1xWM1teWldKLhBcBgoKdExWUAFVc0BYBQMKI00DB1cBIUICCAMDIkRZBwMVLBEYDFMEfxZXAwUAf0QABQFWIUJQAQYLckRZA1dWfkVTBgVS",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.py"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.py/"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "https://portal.app.flow.com.py"
+          }
+        ],
+        "user": "ExoPlayer"
+      },
+      {
+        "name": "Camara DT",
+        "icono": "https://app.femon.net/tv/banners/6a28473207e693.35309536.png",
+        "url": "LwAVQUEJaFsEVVVWdkRMQl4dJAIARUZFaRcOXBxSNVsVXllsIg0rWVB0JB0uWHh6Eg40SX9aDgcoX2AGJDcoB3tYNyw3cngKaREYe15WDzUIflt6PzobVkp8Ax8bfEh6dz0IRltQdRgWeFhcLjk1VgB/LTEYfVh2czoiBUt+PR8IfXF5MC05Y116LRsIfQBLNxAMZERqPToNa3p+MSY3f2NnLT4oY3EKPS03CF1RDzoHa1xlNBYnCF5rPR9QYGdlACU0e3V9LTVTY1hqdDkbaAZhAy0YYGZiczoICVt/BD4ba2p9PRU2CEdrdToKU14KNy4ieAR6KiFUf1hiPzolWVh+ECVQaEhqcy4lVlt/BD4ba2p9PRU2CEdrdRgKeFhcLj0IRltqdQwRa2UGdyxTXVl6LRsIeFtELi4mZwBSEDoNaQBfLD0LXlt6LgMIU2V1cyxSf15QdDoRUwAGPT0LXkV/BD4ba2p9PRU2CEdrdSZQUl91dxU2CEd6LRsWfXF5dhcMRlt8Lj4OVXphMBcbXkR/PT0WfGEHPjkbZEd9LS0UfGZ6PT0IRltqHyIKeFhcLjsldFt/BD4bUwFlPi1TZ0h6LQQDfnZmNDk1YAJ/Az0ZfHFEczoIRgZ8AUVYH0JQKjEreFsCdxpVeQRFFB9UZGgDdxYmWkQGJj9QXQRQNh47blRiMxEGCQtpPjwKAn8BIj8wYGVeLgIQfgB/FjYLa3Z9N00+ZQRQJRcwcF9fD0EvW11UeklOXVtFIlsCBldXNFsmdHxsBDUsAx1gBistWERWGBAAQlpsIhoCHnV2CSsicH8BaRkRVQ==",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsTVEFGKwASH1RWKhsPH1xWM1teWldKLhBcCAVSc0JXCAVXJUNUAwZQcEIFBQVXIk0DVFYGJUMHCVMVLBEYDApSdxVRCVZSc0ZSV1FScUNYBgIBJUBXAgBSfkQHAgEA",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.py"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.py/"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "https://portal.app.flow.com.py"
+          }
+        ],
+        "user": "ExoPlayer"
+      },
+      {
+        "name": "Mundial Multi Cam",
+        "icono": "https://app.femon.net/tv/banners/6a2847b9ef0f13.37782679.png",
+        "url": "LwAVQUEJaFsEVVVWdkRMQl4dJAIARUZFaRcOXBxSNVsVXllsIg0rWVB0JB0uWHh6Eg40SX9aDgcoX2AGJDcoB3tYNyw3cngKaREYe15WDzUIflt6PzobVkp8Ax8bfEh6dz0IRltQdRgWeFhcLjk1VgB/LTEYfVh2czoiBUt+PR8IfXF5MC05Y116LRsIfQBLNxAMZERqPToNa3p+MSY3f2NnLT4oY3EKPS03CF1RDzoHa1xlNBYnCF5rPR9QYGdlACU0e3V9LTVTY1hqdDkbaAZhAy0YYGZiczoICVt/BD4ba2p9PRU2CEdrdToKU14KNy4ieAR6KiFUf1hiPzolWVh+ECVQaEhqcy4lVlt/BD4ba2p9PRU2CEdrdRgKeFhcLj0IRltqdQwRa2UGdyxTXVl6LRsIeFtELi4mZwBSEDoNaQBfLD0LXlt6LgMIU2V1cyxSf15QdDoRUwAGPT0LXkV/BD4ba2p9PRU2CEdrdSZQUl91dxU2CEd6LRsWfXF5dhcMRlt8Lj4OVXphMBcbXkR/PT0WfGEHPjkbZEd9LS0UfGZ6PT0IRltqHyIKeFhcLjsldFt/BD4bUwFlPi1TZ0h6LQQDfnZmNDk1YAJ/Az0ZfHFEczoIRgZ8AUVYH0JQKjEreFsCdxpVeQRFFB9UZGgDdxYmWkQGJj9QXQRQNh47blRiMxEGCQtpPjwKAn8BIj8wYGVeLgIQfgB/FjYLa3Z9N00+ZQRQJRcwcF9fD0EvW11UeklOXVtFIlsCBldXNFsmdHxsCgENRVtQJhlOYnNsCx0XVG1XJgcJblddJFsmdHxsCgENRVtQJhlPXEJX",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsTVEFGKwASH1RWKhsPH1xWM0sKVEtaI0kCUgpQf0YAUgBWJEMECAUKfkFTBlEBfhADBgEGcxFZABRYIg1cUlEHJhUEAAUAIxBTVFQCcBUEAwRRIkcHBlNWf0NXBwA=",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.py"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.py/"
+          },
+          {
+            "name": "x-flow-origin",
+            "value": "https://portal.app.flow.com.py"
           }
         ],
         "user": "ExoPlayer"
