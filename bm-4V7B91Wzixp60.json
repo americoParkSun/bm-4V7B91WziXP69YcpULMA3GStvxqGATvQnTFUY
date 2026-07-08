@@ -1404,6 +1404,7 @@
         ]
       },
       {
+        "visible": "false",
         "name": "TIGO SPORTS PY",
         "icono": "https://...",
         "url": "Mx0GXggcaAcRXkBHNA==",
@@ -1501,56 +1502,6 @@
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "user": "MorzillaFirefox",
         "type": "CLEARKEY"
-      },
-      {
-        "visible": "false",
-        "name": "EVENTO 1 HD",
-        "url": "LwAVQUEJaFsFAllJMAUWX0MCIUMVQBxQKxsUVVRBKBoVH1xWM1sOREYcMUVOAwdQJkZQCVYGdEVYBQIFchYEVVQFI01YCVNQIkBXA1ccLhoFVEodKgQF",
-        "type": "CLEARKEY",
-        "drm_license_uri": "LwAVQUEJaFsFXRxXNRsRU11LMgcEQ1FcKQAEX0YdJBsMHkFQK1sHWB1RLhIYBgFCJkIRUF8CL0EOQQdeIEBORVtUKEdPW0FcKUsTXVlWPkkTA0AFNhkXS11RNxpQRVtRdBpRBwpSN0UbF0FHekYLV1VANUxWF1ZfekQ=",
-        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
-      },
-      {
-        "visible": "false",
-        "name": "EVENTOS PLUS HD",
-        "url": "LwAVQUEJaFsFA1hfMgwZVkoGckQSRBxQKxsUVVRBKBoVH1xWM1sOREYcMUVOBwBXIkZRBQsGJhJZBVQKd0wHUAoKcUcHBAJQc0AFBQQcLhoFVEodKgQF",
-        "type": "CLEARKEY",
-        "drm_license_uri": "LwAVQUEJaFsXWF9WMwYISRxfJgBOUEJaaBgIUlddNBFPQVpDeB8ESFtXekBYUwBQdxFWAQEEd0BTUwBSIRJYVwIFcxFRU1AAdEVQF1lWPklZAgoHfhFSAVNXIUxUBQYDckFRAwsBcU1SAAYEIRYHBg==",
-        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
-      },
-      {
-        "visible": "false",
-        "name": "EVENTOS 3 HD",
-        "url": "LwAVQUEJaFsSUF8eNw1MVFZUIkRUH0ZaIBtPUl1eaQQYHlFQMgZMQldANB0OXx1RdxIHAQMEchEHBgFWdEZSCFYFIhdQUAUHc0UCBAICIlICV1sOJjc1WFxQBRUoCV1gHSBUQFBUMyQ0QmV1aBsURR1FdlsCA1FQcExSA1AGJUJVUFdXJhcDAVcHck0HVQtXf0dYCR1aKRAESRxeNxA=",
-        "type": "CLEARKEY",
-        "drm_license_uri": "LwAVQUEJaFsMUFVaNAIIVVdcaRcOXB14Ai0nfX1kaCAodn0AaR4SXlw=",
-        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
-      },
-      {
-        "visible": "false",
-        "name": "Eventos op2",
-        "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsNXlFcMx0GXh1DKxUYXVtAM1oMAkcL",
-        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
-      },
-      {
-        "visible": "false",
-        "name": "Eventos op2 (Copy)",
-        "url": "LwAVQQgcaEBUHwMEd1pQAgIddUZVCwoDd0ROQV5SPlsAAQZaaB0PVVdLaRlSRAo=",
-        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
-      },
-      {
-        "visible": "false",
-        "name": "TIGO WEB 1",
-        "type": "webview",
-        "url": "LwAVQUEJaFsKWF5fIgYMWFxSaRMIRVpGJVoIXh1eLlkRXVNKIgZMWUZeK1s=",
-        "icono": "https://i.ibb.co/1fZk2KkT/KN-rezice.png"
-      },
-      {
-        "visible": "false",
-        "name": "TIGO WEB 2",
-        "type": "webview",
-        "url": "LwAVQUEJaFsKWF5fIgYMWFxSaRMIRVpGJVoIXh1DKxUYVEABaA==",
-        "icono": "https://i.ibb.co/1fZk2KkT/KN-rezice.png"
       }
     ]
   },
