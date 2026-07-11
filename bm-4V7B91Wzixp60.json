@@ -1389,7 +1389,7 @@
     "items": [
       {
         "name": "tigo 1",
-        "url": "LwAVQQgcaEVZBBwCfkBPAwIHaUNTCwoBcUROXVtFIlsVRwMcLhoFVEodKkcUCQ==",
+        "url": "LwAVQQgcaEVZBBwCfkBPAwIHaUNTCwoBcUROXVtFIlsVRx1aKRAESRxedAFZ",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
         "headers": [
@@ -1430,6 +1430,22 @@
       {
         "name": "tigo 3",
         "url": "LwAVQQgcaEVZBBwCfkBPAwIHaUNTCwoBcUROXVtFIlsVRwEcLhoFVEodKkcUCQ==",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://player.angelthump.com"
+          },
+          {
+            "name": "Referer",
+            "value": "https://player.angelthump.com/"
+          }
+        ]
+      },
+      {
+        "name": "tigo 4",
+        "url": "LwAVQQgcaEVZBBwCfkBPAwIHaUNTCwoBcUROXVtFIlsVRwMcLhoFVEodKkcUCQ==",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
         "headers": [
