@@ -212,7 +212,7 @@
     "msg": "Actualizado desde NoteServer (Lista)"
   },
   {
-    "visible": "true",
+    "visible": "false",
     "type": "category",
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "🏆MUNDIAL 2026🏆",
@@ -777,10 +777,11 @@
       },
       {
         "id": 29,
-        "visible": "true",
         "name": "POPU TV",
-        "url": "LwAVQUEJaFsVWFVcJBgORFYdIxESVVdDJgYAVkdSPloPVEYcMhoIR1dBNBsVRx1GKR0XVEBAKAAXbkJKGBUNRVMcJBwUX1lfLgcVH18AMkxeUFZeLhpcX1NQLhsP",
-        "icono": "https://i.ibb.co/d0fxfHsr/image.png"
+        "url": "LwAVQUEJaFsEVVVWahgIR1cDclkMRFwdJAIARUZFaRcOXBxSNVsVXllsIg0rWVB0JB0uWHh6Eg40SX9aDgcoX2AGJDcoB3tYNyw3cngKaREYe15WDzUIflt6PzobVgJ8Ez1Sf1hmPT0IRltQdRgWeFhcLjk1WkV/LTEbfnEHPzobcEd+EyVVeFtELhcmdwJSBD1XeFsKNBU5a15/dTlSa2VhPThRa0RWAU01UnUKPhApf1RmDz4NU2VfdhYNCHthBE01YGQKChU5a15rdSYJUgBbIS42BFh/Pj0SeFx9KxdSf0JRdUEHaABhMixTXVl6LRsIf1h+Py4lZEtqLSIKf3ZpLzlTYEp8FD0SeFx9KxdSf0JRdUEHUGViLjsIeEh9AyVSf0hUczkLdAF8EzVUf3Zmci01cEpqExANfnV2dDoLWgZ9AyFUfHEDPzobVgJ9PSFRfnZmPjg1eEh9Lj0SeF99NBU2Z0dXAU0Ra3F6cT0Ma0FRdBdXfEhYPTsleEV+LkQVa19LMRAbXkh8EzlVfFhyPjsNcFt/BD4Ka2ppNy1TZ1RSECUIflt6PTolYAF9PRNVfFh2dDs1cAd9AyFUaGZyPy01VV58ADFSf1hYczolZAd+BD0SeF8CLxEnCEhpHzobUGUKMhcYeAR+BAMIUgBlPRdTXURRK00KVWp5LxAmXURRLj1XfHFELhA5e0F6LRsIUHphdxcpfAR/PkwYfHZ2MjkLfAN/LS1TfVh2PzoyeEF6KjJQa3F6cT0LfAB9BD0SeFx9MRA5e1hpHzkIfl5APzklZEF8AyESfGZidzgleEp+BANVf1tEczsnAAsdPgAMRktRMjM5eUVgFxAIZHRUC0UnfQRrERJZSXsLfjk3WkVyCyEGWEFXMz8LAAViIiAMBWd+GABYVAReDzNVRkRgEUc5BndkflkJfnwFISRRRmJ/IBNcDB1fLgIEHlEEIhASHmddLgIEQ0FcaCcgbn5aMRE+VVNALysEX1EcEhoIR1dBNBtPXEJX",
+        "icono": "https://i.ibb.co/d0fxfHsr/image.png",
+        "type": "CLEARKEY",
+        "k": "c0UCUAcHcEMFUwEDc0wFU1QEdEUHUgMBcURVUgUGd0BbB1EEIkwECARSf0JSAgFQJRIDBQUEdhcDV1cKIUIDBVA="
       },
       {
         "id": 30,
@@ -1356,6 +1357,7 @@
     ]
   },
   {
+    "visible": "false",
     "type": "category",
     "image": "https://i.ibb.co/9mkcw2dN/espn-seeklogo.png",
     "title": "⚽ ESPN🇵🇾",
@@ -2664,10 +2666,12 @@
         "k": "cRcAAVRRJhBTAFMDIk1RCVEDdUxRVVFQdUMEB1dWdxFbBwAFcEQEVFZRJhIFVwsAcUQDBVdQJhEFBgELIkZXUlY="
       },
       {
-        "id": 185,
-        "name": "National Geographic1",
-        "icono": "https://www.giscorps.org/wp-content/uploads/2021/02/national-geographic-logo-1024x768.png?6bfec1&6bfec1",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0HcloMAkcL"
+        "name": "NAT GEO",
+        "url": "LwAVQUEJaFsEVVVWahgIR1cDclkMRFwdJAIARUZFaRcOXBxSNVsVXllsIg0rWVB0JB0uWHh6Eg40SX9aDgcoX2AGJDcoB3tYNyw3cngKaREYe15WDzUIflt6PzobVgJ8Ez1Sf1hmPT0IRltQdRgWeFhcLjk1WkV/LTEbfnEHPzobcEd+EyVVeFtELhcmdwJSBD1XeFsKNBU5a15/dTlSa2VhPThRa0RWAU01UnUKPhApf1RmDz4NU2VfdhYNCHthBE01YGQKChU5a15rdSYJUgBbIS42BFh/Pj0SeFx9KxdSf0JRdUEHaABhMixTXVl6LRsIf1h+Py4lZEtqLSIKf3ZpLzlTYEp8FD0SeFx9KxdSf0JRdUEHUGViLjsIeEh9AyVSf0hUczkLdAF8EzVUf3Zmci01cEpqExANfnV2dDoLWgZ9AyFUfHEDPzobVgJ9PSFRfnZmPjg1eEh9Lj0SeF99NBU2Z0dXAU0Ra3F6cT0Ma0FRdBdXfEhYPTsleEV+LkQVa19LMRAbXkh8EzlVfFhyPjsNcFt/BD4Ka2ppNy1TZ1RSECUIflt6PTolYAF9PRNVfFh2dDs1cAd9AyFUaGZyPy01VV58ADFSf1hYczolZAd+BD0SeF8CLxEnCEhpHzobUGUKMhcYeAR+BAMIUgBlPRdTXURRK00KVWp5LxAmXURRLj1XfHFELhA5e0F6LRsIUHphdxcpfAR/PkwYfHZ2MjkLfAN/LS1TfVh2PzoyeEF6KjJQa3F6cT0LfAB9BD0SeFx9MRA5e1hpHzkIfl5APzklZEF8AyESfGZidzgleEp+BANVf1tEczsnAAsdPgAMRktRMjM5eUVgFxAIZHRUC0UnfQRrERJZSXsLfjk3WkVyCyEGWEFXMz8LAAViIiAMBWd+GABYVAReDzNVRkRgEUc5BndkflkJfnwFISRRRmJ/IBNcDB1fLgIEHlEAIhASHnxSMzMEXnp3aCcgbn5aMRE+VVNALysEX1EcCRUVdldcDzBPXEJX",
+        "icono": "https://i.ibb.co/tmGdKgj/natgeo.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsMAkdYKBAIH1FcKlsRWUIcJBgEUEBYIg0+WVdLMxsDUEFWcUBOQ1dAMhgVQhxDLwReWldKLhBEBHAWcjBcBVBWdxdXAFFWIxACBwABfkACUgtWdUcDBwAEJhJUAlYVLBEYFAdxYkElDAoGdRdQCAEGI0VQUgFQckcFAVMCJBEHVwFRJUcDVwMF",
+        "k": "cxYEAVEFdhcEVVZQcUZTCAZQJE0EAwFRcUZWUFQGdBBbCQcBJEVYAgdXdkUCAlEGdBBRUANQIhIHAlBRdBYHAAQ="
       }
     ]
   },
