@@ -1160,7 +1160,7 @@
     "msg": "Actualizado desde NoteServer (Lista)"
   },
   {
-    "visible": "true",
+    "visible": "false",
     "type": "category",
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "🏆MUNDIAL 2026🏆",
@@ -1379,178 +1379,6 @@
             "value": "https://portal.app.flow.com.py/"
           }
         ]
-      }
-    ]
-  },
-  {
-    "type": "category",
-    "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
-    "title": "⚽t!GO SP0RTS",
-    "items": [
-      {
-        "name": "tigo 1",
-        "url": "LwAVQQgcaEVZBBwCfkBPAwIHaUNTCwoBcUROXVtFIlsVRwMcLhoFVEodKkcUCQ==",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://player.angelthump.com"
-          },
-          {
-            "name": "Referer",
-            "value": "https://player.angelthump.com/"
-          }
-        ]
-      },
-      {
-        "name": "TIGO SPORTS PY",
-        "icono": "https://...",
-        "url": "Mx0GXggcaAcRXkBHNA==",
-        "type": "tsb",
-        "tsb": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InRpZ29zcG9ydG90dCJ9.eyJpc3MiOiJ0aWdvc3BvcnRvdHQiLCJzdWIiOiIiLCJhdWQiOiIiLCJpYXQiOjE3ODE1ODYxMzcsImV4cCI6MTc4NDE1ODA4NSwibmJmIjoxNzgxNTg2MTM3LCJqdGkiOiIwNTA5Mzg0MC02NWI1LTQ2OTMtOGU3My1kM2M2ZjllZGI5ZjgiLCJ1dWlkIjoiODIwZGNmNjUtZWZmYS00N2Y3LWFkMmYtYjRjZGZhNTc0YzJiIiwidmVyc2lvbkFwcCI6IjguNS4yIiwiZW50aXRsZW1lbnQiOnRydWUsImJ1c3NpbmVzVW5pdCI6Im90aGVyIiwiYmlsbGluZ1R5cGUiOiIiLCJ1c2VySW5mbyI6eyJiaWxsaW5nQWNjb3VudElkIjoibGF0aW50b3AwNjhAZ21haWwuY29tIiwiYnVzaW5lc3NVbml0Ijoib3RoZXIiLCJ1c2VyTmFtZSI6IkxhdGluIFRvcCJ9LCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoWDExOyBMaW51eCB4ODZfNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDcuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInBsYXRmb3JtSCI6IndlYiIsImRldmljZVR5cGVIIjoidW5rbm93biIsImRldmljZUlkIjoiOTlkMDAyZTM3MTk1NmQ4MzJjMTQxODQ2YzE3Mjk3ZGIiLCJpcEFkZHJlc3MiOiIxODEuOTQuMjMyLjIiLCJsb2NhdGlvbiI6eyJjb3VudHJ5Q29kZSI6IlBZIiwiY291bnRyeU5hbWUiOiJQYXJhZ3VheSIsInJlZ2lvbl9uYW1lIjoiQWx0byBQYXJhbmEiLCJjaXR5X25hbWUiOiJIZXJuYW5kYXJpYXMiLCJpcCI6IjE4MS45NC4yMzIuMiIsImlwMmxvbmciOjMwNDI4OTU4NzQsImlwX3RvIjozMDQyODk2MTI3LCJsYXRpdHVkZSI6Ii0yNS40MDE2NTAiLCJsb25naXR1ZGUiOiItNTQuNjQxMTkwIiwiaXNwIjoiTnVjbGVvIFMuQS4ifSwiZW1haWwiOiJsYXRpbnRvcDA2OEBnbWFpbC5jb20iLCJwaG9uZSI6IiIsImFjY291bnROdW1iZXIiOiIiLCJ0b2tlblRpZ29JZCI6eyJnTmFtZSI6IkxhdGluIiwiZk5hbWUiOiJUb3AiLCJlbWFpbFYiOiJ0cnVlIiwicGhvbmVWIjoiZmFsc2UiLCJhbGxBY2MiOiJ0cnVlIiwic2VjTG9naW4iOiJ0cnVlIiwiaGFzUHdkIjoiZmFsc2UiLCJoeWJMb2dpbiI6ImZhbHNlIiwidW5UeXBlIjoiZW1haWwiLCJ1Y2MiOiJ0aWdvc3BvcnRzIiwidWNjdCI6ImVtYWlsIiwiY3VzdG9tOlVVSUQiOiI4MjBkY2Y2NS1lZmZhLTQ3ZjctYWQyZi1iNGNkZmE1NzRjMmIiLCJjdHJ5IjoicHkiLCJjdCI6Imdvb2dsZS1vYXV0aDIiLCJlbWFpbCI6ImxhdGludG9wMDY4QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJpc3MiOiJodHRwczovL2lkLnRpZ28uY29tLnB5LyIsImF1ZCI6IlJKTU9ma3RzOUplNTNha1VQTjl4bXBqaDByQnN4UjNRIiwic3ViIjoiZ29vZ2xlLW9hdXRoMnwxMDkxNjIyNDMzNTEyNDM0MTU0MzIiLCJpYXQiOjE3ODE1ODYxMzcsImV4cCI6MTc4MTU4OTczNywic2lkIjoiMktzRktrRGk3QnZZcmZRRFRZYW50OFh3T2I5cXJaZ1kiLCJhdXRoX3RpbWUiOjE3ODE1ODYxMzN9LCJ0eXBlIjoiYWNjZXNzIiwiYWNjb3VudHMiOlt7Im9wZXJhdG9ySWQiOiIiLCJzdWJzY3JpYmVySWQiOiJQWU9USEVSLmxhdGludG9wMDY4QGdtYWlsLmNvbSIsInBhc3N3b3JkIjoiIiwiY3VzdG9tZXJJZCI6IiIsImN1c3RvbWVySW5mbyI6IiIsIm9mZmVyQ29kZSI6IjEiLCJzdGFydERhdGUiOiIyMDI2LTA2LTE1VDIyOjI4OjA1LjAwMFoiLCJlbmREYXRlIjoiMjAyNi0wNy0xNVQyMjoyODowNS4wMDBaIiwibGlua2VkIjowLCJsaW5rRGF0ZSI6MCwidXNlcklkIjoiIiwiYm9QYXJ0bmVyVXNlcklkIjoiIiwiYWN0aXZlIjoiMSIsImluc2VydERhdGUiOiIyMDI2LTA2LTE1VDIyOjI4OjA1LjY3MVoiLCJ1cGRhdGVEYXRlIjoiMjAyNi0wNi0xNVQyMjoyODowNS42NzFaIiwicGF5bWVudFByb2Nlc3NvclRyYW5zYWN0aW9uSWQiOiIyMzU3NDU4ODA5MDkzIiwidHlwZSI6InN1YnNjcmliZXIiLCJzdGF0dXNWYWxpZGF0aW9ucyI6dHJ1ZSwiYnVzc2luZXNVbml0Ijoib3RoZXIiLCJ1c2VySW5mbyI6eyJiaWxsaW5nQWNjb3VudElkIjoibGF0aW50b3AwNjhAZ21haWwuY29tIiwiYnVzaW5lc3NVbml0Ijoib3RoZXIifX1dfQ.92_ssdmZKDT1F-W7stKUniZ5SON8uHAu5HV5KKaz300"
-      },
-      {
-        "name": "tigo 2",
-        "url": "LwAVQQgcaEVZBBwCfkBPAwIHaUNTCwoBcUROXVtFIlsVRx1aKRAESRxedAFZ",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://player.angelthump.com"
-          },
-          {
-            "name": "Referer",
-            "value": "https://player.angelthump.com/"
-          }
-        ]
-      },
-      {
-        "name": "tigo 3",
-        "url": "LwAVQQgcaEVZBBwCfkBPAwIHaUNTCwoBcUROXVtFIlsVRwEcLhoFVEodKkcUCQ==",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://player.angelthump.com"
-          },
-          {
-            "name": "Referer",
-            "value": "https://player.angelthump.com/"
-          }
-        ]
-      },
-      {
-        "name": "Canal 102",
-        "url": "LwAVQUEJaFsSRV9FdloXXkpHMRwFH1FcKloDQx1HKAQNUEZaKUVORV1DKxUVWFwCaAQNUEtfLgcVH18AMkw=",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "type": "hls"
-      },
-      {
-        "name": "tigo eventos opc1",
-        "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsVXkZaLxBOQV5SPhgIQkYdKkcUCQ==",
-        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png",
-        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://player.angelthump.com"
-          },
-          {
-            "name": "Referer",
-            "value": "https://player.angelthump.com/"
-          }
-        ]
-      },
-      {
-        "name": "Eventos opc 2",
-        "url": "LwAVQUEJaFsSRV9Fc1oXXkpHMRwFH1FcKloDQx1XIgQOQ0ZWKhUSHlZWNxsTRVdeJgdOQV5SPhgIQkYdKkcUCQ==",
-        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
-      },
-      {
-        "visible": "false",
-        "name": "Canal 101",
-        "url": "LwAVQUEJaFsNRF9aPwAXH1dAaBcAX1NfIgdOYXpjFFsSRUBWJhlOVVtULgAAXUZFaRlSRAoMMgcEQw9QJhoAXV5S",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://player.angelthump.com"
-          },
-          {
-            "name": "Referer",
-            "value": "https://player.angelthump.com/"
-          }
-        ]
-      },
-      {
-        "visible": "false",
-        "name": "Tigo Full",
-        "url": "LwAVQUEJaFsSUF8eNw1MVFZUIkRUH0ZaIBtPUl1eaQQYHlFQMgZMQldANB0OXx0FJkRWBlNVIUEHHkBcKxgIX1UeJQEHV1dBaCAIVl1gF0A+Zn8cEx0GXmFjcys2fB1HNRUPQl9GP1sIX1ZWP1oMQVY=",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "user": "MorzillaFirefox",
-        "type": "CLEARKEY"
-      },
-      {
-        "visible": "false",
-        "name": "Tigo Full 2",
-        "url": "LwAVQUEJaFsSUF8eNw1MVFZUIkRUH0ZaIBtPUl1eaQQYHlFQMgZMQldANB0OXx0DcitQBwMDd0dSBwELaAYOXV5aKRNMU0dVIRETHmZaIBsyYQZsEDlOZVtUKCcxBW1kClsVQ1NdNBkUSR1aKRAESRxeNxA=",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "user": "MorzillaFirefox",
-        "type": "CLEARKEY"
-      },
-      {
-        "visible": "false",
-        "name": "EVENTO 1 HD",
-        "url": "LwAVQUEJaFsFAllJMAUWX0MCIUMVQBxQKxsUVVRBKBoVH1xWM1sOREYcMUVOAwdQJkZQCVYGdEVYBQIFchYEVVQFI01YCVNQIkBXA1ccLhoFVEodKgQF",
-        "type": "CLEARKEY",
-        "drm_license_uri": "LwAVQUEJaFsFXRxXNRsRU11LMgcEQ1FcKQAEX0YdJBsMHkFQK1sHWB1RLhIYBgFCJkIRUF8CL0EOQQdeIEBORVtUKEdPW0FcKUsTXVlWPkkTA0AFNhkXS11RNxpQRVtRdBpRBwpSN0UbF0FHekYLV1VANUxWF1ZfekQ=",
-        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
-      },
-      {
-        "visible": "false",
-        "name": "EVENTOS PLUS HD",
-        "url": "LwAVQUEJaFsFA1hfMgwZVkoGckQSRBxQKxsUVVRBKBoVH1xWM1sOREYcMUVOBwBXIkZRBQsGJhJZBVQKd0wHUAoKcUcHBAJQc0AFBQQcLhoFVEodKgQF",
-        "type": "CLEARKEY",
-        "drm_license_uri": "LwAVQUEJaFsXWF9WMwYISRxfJgBOUEJaaBgIUlddNBFPQVpDeB8ESFtXekBYUwBQdxFWAQEEd0BTUwBSIRJYVwIFcxFRU1AAdEVQF1lWPklZAgoHfhFSAVNXIUxUBQYDckFRAwsBcU1SAAYEIRYHBg==",
-        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
-      },
-      {
-        "visible": "false",
-        "name": "EVENTOS 3 HD",
-        "url": "LwAVQUEJaFsSUF8eNw1MVFZUIkRUH0ZaIBtPUl1eaQQYHlFQMgZMQldANB0OXx1RdxIHAQMEchEHBgFWdEZSCFYFIhdQUAUHc0UCBAICIlICV1sOJjc1WFxQBRUoCV1gHSBUQFBUMyQ0QmV1aBsURR1FdlsCA1FQcExSA1AGJUJVUFdXJhcDAVcHck0HVQtXf0dYCR1aKRAESRxeNxA=",
-        "type": "CLEARKEY",
-        "drm_license_uri": "LwAVQUEJaFsMUFVaNAIIVVdcaRcOXB14Ai0nfX1kaCAodn0AaR4SXlw=",
-        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
-      },
-      {
-        "visible": "false",
-        "name": "Eventos op2",
-        "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsNXlFcMx0GXh1DKxUYXVtAM1oMAkcL",
-        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
-      },
-      {
-        "visible": "false",
-        "name": "Eventos op2 (Copy)",
-        "url": "LwAVQQgcaEBUHwMEd1pQAgIddUZVCwoDd0ROQV5SPlsAAQZaaB0PVVdLaRlSRAo=",
-        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
-      },
-      {
-        "visible": "false",
-        "name": "TIGO WEB 1",
-        "type": "webview",
-        "url": "LwAVQUEJaFsKWF5fIgYMWFxSaRMIRVpGJVoIXh1eLlkRXVNKIgZMWUZeK1s=",
-        "icono": "https://i.ibb.co/1fZk2KkT/KN-rezice.png"
-      },
-      {
-        "visible": "false",
-        "name": "TIGO WEB 2",
-        "type": "webview",
-        "url": "LwAVQUEJaFsKWF5fIgYMWFxSaRMIRVpGJVoIXh1DKxUYVEABaA==",
-        "icono": "https://i.ibb.co/1fZk2KkT/KN-rezice.png"
       }
     ]
   },
@@ -1919,6 +1747,178 @@
         "name": "Mi Tv",
         "icono": "https://i.postimg.cc/qvvgzQzD/1200px-LOGO-MITV-ALTA-DEFINICION-2020-PNG.png",
         "url": "LwAVQUEJaFsCXkJSJBsGVFwdIxESVVdDJgYAVkdSPloPVEYcKh0VRx1eLgAXHkJfJg0NWEFHaRlSRAoMJhAMWFwOKh0VR1tHJgQUUA=="
+      }
+    ]
+  },
+  {
+    "type": "category",
+    "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
+    "title": "⚽t!GO SP0RTS",
+    "items": [
+      {
+        "name": "tigo 1",
+        "url": "LwAVQQgcaEVZBBwCfkBPAwIHaUNTCwoBcUROXVtFIlsVRwMcLhoFVEodKkcUCQ==",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://player.angelthump.com"
+          },
+          {
+            "name": "Referer",
+            "value": "https://player.angelthump.com/"
+          }
+        ]
+      },
+      {
+        "name": "TIGO SPORTS PY",
+        "icono": "https://...",
+        "url": "Mx0GXggcaAcRXkBHNA==",
+        "type": "tsb",
+        "tsb": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InRpZ29zcG9ydG90dCJ9.eyJpc3MiOiJ0aWdvc3BvcnRvdHQiLCJzdWIiOiIiLCJhdWQiOiIiLCJpYXQiOjE3ODE1ODYxMzcsImV4cCI6MTc4NDE1ODA4NSwibmJmIjoxNzgxNTg2MTM3LCJqdGkiOiIwNTA5Mzg0MC02NWI1LTQ2OTMtOGU3My1kM2M2ZjllZGI5ZjgiLCJ1dWlkIjoiODIwZGNmNjUtZWZmYS00N2Y3LWFkMmYtYjRjZGZhNTc0YzJiIiwidmVyc2lvbkFwcCI6IjguNS4yIiwiZW50aXRsZW1lbnQiOnRydWUsImJ1c3NpbmVzVW5pdCI6Im90aGVyIiwiYmlsbGluZ1R5cGUiOiIiLCJ1c2VySW5mbyI6eyJiaWxsaW5nQWNjb3VudElkIjoibGF0aW50b3AwNjhAZ21haWwuY29tIiwiYnVzaW5lc3NVbml0Ijoib3RoZXIiLCJ1c2VyTmFtZSI6IkxhdGluIFRvcCJ9LCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoWDExOyBMaW51eCB4ODZfNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDcuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInBsYXRmb3JtSCI6IndlYiIsImRldmljZVR5cGVIIjoidW5rbm93biIsImRldmljZUlkIjoiOTlkMDAyZTM3MTk1NmQ4MzJjMTQxODQ2YzE3Mjk3ZGIiLCJpcEFkZHJlc3MiOiIxODEuOTQuMjMyLjIiLCJsb2NhdGlvbiI6eyJjb3VudHJ5Q29kZSI6IlBZIiwiY291bnRyeU5hbWUiOiJQYXJhZ3VheSIsInJlZ2lvbl9uYW1lIjoiQWx0byBQYXJhbmEiLCJjaXR5X25hbWUiOiJIZXJuYW5kYXJpYXMiLCJpcCI6IjE4MS45NC4yMzIuMiIsImlwMmxvbmciOjMwNDI4OTU4NzQsImlwX3RvIjozMDQyODk2MTI3LCJsYXRpdHVkZSI6Ii0yNS40MDE2NTAiLCJsb25naXR1ZGUiOiItNTQuNjQxMTkwIiwiaXNwIjoiTnVjbGVvIFMuQS4ifSwiZW1haWwiOiJsYXRpbnRvcDA2OEBnbWFpbC5jb20iLCJwaG9uZSI6IiIsImFjY291bnROdW1iZXIiOiIiLCJ0b2tlblRpZ29JZCI6eyJnTmFtZSI6IkxhdGluIiwiZk5hbWUiOiJUb3AiLCJlbWFpbFYiOiJ0cnVlIiwicGhvbmVWIjoiZmFsc2UiLCJhbGxBY2MiOiJ0cnVlIiwic2VjTG9naW4iOiJ0cnVlIiwiaGFzUHdkIjoiZmFsc2UiLCJoeWJMb2dpbiI6ImZhbHNlIiwidW5UeXBlIjoiZW1haWwiLCJ1Y2MiOiJ0aWdvc3BvcnRzIiwidWNjdCI6ImVtYWlsIiwiY3VzdG9tOlVVSUQiOiI4MjBkY2Y2NS1lZmZhLTQ3ZjctYWQyZi1iNGNkZmE1NzRjMmIiLCJjdHJ5IjoicHkiLCJjdCI6Imdvb2dsZS1vYXV0aDIiLCJlbWFpbCI6ImxhdGludG9wMDY4QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJpc3MiOiJodHRwczovL2lkLnRpZ28uY29tLnB5LyIsImF1ZCI6IlJKTU9ma3RzOUplNTNha1VQTjl4bXBqaDByQnN4UjNRIiwic3ViIjoiZ29vZ2xlLW9hdXRoMnwxMDkxNjIyNDMzNTEyNDM0MTU0MzIiLCJpYXQiOjE3ODE1ODYxMzcsImV4cCI6MTc4MTU4OTczNywic2lkIjoiMktzRktrRGk3QnZZcmZRRFRZYW50OFh3T2I5cXJaZ1kiLCJhdXRoX3RpbWUiOjE3ODE1ODYxMzN9LCJ0eXBlIjoiYWNjZXNzIiwiYWNjb3VudHMiOlt7Im9wZXJhdG9ySWQiOiIiLCJzdWJzY3JpYmVySWQiOiJQWU9USEVSLmxhdGludG9wMDY4QGdtYWlsLmNvbSIsInBhc3N3b3JkIjoiIiwiY3VzdG9tZXJJZCI6IiIsImN1c3RvbWVySW5mbyI6IiIsIm9mZmVyQ29kZSI6IjEiLCJzdGFydERhdGUiOiIyMDI2LTA2LTE1VDIyOjI4OjA1LjAwMFoiLCJlbmREYXRlIjoiMjAyNi0wNy0xNVQyMjoyODowNS4wMDBaIiwibGlua2VkIjowLCJsaW5rRGF0ZSI6MCwidXNlcklkIjoiIiwiYm9QYXJ0bmVyVXNlcklkIjoiIiwiYWN0aXZlIjoiMSIsImluc2VydERhdGUiOiIyMDI2LTA2LTE1VDIyOjI4OjA1LjY3MVoiLCJ1cGRhdGVEYXRlIjoiMjAyNi0wNi0xNVQyMjoyODowNS42NzFaIiwicGF5bWVudFByb2Nlc3NvclRyYW5zYWN0aW9uSWQiOiIyMzU3NDU4ODA5MDkzIiwidHlwZSI6InN1YnNjcmliZXIiLCJzdGF0dXNWYWxpZGF0aW9ucyI6dHJ1ZSwiYnVzc2luZXNVbml0Ijoib3RoZXIiLCJ1c2VySW5mbyI6eyJiaWxsaW5nQWNjb3VudElkIjoibGF0aW50b3AwNjhAZ21haWwuY29tIiwiYnVzaW5lc3NVbml0Ijoib3RoZXIifX1dfQ.92_ssdmZKDT1F-W7stKUniZ5SON8uHAu5HV5KKaz300"
+      },
+      {
+        "name": "tigo 2",
+        "url": "LwAVQQgcaEVZBBwCfkBPAwIHaUNTCwoBcUROXVtFIlsVRx1aKRAESRxedAFZ",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://player.angelthump.com"
+          },
+          {
+            "name": "Referer",
+            "value": "https://player.angelthump.com/"
+          }
+        ]
+      },
+      {
+        "name": "tigo 3",
+        "url": "LwAVQQgcaEVZBBwCfkBPAwIHaUNTCwoBcUROXVtFIlsVRwEcLhoFVEodKkcUCQ==",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://player.angelthump.com"
+          },
+          {
+            "name": "Referer",
+            "value": "https://player.angelthump.com/"
+          }
+        ]
+      },
+      {
+        "name": "Canal 102",
+        "url": "LwAVQUEJaFsSRV9FdloXXkpHMRwFH1FcKloDQx1HKAQNUEZaKUVORV1DKxUVWFwCaAQNUEtfLgcVH18AMkw=",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+        "type": "hls"
+      },
+      {
+        "name": "tigo eventos opc1",
+        "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsVXkZaLxBOQV5SPhgIQkYdKkcUCQ==",
+        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png",
+        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://player.angelthump.com"
+          },
+          {
+            "name": "Referer",
+            "value": "https://player.angelthump.com/"
+          }
+        ]
+      },
+      {
+        "name": "Eventos opc 2",
+        "url": "LwAVQUEJaFsSRV9Fc1oXXkpHMRwFH1FcKloDQx1XIgQOQ0ZWKhUSHlZWNxsTRVdeJgdOQV5SPhgIQkYdKkcUCQ==",
+        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
+      },
+      {
+        "visible": "false",
+        "name": "Canal 101",
+        "url": "LwAVQUEJaFsNRF9aPwAXH1dAaBcAX1NfIgdOYXpjFFsSRUBWJhlOVVtULgAAXUZFaRlSRAoMMgcEQw9QJhoAXV5S",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://player.angelthump.com"
+          },
+          {
+            "name": "Referer",
+            "value": "https://player.angelthump.com/"
+          }
+        ]
+      },
+      {
+        "visible": "false",
+        "name": "Tigo Full",
+        "url": "LwAVQUEJaFsSUF8eNw1MVFZUIkRUH0ZaIBtPUl1eaQQYHlFQMgZMQldANB0OXx0FJkRWBlNVIUEHHkBcKxgIX1UeJQEHV1dBaCAIVl1gF0A+Zn8cEx0GXmFjcys2fB1HNRUPQl9GP1sIX1ZWP1oMQVY=",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+        "user": "MorzillaFirefox",
+        "type": "CLEARKEY"
+      },
+      {
+        "visible": "false",
+        "name": "Tigo Full 2",
+        "url": "LwAVQUEJaFsSUF8eNw1MVFZUIkRUH0ZaIBtPUl1eaQQYHlFQMgZMQldANB0OXx0DcitQBwMDd0dSBwELaAYOXV5aKRNMU0dVIRETHmZaIBsyYQZsEDlOZVtUKCcxBW1kClsVQ1NdNBkUSR1aKRAESRxeNxA=",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+        "user": "MorzillaFirefox",
+        "type": "CLEARKEY"
+      },
+      {
+        "visible": "false",
+        "name": "EVENTO 1 HD",
+        "url": "LwAVQUEJaFsFAllJMAUWX0MCIUMVQBxQKxsUVVRBKBoVH1xWM1sOREYcMUVOAwdQJkZQCVYGdEVYBQIFchYEVVQFI01YCVNQIkBXA1ccLhoFVEodKgQF",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsFXRxXNRsRU11LMgcEQ1FcKQAEX0YdJBsMHkFQK1sHWB1RLhIYBgFCJkIRUF8CL0EOQQdeIEBORVtUKEdPW0FcKUsTXVlWPkkTA0AFNhkXS11RNxpQRVtRdBpRBwpSN0UbF0FHekYLV1VANUxWF1ZfekQ=",
+        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
+      },
+      {
+        "visible": "false",
+        "name": "EVENTOS PLUS HD",
+        "url": "LwAVQUEJaFsFA1hfMgwZVkoGckQSRBxQKxsUVVRBKBoVH1xWM1sOREYcMUVOBwBXIkZRBQsGJhJZBVQKd0wHUAoKcUcHBAJQc0AFBQQcLhoFVEodKgQF",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsXWF9WMwYISRxfJgBOUEJaaBgIUlddNBFPQVpDeB8ESFtXekBYUwBQdxFWAQEEd0BTUwBSIRJYVwIFcxFRU1AAdEVQF1lWPklZAgoHfhFSAVNXIUxUBQYDckFRAwsBcU1SAAYEIRYHBg==",
+        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
+      },
+      {
+        "visible": "false",
+        "name": "EVENTOS 3 HD",
+        "url": "LwAVQUEJaFsSUF8eNw1MVFZUIkRUH0ZaIBtPUl1eaQQYHlFQMgZMQldANB0OXx1RdxIHAQMEchEHBgFWdEZSCFYFIhdQUAUHc0UCBAICIlICV1sOJjc1WFxQBRUoCV1gHSBUQFBUMyQ0QmV1aBsURR1FdlsCA1FQcExSA1AGJUJVUFdXJhcDAVcHck0HVQtXf0dYCR1aKRAESRxeNxA=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsMUFVaNAIIVVdcaRcOXB14Ai0nfX1kaCAodn0AaR4SXlw=",
+        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
+      },
+      {
+        "visible": "false",
+        "name": "Eventos op2",
+        "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsNXlFcMx0GXh1DKxUYXVtAM1oMAkcL",
+        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
+      },
+      {
+        "visible": "false",
+        "name": "Eventos op2 (Copy)",
+        "url": "LwAVQQgcaEBUHwMEd1pQAgIddUZVCwoDd0ROQV5SPlsAAQZaaB0PVVdLaRlSRAo=",
+        "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
+      },
+      {
+        "visible": "false",
+        "name": "TIGO WEB 1",
+        "type": "webview",
+        "url": "LwAVQUEJaFsKWF5fIgYMWFxSaRMIRVpGJVoIXh1eLlkRXVNKIgZMWUZeK1s=",
+        "icono": "https://i.ibb.co/1fZk2KkT/KN-rezice.png"
+      },
+      {
+        "visible": "false",
+        "name": "TIGO WEB 2",
+        "type": "webview",
+        "url": "LwAVQUEJaFsKWF5fIgYMWFxSaRMIRVpGJVoIXh1DKxUYVEABaA==",
+        "icono": "https://i.ibb.co/1fZk2KkT/KN-rezice.png"
       }
     ]
   },
@@ -2668,6 +2668,7 @@
     ]
   },
   {
+    "visible": "false",
     "type": "category",
     "image": "https://i.postimg.cc/9frTqBtY/download-(50).png",
     "title": "⚽EVENTOS FL0W",
@@ -3543,10 +3544,12 @@
         ]
       },
       {
-        "id": 185,
-        "name": "National Geographic1",
-        "icono": "https://www.giscorps.org/wp-content/uploads/2021/02/national-geographic-logo-1024x768.png?6bfec1&6bfec1",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0HcloMAkcL"
+        "name": "NAT GEO",
+        "url": "LwAVQUEJaFsEVVVWahgIR1cDf1kSXRxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4CA39JBkEsdX9KDh0WWFEBKwMoW11aCiACBH5ZDkctW3tECjdVS39wDgcoX3BbIzMGWH1aDgIDdl4BHSdYW3xeER8CSAtkJiMnQGtrDgI0AXRVEzMNA2hlfh84aXxcH0YvXVBeCgIoWEVaJEY3S1EBKwIDXQtZHTNUV1NkFh0uWHsBHg4sA2hZIEU4ZXxbCjAwA39ZIAMoWEVaJEY3S1EBKwIDXQtDHTcoB3taDgcoXHxAJiM3RFZ1fgQ7cnsFDh0oQnteFRgFXF5ZHSJYQWhwDkIoWHtADhlQWVd1fg47aXxJJiNYRFFKDkIsckVaJEY3S1EBKwIDXQtYIywrWVZ0KwIDWHsFCjcWWFZrDQcoW11aJjwzAVF7CkItSApKCjAkRH9ZCkUtW2sBCx4kSXxgDgcoXHQCHTcoB3tZCgwvWHtADhovR1ZrDR47aX9aCBgSBXxgMAwvdWNACDA4Qn13LxAHYA8OaTI5fgB0fiIuCB9lcR8GdX1UAjYzRX97KiwJAlFQJBo3dGZJJEAjB1NddDMZRntHPzkjXWBDBhAWHAVQBAUoCXRRABYnZV9JIy0XYVFlCkE+egNZNk0WDA8cKx0XVB1QdBEFQh19JgAmVF17A1sycG1/LgIEblZSNBw+VFxQaDoARXVWKDwlH19DIw==",
+        "icono": "https://i.ibb.co/tmGdKgj/natgeo.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsMAkdYKBAIH1FcKlsRWUIcJBgEUEBYIg0+WVdLMxsDUEFWcUBOQ1dAMhgVQhxDLwReWldKLhBEBHAWcjBcBVBWdxdXAFFWIxACBwABfkACUgtWdUcDBwAEJhJUAlYVLBEYFAdxYkElDAoGdRdQCAEGI0VQUgFQckcFAVMCJBEHVwFRJUcDVwMF",
+        "k": "cxYEAVEFdhcEVVZQcUZTCAZQJE0EAwFRcUZWUFQGdBBbCQcBJEVYAgdXdkUCAlEGdBBRUANQIhIHAlBRdBYHAAQ="
       }
     ]
   },
@@ -4279,513 +4282,6 @@
         "name": "Todo Novelas",
         "url": "LwAVQUEJaFsAXFUDd0NQAB9JPhgOHFNeIERRBgMCJEdMQ1NYMgAEXx9WNFlUBgsHaQQNUEtcMgASH1xcMFoAXFNULloVRx1DKxUYXVtAM1sAXFUDd0NQAB9JPhgOV1NAM1kHQ1dQMhEPUltSKRsXVF5SNFkTUFlGMxEPVEEcNxgASF5aNABPXAFGf0sAVUFsJhkAVltsJBwAX1xWKysIVQ8KcExHUFZAGBUMS1xRNRkIVQ8VJhASblNePRoTVFVaKBpcF1NXNCsAXEhdNBgORUEOYRUFQm1SNwQ+U0ddIxgEDFFcKloTUFlGMxEPH0ZFYRUFQm1SNwQ+QkZcNRE+REBfegYAWkdHIhpPRUQVJhASblNDNysXVEBALhsPDBRSIwc+U0BSKRA+X1NeIklHUFZAGBcOX0ZWKQA+UlNHIhMOQ1tWNEkocHACYRUFQm1QKBoVVFxHGBMEX0BWegcEQ1tWNFFTclZBJhkAFABwNRsMUFxQIlIAVUFsJBsPRVddMysNWERWNAATVFNeekRHUFZAGBAER1tQIisNXEYOdlIAVUFsIxEXWFFWGBkAWlcOYRUFQm1XIgIIUldsKhsFVF4OYRUFQm1XIgIIUldsMw0RVA9EIhZHUFZAGBAER1tQIisYVFNBelIAVUFsIhoXDEJBKBBHUFZAGBMAXG1QKAYTVF5SMxsTDBRSIwc+VlZDNSsCXlxAIhoVDBRSIwc+Vl1cIBgEblNXGBkAX1NUIgY+X11dJBFcF1NXNCsIV1NsMw0RVA8VJhASbltdMSsRUEBHKRETblZcKhUIXw9BJh8URVddaQAXF1NXNCsIQQ8Cc01PAAIBaUZSBxwBc0JHUFZAGBkAQ1lWM0kEQhRSIwc+X1dHMBsTWm1dJhkEDGBSLAEVVFxnEVIAVUFsKAc+XVNdIAEAVlcOYRUFQm1DKxUCVF9WKQBcABRSIwc+QV5SPhETblpWLhMJRQ8VJhASbkJfJg0EQ21ELhAVWQ8VJhASbkJcIysVSEJWegQNUEtWNQQAVldsKh0FQ11fK1IAVUFsNwQIVQ8VJhASbkJBKBAQDAMVJhASbkBSMx0PVg8EYRUFQm1BMwI+Ul1dMxEPRW1aI0lXBAsLYRUFQm1BMwI+Ul1dMxEPRW1fJhoGRFNUIkkEQhRSIwc+Q0ZFLhBcAwUCf0FYF1NXNCsSRUBWJhkIX1VsLhBcCQsFdUYCA1EeIxUAUB8HJEEAHFAHf0JMCAZWckVSBAAKJERWF1NXNCsVWERcGBAER1FcMhoVQ0sOYRUFQm1HLgIOblZWMRkAWldXJgAEDBRSIwc+RVtFKCsMR0JXelIAVUFsMx0XXm1DKxUVV11BKklHUFZAGAAIR11sMgcIVQ8VJhASbkZaMRs+REpfKBdcF1NXNCsUQldBGAAYQVcOMR0SWEZcNX5r",
         "icono": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/87e940da-d9b1-4e7b-bf1b-499f3b0afe16.jpeg"
-      }
-    ]
-  },
-  {
-    "visible": "false",
-    "type": "category",
-    "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
-    "title": "Prueba",
-    "items": [
-      {
-        "name": "24h",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0HaRlSRAo="
-      },
-      {
-        "name": "A&E",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0GaRlSRAo="
-      },
-      {
-        "name": "A24",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0FaRlSRAo="
-      },
-      {
-        "name": "Abc Tv",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0EaRlSRAo="
-      },
-      {
-        "name": "Adult Swim",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0LaRlSRAo="
-      },
-      {
-        "name": "Amc Series",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0HdVoMAkcL"
-      },
-      {
-        "name": "America Paraguay",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0LdFoMAkcL"
-      },
-      {
-        "name": "Axn",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Cd1oMAkcL"
-      },
-      {
-        "name": "Babytv",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0CdloMAkcL"
-      },
-      {
-        "name": "Band Brasil",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0EcFoMAkcL"
-      },
-      {
-        "name": "Brasil",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Ld1oMAkcL"
-      },
-      {
-        "name": "C9n",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Cc0BSH18AMkw="
-      },
-      {
-        "name": "Caminos Do Brasil",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Kc1oMAkcL"
-      },
-      {
-        "name": "Cámara Puente",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0CckdVH18AMkw="
-      },
-      {
-        "name": "Cartoon Network",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0CdkFPXAFGfw=="
-      },
-      {
-        "name": "Cartoonito",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Ed1oMAkcL"
-      },
-      {
-        "name": "Cine Canal",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0CcFoMAkcL"
-      },
-      {
-        "name": "Cine Familiar",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Cc1oMAkcL"
-      },
-      {
-        "name": "Cine Hispano",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0CcloMAkcL"
-      },
-      {
-        "name": "Cine Premium",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0CcVoMAkcL"
-      },
-      {
-        "name": "Combate Ufc",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0EdFoMAkcL"
-      },
-      {
-        "name": "Comedy Central",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0LcFoMAkcL"
-      },
-      {
-        "name": "D",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Fd1oMAkcL"
-      },
-      {
-        "name": "Discovery Channel",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Bd1oMAkcL"
-      },
-      {
-        "name": "Discovery Theater",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0BdloMAkcL"
-      },
-      {
-        "name": "Disney Jr",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0CdkBPXAFGfw=="
-      },
-      {
-        "name": "Dp News",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0CdkZPXAFGfw=="
-      },
-      {
-        "name": "Dw Noticias",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Cd0ZPXAFGfw=="
-      },
-      {
-        "name": "El Trece",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0LdVoMAkcL"
-      },
-      {
-        "name": "Espn",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0LfloMAkcL",
-        "type": "hls",
-        "user": "Exoplayer"
-      },
-      {
-        "name": "Espn 2",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Lf1oMAkcL"
-      },
-      {
-        "name": "Espn 3",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Kd1oMAkcL"
-      },
-      {
-        "name": "Espn 4",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0KdloMAkcL"
-      },
-      {
-        "name": "Espn 5",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0KdVoMAkcL"
-      },
-      {
-        "name": "Espn 6",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0BcloMAkcL",
-        "user": "Exoplayer"
-      },
-      {
-        "name": "Espn 7",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0BcVoMAkcL"
-      },
-      {
-        "name": "Espn Premium",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0CdkJPXAFGfw=="
-      },
-      {
-        "name": "Farra Play",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Bf1oMAkcL"
-      },
-      {
-        "name": "Film & Arts",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0BfloMAkcL"
-      },
-      {
-        "name": "Fox Sports 2",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0KdloMAkcL"
-      },
-      {
-        "name": "Fox Sports 3",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0CckFTH18AMkw="
-      },
-      {
-        "name": "France 24",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Cd0BPXAFGfw=="
-      },
-      {
-        "name": "Free Tv Drama",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0KcloMAkcL"
-      },
-      {
-        "name": "Free Tv Estelar",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0KcVoMAkcL"
-      },
-      {
-        "name": "Gen Tv",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Cf0BWH18AMkw="
-      },
-      {
-        "name": "Hbo",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0AdVoMAkcL"
-      },
-      {
-        "name": "Hbo 2",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Ad1oMAkcL"
-      },
-      {
-        "name": "Hbo Family",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0AdloMAkcL"
-      },
-      {
-        "name": "Hbo Max",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0AdVoMAkcL"
-      },
-      {
-        "name": "Hbo Mundi",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0AdFoMAkcL"
-      },
-      {
-        "name": "Hbo Plus",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0AcVoMAkcL"
-      },
-      {
-        "name": "Hbo Signature",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Ac1oMAkcL"
-      },
-      {
-        "name": "Hbo Xtreme",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0AcloMAkcL"
-      },
-      {
-        "name": "History",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0AcFoMAkcL"
-      },
-      {
-        "name": "History Channel",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0AcFoMAkcL"
-      },
-      {
-        "name": "Hola Tv",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Af1oMAkcL"
-      },
-      {
-        "name": "Htv",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Hd1oMAkcL"
-      },
-      {
-        "name": "Hyh Discovery",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0AfloMAkcL"
-      },
-      {
-        "name": "Id Discovery",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0HdloMAkcL"
-      },
-      {
-        "name": "La Tele",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0CdkNPXAFGfw=="
-      },
-      {
-        "name": "Las Estrellas",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0CdUVPXAFGfw=="
-      },
-      {
-        "name": "Love Nature",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Lc1oMAkcL"
-      },
-      {
-        "name": "Mp",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0FcFoMAkcL"
-      },
-      {
-        "name": "Nat Geo",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0HcloMAkcL"
-      },
-      {
-        "name": "Npy",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0EdloMAkcL"
-      },
-      {
-        "name": "Paraguay Tv",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0CdkxPXAFGfw=="
-      },
-      {
-        "name": "Paravision",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0CdURPXAFGfw=="
-      },
-      {
-        "name": "Pasiones",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0HcFoMAkcL"
-      },
-      {
-        "name": "Record Tv",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0EfloMAkcL"
-      },
-      {
-        "name": "Sbt",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Ef1oMAkcL"
-      },
-      {
-        "name": "Sony Channel",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0HfloMAkcL"
-      },
-      {
-        "name": "Space",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Gd1oMAkcL"
-      },
-      {
-        "name": "Star",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0GdVoMAkcL"
-      },
-      {
-        "name": "Star Channel",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0GdloMAkcL"
-      },
-      {
-        "name": "Snt",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0CdkdPXAFGfw=="
-      },
-      {
-        "name": "Sur Tv",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Cck1XH18AMkw="
-      },
-      {
-        "name": "Tastemade Plus (Comidas)",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Cd0RPXAFGfw=="
-      },
-      {
-        "name": "Telefe",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0LdloMAkcL"
-      },
-      {
-        "name": "Telefuturo",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Ec1oMAkcL",
-        "type": "hls"
-      },
-      {
-        "name": "Telemundo Internacional",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Gc1oMAkcL"
-      },
-      {
-        "name": "Tln Novelas",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0EcloMAkcL"
-      },
-      {
-        "name": "Tn",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0GcloMAkcL"
-      },
-      {
-        "name": "Tnt",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0GcVoMAkcL"
-      },
-      {
-        "name": "Tnt Novelas",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0GcFoMAkcL"
-      },
-      {
-        "name": "Tnt Sports Premium",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0LcVoMAkcL"
-      },
-      {
-        "name": "Tooncast",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0FfloMAkcL"
-      },
-      {
-        "name": "Transcontinental",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0EcVoMAkcL"
-      },
-      {
-        "name": "Tv5 Monde",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0GfloMAkcL"
-      },
-      {
-        "name": "Tv Camara",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Cdk1PXAFGfw=="
-      },
-      {
-        "name": "Tv Padeltime",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0HdFoMAkcL"
-      },
-      {
-        "name": "Unicanal",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0EdVoMAkcL"
-      },
-      {
-        "name": "Universal Cinema",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0FdloMAkcL"
-      },
-      {
-        "name": "Universal Comedy",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0FdVoMAkcL"
-      },
-      {
-        "name": "Universal Crime",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0FdFoMAkcL"
-      },
-      {
-        "name": "Universal Plus",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0FcloMAkcL"
-      },
-      {
-        "name": "Universal Premiere",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Fc1oMAkcL"
-      },
-      {
-        "name": "Universal Studio",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0GdFoMAkcL"
-      },
-      {
-        "name": "Venus Tv",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0FcVoMAkcL"
-      },
-      {
-        "name": "Warnerbros Tv",
-        "icono": "https://i.ibb.co/67Vth99Q/tv-Cico.png",
-        "url": "LwAVQQgcaEBUHwMLc1pQAQsddkROXVtFIltXCAEKdDEgdARyAzYiBwdycUwnCAYBd0ZTAgQBBkZRAx0Ff1oMAkcL"
       }
     ]
   },
