@@ -845,8 +845,24 @@
         ]
       },
       {
+        "name": "tigo 1 opc2",
+        "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsPVFxWaBcJRFxYNFoMAkcL",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://player.angelthump.com"
+          },
+          {
+            "name": "Referer",
+            "value": "https://player.angelthump.com/"
+          }
+        ]
+      },
+      {
         "visible": "false",
-        "name": "tigo 1 (Copy)",
+        "name": "tigo 1 (Copy) (Copy)",
         "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsVR0JfJg0VRx1DKxUYXVtAM1oMAkcL",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
@@ -865,7 +881,7 @@
         "visible": "false",
         "name": "TIGO SPORTS PY",
         "icono": "https://...",
-        "url": "Mx0GXggcaAcRXkBHNA==",
+        "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsPVFxWaBcJRFxYNFoMAkcL",
         "type": "tsb",
         "tsb": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InRpZ29zcG9ydG90dCJ9.eyJpc3MiOiJ0aWdvc3BvcnRvdHQiLCJzdWIiOiIiLCJhdWQiOiIiLCJpYXQiOjE3ODE1ODYxMzcsImV4cCI6MTc4NDE1ODA4NSwibmJmIjoxNzgxNTg2MTM3LCJqdGkiOiIwNTA5Mzg0MC02NWI1LTQ2OTMtOGU3My1kM2M2ZjllZGI5ZjgiLCJ1dWlkIjoiODIwZGNmNjUtZWZmYS00N2Y3LWFkMmYtYjRjZGZhNTc0YzJiIiwidmVyc2lvbkFwcCI6IjguNS4yIiwiZW50aXRsZW1lbnQiOnRydWUsImJ1c3NpbmVzVW5pdCI6Im90aGVyIiwiYmlsbGluZ1R5cGUiOiIiLCJ1c2VySW5mbyI6eyJiaWxsaW5nQWNjb3VudElkIjoibGF0aW50b3AwNjhAZ21haWwuY29tIiwiYnVzaW5lc3NVbml0Ijoib3RoZXIiLCJ1c2VyTmFtZSI6IkxhdGluIFRvcCJ9LCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoWDExOyBMaW51eCB4ODZfNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDcuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInBsYXRmb3JtSCI6IndlYiIsImRldmljZVR5cGVIIjoidW5rbm93biIsImRldmljZUlkIjoiOTlkMDAyZTM3MTk1NmQ4MzJjMTQxODQ2YzE3Mjk3ZGIiLCJpcEFkZHJlc3MiOiIxODEuOTQuMjMyLjIiLCJsb2NhdGlvbiI6eyJjb3VudHJ5Q29kZSI6IlBZIiwiY291bnRyeU5hbWUiOiJQYXJhZ3VheSIsInJlZ2lvbl9uYW1lIjoiQWx0byBQYXJhbmEiLCJjaXR5X25hbWUiOiJIZXJuYW5kYXJpYXMiLCJpcCI6IjE4MS45NC4yMzIuMiIsImlwMmxvbmciOjMwNDI4OTU4NzQsImlwX3RvIjozMDQyODk2MTI3LCJsYXRpdHVkZSI6Ii0yNS40MDE2NTAiLCJsb25naXR1ZGUiOiItNTQuNjQxMTkwIiwiaXNwIjoiTnVjbGVvIFMuQS4ifSwiZW1haWwiOiJsYXRpbnRvcDA2OEBnbWFpbC5jb20iLCJwaG9uZSI6IiIsImFjY291bnROdW1iZXIiOiIiLCJ0b2tlblRpZ29JZCI6eyJnTmFtZSI6IkxhdGluIiwiZk5hbWUiOiJUb3AiLCJlbWFpbFYiOiJ0cnVlIiwicGhvbmVWIjoiZmFsc2UiLCJhbGxBY2MiOiJ0cnVlIiwic2VjTG9naW4iOiJ0cnVlIiwiaGFzUHdkIjoiZmFsc2UiLCJoeWJMb2dpbiI6ImZhbHNlIiwidW5UeXBlIjoiZW1haWwiLCJ1Y2MiOiJ0aWdvc3BvcnRzIiwidWNjdCI6ImVtYWlsIiwiY3VzdG9tOlVVSUQiOiI4MjBkY2Y2NS1lZmZhLTQ3ZjctYWQyZi1iNGNkZmE1NzRjMmIiLCJjdHJ5IjoicHkiLCJjdCI6Imdvb2dsZS1vYXV0aDIiLCJlbWFpbCI6ImxhdGludG9wMDY4QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJpc3MiOiJodHRwczovL2lkLnRpZ28uY29tLnB5LyIsImF1ZCI6IlJKTU9ma3RzOUplNTNha1VQTjl4bXBqaDByQnN4UjNRIiwic3ViIjoiZ29vZ2xlLW9hdXRoMnwxMDkxNjIyNDMzNTEyNDM0MTU0MzIiLCJpYXQiOjE3ODE1ODYxMzcsImV4cCI6MTc4MTU4OTczNywic2lkIjoiMktzRktrRGk3QnZZcmZRRFRZYW50OFh3T2I5cXJaZ1kiLCJhdXRoX3RpbWUiOjE3ODE1ODYxMzN9LCJ0eXBlIjoiYWNjZXNzIiwiYWNjb3VudHMiOlt7Im9wZXJhdG9ySWQiOiIiLCJzdWJzY3JpYmVySWQiOiJQWU9USEVSLmxhdGludG9wMDY4QGdtYWlsLmNvbSIsInBhc3N3b3JkIjoiIiwiY3VzdG9tZXJJZCI6IiIsImN1c3RvbWVySW5mbyI6IiIsIm9mZmVyQ29kZSI6IjEiLCJzdGFydERhdGUiOiIyMDI2LTA2LTE1VDIyOjI4OjA1LjAwMFoiLCJlbmREYXRlIjoiMjAyNi0wNy0xNVQyMjoyODowNS4wMDBaIiwibGlua2VkIjowLCJsaW5rRGF0ZSI6MCwidXNlcklkIjoiIiwiYm9QYXJ0bmVyVXNlcklkIjoiIiwiYWN0aXZlIjoiMSIsImluc2VydERhdGUiOiIyMDI2LTA2LTE1VDIyOjI4OjA1LjY3MVoiLCJ1cGRhdGVEYXRlIjoiMjAyNi0wNi0xNVQyMjoyODowNS42NzFaIiwicGF5bWVudFByb2Nlc3NvclRyYW5zYWN0aW9uSWQiOiIyMzU3NDU4ODA5MDkzIiwidHlwZSI6InN1YnNjcmliZXIiLCJzdGF0dXNWYWxpZGF0aW9ucyI6dHJ1ZSwiYnVzc2luZXNVbml0Ijoib3RoZXIiLCJ1c2VySW5mbyI6eyJiaWxsaW5nQWNjb3VudElkIjoibGF0aW50b3AwNjhAZ21haWwuY29tIiwiYnVzaW5lc3NVbml0Ijoib3RoZXIifX1dfQ.92_ssdmZKDT1F-W7stKUniZ5SON8uHAu5HV5KKaz300"
       },
