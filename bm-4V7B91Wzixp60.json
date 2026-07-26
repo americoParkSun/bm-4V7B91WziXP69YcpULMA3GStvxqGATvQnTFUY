@@ -781,7 +781,18 @@
         "url": "LwAVQUEJaFsEVVVWcVkCUlNAM1kSXRxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4GAH9nIEAsS3cBDh0WWFEBKwMoW11aCg4CRH9ZCgMtW2cBCx4oS31wDgcoX3BbIzMGWH1aDgIDdl4BHSdYW3xeER8CSAt1JRkvAGhkckQCXApFEkQnV2Z0K0Y7ZwtYHiwvXmoBCRgDXH9FDh0WWFEBEQ4CA15FJRhYW2h0chIAZmNaCB0rWX9eAR04ZWMCChkwRnxZLx0vS39JDh0WWFEBEQ4CA15FJRhYQWhwDkIoWHtADhkvQlNkEQEFdwtDHTcoB3taDgcoXGBfIxkNW2hlfgQ7cnsFDh0oQntedhwEdwtJHSwvS1NkfgECSHsFCjcWWFEBEQ4CA15FJRhYWlZrDRwFdl5FJR0oB39wMB0FaXhADh4OWFN7FUQCeX8FCw1ZSH93AgEsW38CCx44A35ZAg0sSHtADhknAGhwDkIoW3tKCScoQntdCQIFaXhZHSwsWH1fNEAvYkVLCTAwQn9ZAgMtdVUBCzAGBWprd0lPVwMEIQQZdEVGLj4HdEVYKUIIQENaakY1AQZ7PS4WXnN9cxwXZ3p7CgJMVHZeAA4EBh9SDyIFXHx2BhApaXhYNk0NawBiDDMQQ11GcBEQWldsBDMYRWMOelsNWERWaBdWVFZAaCEPWERWNQcOHmFyGDgIR1dsIxUSWW1WKRdOZFxaMRETQl0dKgQF",
         "icono": "https://i.ibb.co/d0fxfHsr/image.png",
         "type": "CLEARKEY",
-        "k": "c0UCUAcHcEMFUwEDc0wFU1QEdEUHUgMBcURVUgUGd0BbB1EEIkwECARSf0JSAgFQJRIDBQUEdhcDV1cKIUIDBVA="
+        "k": "c0UCUAcHcEMFUwEDc0wFU1QEdEUHUgMBcURVUgUGd0BbB1EEIkwECARSf0JSAgFQJRIDBQUEdhcDV1cKIUIDBVA=",
+        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.py"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.py/"
+          }
+        ]
       },
       {
         "id": 30,
@@ -2720,7 +2731,18 @@
         "icono": "https://i.ibb.co/tmGdKgj/natgeo.png",
         "type": "CLEARKEY",
         "drm_license_uri": "LwAVQUEJaFsMAkdYKBAIH1FcKlsRWUIcJBgEUEBYIg0+WVdLMxsDUEFWcUBOQ1dAMhgVQhxDLwReWldKLhBEBHAWcjBcBVBWdxdXAFFWIxACBwABfkACUgtWdUcDBwAEJhJUAlYVLBEYFAdxYkElDAoGdRdQCAEGI0VQUgFQckcFAVMCJBEHVwFRJUcDVwMF",
-        "k": "cxYEAVEFdhcEVVZQcUZTCAZQJE0EAwFRcUZWUFQGdBBbCQcBJEVYAgdXdkUCAlEGdBBRUANQIhIHAlBRdBYHAAQ="
+        "k": "cxYEAVEFdhcEVVZQcUZTCAZQJE0EAwFRcUZWUFQGdBBbCQcBJEVYAgdXdkUCAlEGdBBRUANQIhIHAlBRdBYHAAQ=",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.py"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.py/"
+          }
+        ],
+        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
       }
     ]
   },
