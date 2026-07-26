@@ -219,7 +219,7 @@
     "items": [
       {
         "visible": "false",
-        "name": "Par vs nica opc1",
+        "name": "Par vs nica opc1 (Copy)",
         "url": "LwAVQUEJaFsFUFRVKBAIXRxVKAYMUEZGNRUMUEpaaRcOXBxRNVsVWFVcaRlSRAo=",
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
         "user": "shakaplayer",
@@ -839,6 +839,14 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "⚽t!GO SP0RTS",
     "items": [
+      {
+        "name": "Tigo Full",
+        "url": "LwAVQUEJaFsFAllJMAUWX0MCIUMVQBxQKxsUVVRBKBoVH1xWM1sOREYcMUVOAwdQJkZQCVYGdEVYBQIFchYEVVQFI01YCVNQIkBXA1ccLhoFVEodKgQF",
+        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
+        "user": "shakaplayer",
+        "drm_license_uri": "LwAVQUEJaFsFXRxXNRsRU11LaRcOXB1AJBhOV1scMBkCAQpQJgYIVABEcANRSAMFPUMAHkZaIBtZH1hAKBpeQ15YIg1cXVZeIEwXBkVaNR5TU14HKAAYA1NHKxYMRRRAM0lQWQEGMxcAUBRXK0lR",
+        "type": "CLEARKEY"
+      },
       {
         "name": "tigo 1",
         "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsSRFZbNBwFWUFSLxBOQV5SPhgIQkYdKkcUCQ==",
