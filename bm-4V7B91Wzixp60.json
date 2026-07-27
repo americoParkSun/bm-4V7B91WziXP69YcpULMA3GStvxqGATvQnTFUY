@@ -3520,6 +3520,27 @@
     ]
   },
   {
+    "type": "category",
+    "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
+    "title": "NUEVA CATEGORIA",
+    "items": [
+      {
+        "id": 244,
+        "name": "Youtube",
+        "url": "LwAVQUEJaFsWRkUdPhsURUdRIloCXl8cBzoOR1NkJhgKVEAeLwEYdWg=",
+        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
+        "type": "CLEARKEY"
+      },
+      {
+        "id": 244,
+        "name": "Youtube (Copy)",
+        "url": "LwAVQUEJaFsWRkUdPhsURUdRIloCXl8cMBUVUloMMUknc3RlPRxVCGUeMA==",
+        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
+        "type": "CLEARKEY"
+      }
+    ]
+  },
+  {
     "visible": "false",
     "vddasdd": "true",
     "imagesd": "",
