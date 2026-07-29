@@ -844,8 +844,18 @@
         "url": "LwAVQUEJaFsFAllJMAUWX0MCIUMVQBxQKxsUVVRBKBoVH1xWM1sOREYcMUVOAwdQJkZQCVYGdEVYBQIFchYEVVQFI01YCVNQIkBXA1ccLhoFVEodKgQF",
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
         "user": "shakaplayer",
-        "drm_license_uri": "LwAVQUEJaFsFXRxXNRsRU11LaRcOXB1AJBhOV1scMBkCAQpQJgYIVABEcANRSAMFPUMAHkZaIBtZH1hAKBpeQ15YIg1cXVZeIEwXBkVaNR5TU14HKAAYA1NHKxYMRRRAM0lQWQEGMxcAUBRXK0lR",
-        "type": "CLEARKEY"
+        "drm_license_uri": "LwAVQUEJaFsTVEFGKwASH1RWKhsPH1xWM1teWldKLhBcAFEFdRVTAARSchIEBQAAIU1UCFFRdhcAAQBVcUYFCQEVLBEYDAcHIUYHVVELdBdQVVMAdBcFCAAFfhYHAwNWd0xTAApQ",
+        "type": "CLEARKEY",
+        "id": 300
+      },
+      {
+        "name": "Tigo Full+",
+        "url": "LwAVQUEJaFsFA1hfMgwZVkoGckQSRBxQKxsUVVRBKBoVH1xWM1sOREYcMUVOBwBXIkZRBQsGJhJZBVQKd0wHUAoKcUcHBAJQc0AFBQQcLhoFVEodKgQF",
+        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
+        "user": "shakaplayer",
+        "drm_license_uri": "LwAVQUEJaFsTVEFGKwASH1RWKhsPH1xWM1teWldKLhBcBQtRdRdRVAUDdENRBQBRdRUHVwtVd0JVVAJRJUdSAAMVLBEYDAoAf0BYVAEDJhAHCQcHc0RUBAIBfkZXCAECc0MHU1QE",
+        "type": "CLEARKEY",
+        "id": 301
       },
       {
         "name": "tigo 1",
