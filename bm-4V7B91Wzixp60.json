@@ -859,6 +859,22 @@
       },
       {
         "name": "tigo 1",
+        "url": "LwAVQUEJaFsXAAICaQcRXkBHJBAPH15aMRFOXVtFIlsNWERWakVMBQcKckVSBR8DaRlSRAoMMwwyVFFBIgBcAwsGI0xRB1BSJEJZAQZWcEAEBAVRJUMCVQQHcE1QBgsVMww1WF9WekIAB1cKIxdR",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://player.angelthump.com"
+          },
+          {
+            "name": "Referer",
+            "value": "https://player.angelthump.com/"
+          }
+        ]
+      },
+      {
+        "name": "tigo 2",
         "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsSRFZbNBwFWUFSLxBOQV5SPhgIQkYdKkcUCQ==",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
@@ -963,6 +979,7 @@
         ]
       },
       {
+        "visible": "false",
         "name": "tigo 4",
         "url": "LwAVQQgcaEVZBBwCfkBPAwIHaUNTCwoBcUROXVtFIlsVRwMcLhoFVEodKkcUCQ==",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
@@ -979,12 +996,14 @@
         ]
       },
       {
+        "visible": "false",
         "name": "Canal 102",
         "url": "LwAVQUEJaFsSRV9FdloXXkpHMRwFH1FcKloDQx1HKAQNUEZaKUVORV1DKxUVWFwCaAQNUEtfLgcVH18AMkw=",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "type": "hls"
       },
       {
+        "visible": "false",
         "name": "tigo eventos opc1",
         "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsVXkZaLxBOQV5SPhgIQkYdKkcUCQ==",
         "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png",
@@ -1001,6 +1020,7 @@
         ]
       },
       {
+        "visible": "false",
         "name": "Eventos opc 2",
         "url": "LwAVQUEJaFsSRV9Fc1oXXkpHMRwFH1FcKloDQx1XIgQOQ0ZWKhUSHlZWNxsTRVdeJgdOQV5SPhgIQkYdKkcUCQ==",
         "icono": "https://i.ibb.co/Cs77Ttc7/tig-rezise.png"
