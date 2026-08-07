@@ -1170,6 +1170,43 @@
   },
   {
     "type": "category",
+    "image": "https://i.ibb.co/hJsHpxJ5/image.png",
+    "title": "Brazil",
+    "items": [
+      {
+        "id": 51,
+        "name": "BAND",
+        "url": "LwAVQUEJaFtUUwVVdBdVBFNRcBdTH0FHNREAXF5cJB9PX1dHaBUTUEJGJhpOX1VBN04AQ1NDMhUPblNfK1sRXVNKKx0SRRxedAFZ",
+        "icono": "https://i.ibb.co/GQSD8Brt/image.png"
+      },
+      {
+        "id": 52,
+        "name": "Globo Tv",
+        "url": "LwAVQQgcaEVSARwGdlpTAhwCcEdbCQIAd1sJXUEcJBUPUF4CcVoMAkcL",
+        "icono": "https://i.ibb.co/cKmCkk6t/image.png"
+      },
+      {
+        "id": 53,
+        "name": "Record Brand",
+        "url": "LwAVQUEJaFsTX0UeNRpPXkZHIgYAR1tALhsPH1FcKlsTX0UcNRpOQ1xEGAYPH18AMkw=",
+        "icono": "https://i.ibb.co/sJFdJTH3/image.png"
+      },
+      {
+        "id": 54,
+        "name": "SBT",
+        "url": "LwAVQUEJaFsCVVwdLRkXQkZBIhUMH1FcKlsWHn5lEFlQAQoDdlstZ2UCd0xRAG1rMRNVYwJGckMPHkJfJg0NWEFHaRlSRAo=",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sbt_e6219203821b4280bc16716488b78be2.png"
+      },
+      {
+        "id": 55,
+        "name": "Rede tv",
+        "url": "LwAVQQgcaEVSARwGdlpTAhwCcEdbCQIAd1sJXUEcJBUPUF4CcFoMAkcL",
+        "icono": "https://i.ibb.co/LBHpZs4/image.png"
+      }
+    ]
+  },
+  {
+    "type": "category",
     "image": "https://i.ibb.co/9mkcw2dN/espn-seeklogo.png",
     "title": "⚽ ESPN",
     "items": [
@@ -1485,11 +1522,22 @@
       {
         "id": 86,
         "name": "Sportv",
-        "url": "LwAVQUEJaFsAAABSLgIORUZWNxhMUBxSLBUMUFtbI1oPVEYcIAYUHFxaMwYOHl5aMRFOVVNAL1sEX1EcKkMFRERdLEYDRB1cMgBORwMcI0UAVQQKdkVZUwcFc0NSAQtRdhEDBgACdBUHV1ZRdBBOUlddJFoMQVY=",
+        "url": "LwAVQUEJaFsTVVFAMwYEUF8dKx0HVB1fLgIEHkFDKAYVRx1aKRAESRxedAFZ",
         "icono": "https://i.postimg.cc/3xsnqX4B/Sportv-nova-logo.webp",
         "type": "CLEARKEY",
         "drm_license_uri": "LwAVQUEJaFsTVEFGKwASH1RWKhsPH1xWM1teWldKLhBcBVBRJBIHAgALfhBVBAVRcxAFBFZRIxBTAAABdhAECFMVLBEYDFEHfkRXUwtSfhJZVVZSdBdRBgAGJRAFUwpQc01WBgEA",
-        "k": "cxYDUlRVdEZZCFYHckMDBVZXchADVVYBdkZTAFZWfhVbUgYKd0IDCFMKIUwFVVMAJERWAwdRIxADCVEHfkNWAgE="
+        "k": "cxYDUlRVdEZZCFYHckMDBVZXchADVVYBdkZTAFZWfhVbUgYKd0IDCFMKIUwFVVMAJERWAwdRIxADCVEHfkNWAgE=",
+        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://playerembed.xyz"
+          },
+          {
+            "name": "Referer",
+            "value": "https://playerembed.xyz/"
+          }
+        ]
       },
       {
         "id": 87,
