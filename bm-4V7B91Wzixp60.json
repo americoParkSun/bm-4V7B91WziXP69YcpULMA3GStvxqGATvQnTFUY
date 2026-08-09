@@ -860,8 +860,8 @@
         "k": "c00DA1EDIkNRAgUDc0YDA1NVIU0HAQQHIkQDUwEAdkVbCQELc00EAgJSIxJZBAYHd0FUAQAKdUJYAgMHcBIDVwU="
       },
       {
-        "name": "tigo 2",
-        "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsSRFZbNBwFWUFSLxBOQV5SPhgIQkYdKkcUCQ==",
+        "name": "tigo 1",
+        "url": "LwAVQUEJaFsXBRxaKRIIQV5SPloEQh1QJhoAXVdAaAAIVl0cLxsNUB1WIxMEAQEVBiQxbnF7CUVPXEJX",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
         "headers": [
@@ -873,10 +873,120 @@
             "name": "Referer",
             "value": "https://player.angelthump.com/"
           }
-        ]
+        ],
+        "id": 302,
+        "type": "CLEARKEY"
       },
       {
-        "name": "tigo 1 opc2",
+        "name": "tigo 2",
+        "url": "LwAVQUEJaFsXBRxaKRIIQV5SPloEQh1QJhoAXVdAaAAIVl0cLxsNUB1WIxMEAQEVBiQxbnF7CUZPXEJX",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://player.angelthump.com"
+          },
+          {
+            "name": "Referer",
+            "value": "https://player.angelthump.com/"
+          }
+        ],
+        "id": 303,
+        "type": "CLEARKEY"
+      },
+      {
+        "name": "tigo 3",
+        "url": "LwAVQUEJaFsXBRxaKRIIQV5SPloEQh1QJhoAXVdAaAAIVl0cLxsNUB1WIxMEAQEVBiQxbnF7CUdPXEJX",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://player.angelthump.com"
+          },
+          {
+            "name": "Referer",
+            "value": "https://player.angelthump.com/"
+          }
+        ],
+        "id": 304,
+        "type": "CLEARKEY"
+      },
+      {
+        "name": "tigo 4",
+        "url": "LwAVQUEJaFsXBRxaKRIIQV5SPloEQh1QJhoAXVdAaAAIVl0cLxsNUB1WIxMEAQEVBiQxbnF7CUBPXEJX",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://player.angelthump.com"
+          },
+          {
+            "name": "Referer",
+            "value": "https://player.angelthump.com/"
+          }
+        ],
+        "id": 305,
+        "type": "CLEARKEY"
+      },
+      {
+        "name": "tigo 5",
+        "url": "LwAVQUEJaFsXBRxaKRIIQV5SPloEQh1QJhoAXVdAaAAIVl0cLxsNUB1WIxMEAQcVBiQxbnF7CUVPXEJX",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://player.angelthump.com"
+          },
+          {
+            "name": "Referer",
+            "value": "https://player.angelthump.com/"
+          }
+        ],
+        "id": 306,
+        "type": "CLEARKEY"
+      },
+      {
+        "name": "tigo 6",
+        "url": "LwAVQUEJaFsXBRxaKRIIQV5SPloEQh1QJhoAXVdAaAAIVl0cLxsNUB1WIxMEAQcVBiQxbnF7CUdPXEJX",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://player.angelthump.com"
+          },
+          {
+            "name": "Referer",
+            "value": "https://player.angelthump.com/"
+          }
+        ],
+        "id": 307,
+        "type": "CLEARKEY"
+      },
+      {
+        "name": "tigo 7",
+        "url": "LwAVQUEJaFsXBRxaKRIIQV5SPloEQh1QJhoAXVdAaAAIVl0cLxsNUB1WIxMEAQcVBiQxbnF7CUBPXEJX",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://player.angelthump.com"
+          },
+          {
+            "name": "Referer",
+            "value": "https://player.angelthump.com/"
+          }
+        ],
+        "id": 308,
+        "type": "CLEARKEY"
+      },
+      {
+        "name": "tigo 24/7",
         "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsPVFxWaBcJRFxYNFoMAkcL",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
@@ -889,11 +999,12 @@
             "name": "Referer",
             "value": "https://player.angelthump.com/"
           }
-        ]
+        ],
+        "id": 309
       },
       {
-        "name": "tigo 1 opc3",
-        "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsVR0JfJg0VRx1DKxUYXVtAM1oMAkcL",
+        "name": "tigo 24/7 2",
+        "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsPVFxWdlsCWUddLAdPXAFGfw==",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
         "headers": [
@@ -905,39 +1016,8 @@
             "name": "Referer",
             "value": "https://player.angelthump.com/"
           }
-        ]
-      },
-      {
-        "name": "tigo 8",
-        "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsER1ddMwdQQUscNxgASF5aNABPXAFGfw==",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://player.angelthump.com"
-          },
-          {
-            "name": "Referer",
-            "value": "https://player.angelthump.com/"
-          }
-        ]
-      },
-      {
-        "name": "tigo 3",
-        "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsER1ddMwdTQUscNxgASF5aNABPXAFGfw==",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://player.angelthump.com"
-          },
-          {
-            "name": "Referer",
-            "value": "https://player.angelthump.com/"
-          }
-        ]
+        ],
+        "id": 310
       }
     ]
   },
