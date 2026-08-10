@@ -475,6 +475,7 @@
         "icono": "https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png"
       },
       {
+        "visible": "false",
         "id": 12,
         "name": "América Paraguay",
         "url": "LwAVQUEJaFsEVVVWahgIR1cDf1kJQxxQMRUVRUQdJBsMH1NBfUBVAh1HKB8+VEt5LxYmUlt8Lj4oZEhmPzkIeEF6KSZUUnF6cT0KQWplBD5YH1dKDRgEeXNaCB0oSXxJIEYvZWsBCDA4SHtaMB0CA15EDh4OWH9nCkAtW2cGCx4oSHxac0cvcntADhojWVZ0IB0uWHtFJTMNA2hgfh4vXGRYJA1Yd1BeCUU7ZgcDJBlZR2cDARI1dl4BHSJYWmtrCRs5A3xfJRksR3taMB0CA2RJJEYNR1Bffh47dgdVJiMwWH1aDkQ4A2haChkwSH10HRg4XGMHHkYwS3taMB0CA2RJJEYNR1BffgQ7cnsFDh0oQnteCQcAZmRGIzJYQWhwDkIoWHtADhkzXVZeKx47ZwtDHTcoB3taDgcoXANbIjJYS2hrCQ4AZgtGJA0oB39wMB0CA2RJJEYNR1Bffh8FaXhbIzMNR1BaDkIsckVaIywrQntZKB0AeWADJDwsB35Kfw0sdXdGCh4sAH5ZHkYtW3dKCg0oQnteAUU7cnsFDh4sSX9aDgcoX3xFIywrW2hrCh0uXUEHCScWSXx3FgcsW3dECzAGA353IEA5aQIOaUEAAwV+PiQtBXRZPQ42ZUphIi0pWmZQPxgzc0d6EiQxZQR/PxI4XHhZNTNSQWtHMBYRW3FhAxIre1xrDzI+cmN+K0wrSWZ7IjsXQ2VJH0QVSV9hLxMgDA8cKx0XVB1QcBEFQh1yKhETWFFSGCQ4HmFyGDgIR1dsIxUSWW1WKRdOcF9WNR0CUG1jHloMQVY=",
@@ -840,13 +841,6 @@
     "title": "⚽t!GO SP0RTS",
     "items": [
       {
-        "name": "Tigo Full (Copy)",
-        "url": "LwAVQUEJaFsRXhxHMhAEQV1BMxESWV1KaQwYSx1UKxsDUF4cIRUPUEZaPUVOWFxXIgxPXAFGf0sVXllWKUlVVwQDcBdXAAEEIk1TUFZSfxJSBwICJhIFAAIBf0RYVQEFJRFWBQQLahBXHAMEf0JSBAUCf0ZMAAULcUdRAgMLdVIIQQ8CdExPBAsddUZXHwUH",
-        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "type": "hls"
-      },
-      {
         "name": "Tigo Full",
         "url": "LwAVQUEJaFsFAllJMAUWX0MCIUMVQBxQKxsUVVRBKBoVH1xWM1sOREYcMUVOAwdQJkZQCVYGdEVYBQIFchYEVVQFI01YCVNQIkBXA1ccLhoFVEodKgQF",
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
@@ -868,67 +862,54 @@
       },
       {
         "name": "tigo 1",
-        "url": "LwAVQUEJaFsXBRxaKRIIQV5SPloEQh1QJhoAXVdAaAAIVl0cLxsNUB1WIxMEAQEVBiQxbnF7CUVPXEJX",
+        "url": "LwAVQUEJaFsTRF9RKxFPUl1eaBgIR1ceLxgSHFZFNVs1Y0RQdEM4SVlYElsRXVNKKx0SRRxedAFZ",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "id": 302,
-        "type": "CLEARKEY"
+        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://rumble.com"
+          },
+          {
+            "name": "Referer",
+            "value": "https://rumble.com/"
+          }
+        ],
+        "id": 302
       },
       {
         "name": "tigo 2",
-        "url": "LwAVQUEJaFsXBRxaKRIIQV5SPloEQh1QJhoAXVdAaAAIVl0cLxsNUB1WIxMEAQEVBiQxbnF7CUZPXEJX",
+        "url": "LwAVQUEJaFsTRF9RKxFPUl1eaBgIR1ceLxgSHFZFNVsXZUZiGA05YmZic1sRXVNKKx0SRRxedAFZ",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "id": 303,
-        "type": "CLEARKEY"
+        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://rumble.com"
+          },
+          {
+            "name": "Referer",
+            "value": "https://rumble.com/"
+          }
+        ],
+        "id": 303
       },
       {
         "name": "tigo 3",
-        "url": "LwAVQUEJaFsXBRxaKRIIQV5SPloEQh1QJhoAXVdAaAAIVl0cLxsNUB1WIxMEAQEVBiQxbnF7CUdPXEJX",
+        "url": "LwAVQUEJaFsTRF9RKxFPUl1eaBgIR1ceLxgSHFZFNVsvfXceNBIHclRRd1sRXVNKKx0SRRxedAFZ",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "id": 304,
-        "type": "CLEARKEY"
-      },
-      {
-        "name": "tigo 4",
-        "url": "LwAVQUEJaFsXBRxaKRIIQV5SPloEQh1QJhoAXVdAaAAIVl0cLxsNUB1WIxMEAQEVBiQxbnF7CUBPXEJX",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "id": 305,
-        "type": "CLEARKEY"
-      },
-      {
-        "name": "tigo 5",
-        "url": "LwAVQUEJaFsXBRxaKRIIQV5SPloEQh1QJhoAXVdAaAAIVl0cLxsNUB1WIxMEAQcVBiQxbnF7CUVPXEJX",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "id": 306,
-        "type": "CLEARKEY"
-      },
-      {
-        "name": "tigo 6",
-        "url": "LwAVQUEJaFsXBRxaKRIIQV5SPloEQh1QJhoAXVdAaAAIVl0cLxsNUB1WIxMEAQcVBiQxbnF7CUZPXEJX",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "id": 307,
-        "type": "CLEARKEY"
-      },
-      {
-        "name": "tigo 7",
-        "url": "LwAVQUEJaFsXBRxaKRIIQV5SPloEQh1QJhoAXVdAaAAIVl0cLxsNUB1WIxMEAQcVBiQxbnF7CUdPXEJX",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "id": 308,
-        "type": "CLEARKEY"
-      },
-      {
-        "name": "tigo 8",
-        "url": "LwAVQUEJaFsXBRxaKRIIQV5SPloEQh1QJhoAXVdAaAAIVl0cLxsNUB1WIxMEAQcVBiQxbnF7CUBPXEJX",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "id": 309,
-        "type": "CLEARKEY"
+        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://rumble.com"
+          },
+          {
+            "name": "Referer",
+            "value": "https://rumble.com/"
+          }
+        ],
+        "id": 304
       },
       {
         "name": "tigo 24/7",
@@ -945,11 +926,11 @@
             "value": "https://player.angelthump.com/"
           }
         ],
-        "id": 310
+        "id": 305
       },
       {
         "name": "tigo 24/7 2",
-        "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsPVFxWdlsCWUddLAdPXAFGfw==",
+        "url": "LwAVQQgcaEBUHwMEd1pQAgIddUZVCwoDd0ROQV5SPlsAAQZY",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
         "headers": [
@@ -962,7 +943,7 @@
             "value": "https://player.angelthump.com/"
           }
         ],
-        "id": 311
+        "id": 306
       }
     ]
   },
