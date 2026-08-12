@@ -862,7 +862,7 @@
       },
       {
         "name": "tigo 1",
-        "url": "LwAVQUEJaFsTRF9RKxFPUl1eaBgIR1ceLxgSHFZFNVs1Y0RQdEM4SVlYElsRXVNKKx0SRRxedAFZ",
+        "url": "LxwVRUJAfVtOAFMedkNYABxQKBlOXVtFIltSV19Adk0GBR1fLgIEHFpfNFtRXgYHahYHAlwcJBwUX1lfLgcVblsCGDA3YxxedAFZ",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
         "headers": [
@@ -879,7 +879,7 @@
       },
       {
         "name": "tigo 2",
-        "url": "LwAVQUEJaFtQUB8CcE1QH1FcKlsNWERWaEcHXEECfhNVHl5aMRFMWV5AaEQOBQYeJRJSXx1QLwEPWl5aNAA+WANsAyIzH18AMkw=",
+        "url": "LwAVQUEJaFsTRF9RKxFPUl1eaBgIR1ceLxgSHFZFNVsbYkpnHiwRaGZ7HlsRXVNKKx0SRRxedAFZ",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
         "headers": [
@@ -930,7 +930,7 @@
       },
       {
         "name": "tigo 24/7 2",
-        "url": "LwAVQQgcaEBUHwMEd1pQAgIddUZVCwoDd0ROQV5SPlsAAQZY",
+        "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsLW1hZMgAYRUBBPgYVSEAcNxgASF5aNABPXAFGfw==",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
         "headers": [
@@ -944,6 +944,40 @@
           }
         ],
         "id": 306
+      },
+      {
+        "name": "tigo 24/7 3",
+        "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsAVVNXJgcFUEFXJlsRXVNKKx0SRRxedAFZ",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://player.angelthump.com"
+          },
+          {
+            "name": "Referer",
+            "value": "https://player.angelthump.com/"
+          }
+        ],
+        "id": 307
+      },
+      {
+        "name": "tigo 24/7 4",
+        "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsTRVpKLwAYWVhdPgEYSEscNxgASF5aNABPXAFGfw==",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://player.angelthump.com"
+          },
+          {
+            "name": "Referer",
+            "value": "https://player.angelthump.com/"
+          }
+        ],
+        "id": 308
       }
     ]
   },
