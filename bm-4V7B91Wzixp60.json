@@ -862,7 +862,7 @@
       },
       {
         "name": "tigo 1",
-        "url": "LwAVQUEJaFtQUB8CcE1QH1FcKlsNWERWaEcHXEECfhNVHl5aMRFMWV5AaEQOBQYeJRJSXx1QLwEPWl5aNAA+WANsAyIzH18AMkw=",
+        "url": "LwAVQUEJaFtQCQEdJRsbS0ZFaRcOXB1ULhUVRx1ULhUVRx9dIhoEHlxWKRFOQV5SPhgIQkYdKkcUCQ==",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
         "headers": [
@@ -879,7 +879,7 @@
       },
       {
         "name": "tigo 2",
-        "url": "LwAVQUEJaFsTRF9RKxFPUl1eaBgIR1ceLxgSHlRULzk5SGBwcFkoHkJfJg0NWEFHaRlSRAoMLBEYDHwLNDxXUHx/Pg4WAEcHAzwpckN7HkYTSEBZcgMCYVBQEAU3ZVtxMkIlaFUCPzZRB2pBcAAkRhRfIgIEXQ8C",
+        "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsAVVNXJgcFUEFXNQATRUAcNxgASF5aNABPXAFGfw==",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
         "headers": [
@@ -896,7 +896,7 @@
       },
       {
         "name": "tigo 3",
-        "url": "LwAVQUEJaFsPSFECaRUPVldfMxwUXEIdJBsMHlpfNFssW3NKCR1RRn1wdwwsAGNLCQ4ORn1nKEUsWAYCCQ4jUGh0KxoAaWBbJTwzA21XLhMIRVNfMwJOWFxXIgxPXAFGfw==",
+        "url": "LwAVQUEJaFsSUgAdIgcCRFdfJkBPUl1eaBgIR1cccUwCBlRQcxBYBwYFf00AA1RVcxACAQBScUIHU1MFIUdYCAACJURUUBxedAFZ",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
         "headers": [
@@ -912,6 +912,7 @@
         "id": 304
       },
       {
+        "visible": "false",
         "name": "tigo 24/7",
         "url": "LwAVQUEJaFtQCQEdJRsbS0ZFaRcOXB1ULhUVRx1ULhUVRx9dIhoEHlxWKRFOQV5SPhgIQkYdKkcUCQ==",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
@@ -929,6 +930,7 @@
         "id": 305
       },
       {
+        "visible": "false",
         "name": "tigo 24/7 2",
         "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsLW1hZMgAYRUBBPgYVSEAcNxgASF5aNABPXAFGfw==",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
