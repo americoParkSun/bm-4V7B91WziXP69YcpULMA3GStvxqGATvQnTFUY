@@ -878,6 +878,7 @@
         "id": 302
       },
       {
+        "visible": "false",
         "name": "tigo 2",
         "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsAVVNXJgcFUEFXNQATRUAcNxgASF5aNABPXAFGfw==",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
@@ -895,6 +896,7 @@
         "id": 303
       },
       {
+        "visible": "false",
         "name": "tigo 3",
         "url": "LwAVQUEJaFsSUgAdIgcCRFdfJkBPUl1eaBgIR1cccUwCBlRQcxBYBwYFf00AA1RVcxACAQBScUIHU1MFIUdYCAACJURUUBxedAFZ",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
@@ -910,6 +912,24 @@
           }
         ],
         "id": 304
+      },
+      {
+        "visible": "true",
+        "name": "tigo 24/7",
+        "url": "LwAVQQgcaEBUHwMAc1pQBQMddkJQCwABd0ROcGB0aCAIVl1sFAQOQ0ZAaAATUFFYNFkXAFMCaBkOX10dKkcUCQ==",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://player.angelthump.com"
+          },
+          {
+            "name": "Referer",
+            "value": "https://player.angelthump.com/"
+          }
+        ],
+        "id": 305
       },
       {
         "name": "tp test",
@@ -928,24 +948,6 @@
         ],
         "id": 309,
         "type": "TP"
-      },
-      {
-        "visible": "false",
-        "name": "tigo 24/7",
-        "url": "LwAVQUEJaFtQCQEdJRsbS0ZFaRcOXB1ULhUVRx1ULhUVRx9dIhoEHlxWKRFOQV5SPhgIQkYdKkcUCQ==",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://player.angelthump.com"
-          },
-          {
-            "name": "Referer",
-            "value": "https://player.angelthump.com/"
-          }
-        ],
-        "id": 305
       },
       {
         "visible": "false",
