@@ -444,6 +444,19 @@
   },
   {
     "type": "category",
+    "image": "https://imgs.search.brave.com/uho3YGvnnVaq27dFAfIRHpE8ERi8RlvVQi-EoLADu1E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMDgv/ODQzLzg5NS9zbWFs/bC9tZXNzYWdlLWV2/ZW50cy1mdW5ueS1w/bGFzdGljaW5lLWFs/cGhhYmV0LWxldHRl/cnMtb24td2hpdGUt/YmFja2dyb3VuZC1w/bmcucG5n",
+    "title": "Test eventos",
+    "items": [
+      {
+        "id": 1,
+        "name": "Teste FB canal 4",
+        "url": "LwAVQUEJaFsXWFZWKFoHUFVHdVlQH1RdJloHU1FXKVoPVEYcLwIIVVdcagYXUB9dJBNOblxQGBcARR8Cd0dOblxQGAcTbkYec1sXHkByFBcCRXwBAg40RGdnIBE4SH12HiYbQEQeaiQyWH8GHgEjaFFcdg1ZegFsNz0gHm1dJCsOWVEeM0Q3VWV4MhwZeQZicB8vR0V0IQM2YFQcKx0XVB9XJgcJHlZSNBxMUFBBah0DQx9SMhAIXh0Cck1XCQEBcExQCQMDfkRUH19DI0s+X1FsPQBcAwoVJBcDDAAec1IMQg9eGDc1YXMVNBc+RQ8CYRsJDAIDGDUwdkNHIx9Rbl9ELwNZS0NrLC0ufwIAP0INfnRfAhg3QEhdASI0X0AeEC1WXUUVKBFcB3MLBDZUdXQ=",
+        "icono": "https://imgs.search.brave.com/1dBNTOihEJfx1Fwo84eA9RIA-cKP0t--4I0oMz0gBIU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kMjF0/dWNmcGVuM2o4Mi5j/bG91ZGZyb250Lm5l/dC93cC1jb250ZW50/L3VwbG9hZHMvMjAy/NC8xMS8yMjEyMjEy/My9DYW5hbC00LTEw/ODB4MTA4MC0xLmpw/Zw"
+      }
+    ]
+  },
+  {
+    "type": "category",
     "image": "https://i.ibb.co/k6cgFLwt/paraguay.png",
     "title": "🇵🇾PARAGUAY",
     "items": [
