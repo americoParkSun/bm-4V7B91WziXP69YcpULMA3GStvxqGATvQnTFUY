@@ -954,8 +954,8 @@
         "id": 306
       },
       {
-        "name": "Cristóbal Colón JAS vs Olimpia",
-        "url": "LwAVQUEJaFsSRUBWJhkVQR9UKBgFVFwCaRcNWFFYaBMNXlBSK0VPQVpDeAcVQ1dSKkkHUFxSMx0bAg==",
+        "name": "Guaireña vs 12 de Octubre",
+        "url": "LwAVQUEJaFsSRUBWJhkVQR9UKBgFVFwCaRcNWFFYaBMNXlBSK0VPQVpDeAcVQ1dSKkkHUFxSMx0bAA==",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
         "headers": [
@@ -972,9 +972,8 @@
         "type": "TP"
       },
       {
-        "visible": "false",
-        "name": "tigo 24/7 2",
-        "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsLW1hZMgAYRUBBPgYVSEAcNxgASF5aNABPXAFGfw==",
+        "name": "Resistencia vs Cerro Porteño",
+        "url": "LwAVQUEJaFsSRUBWJhkVQR9UKBgFVFwCaRcNWFFYaBMNXlBSK0VPQVpDeAcVQ1dSKkkHUFxSMx0bAw==",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
         "headers": [
@@ -987,7 +986,7 @@
             "value": "https://player.angelthump.com/"
           }
         ],
-        "id": 306
+        "id": 310
       }
     ]
   },
