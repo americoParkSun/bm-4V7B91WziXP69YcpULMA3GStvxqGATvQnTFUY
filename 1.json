@@ -865,25 +865,33 @@
         "k": "dhdXA1MBdkIABFRWc0ZSVwsGfhcDAFFSd0YHBwBXf0dbBAZVdRIFUgoAJEUFUAEAJBBYAwQKJRJTAFcDf0ZQCVE="
       },
       {
-        "visible": "false",
+        "name": "Tigo Full 2",
+        "url": "LwAVQUEJaFsFAllJMAUWX0MCIUMVQBxQKxsUVVRBKBoVH1xWM1sOREYcMUVOAVRXcURZVQILd0MCBQpWIxZVBgMAIxVXUwoDIkwCAgYcLhoFVEpscVoMAkcL",
+        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
+        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "type": "CLEARKEY",
+        "id": 301,
+        "k": "dhdXA1MBdkIABFRWc0ZSVwsGfhcDAFFSd0YHBwBXf0dbBAZVdRIFUgoAJEUFUAEAJBBYAwQKJRJTAFcDf0ZQCVE="
+      },
+      {
         "name": "Tigo Full+",
         "url": "LwAVQUEJaFsFA1hfMgwZVkoGckQSRBxQKxsUVVRBKBoVH1xWM1sOREYcMUVOBwBXIkZRBQsGJhJZBVQKd0wHUAoKcUcHBAJQc0AFBQQcLhoFVEodKgQF",
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
         "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
         "drm_license_uri": "LwAVQUEJaFsTVEFGKwASH1RWKhsPH1xWM1teWldKLhBcBQtRdRdRVAUDdENRBQBRdRUHVwtVd0JVVAJRJUdSAAMVLBEYDAoAf0BYVAEDJhAHCQcHc0RUBAIBfkZXCAECc0MHU1QE",
         "type": "CLEARKEY",
-        "id": 301,
-        "k": "c00DA1EDIkNRAgUDc0YDA1NVIU0HAQQHIkQDUwEAdkVbCQELc00EAgJSIxJZBAYHd0FUAQAKdUJYAgMHcBIDVwU="
+        "id": 302,
+        "k": "c00DA1EDIkNRAgUDc0YDA1NVIU0HAQQHIkQDUwEAdkVbCQELc00EAgJSIxJZBAYHd0FUAQAKdUJYAgMHcBIDVwU=",
+        "visible": "false"
       },
       {
         "name": "tigo 1",
         "url": "LwAVQUEJaFsTRF9RKxFPUl1eaBgIR1ceLxgSHkVdAzIKbgtwNRAsHkJfJg0NWEFHaRlSRAoMKxEXVF4Odg==",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "id": 302
+        "id": 303
       },
       {
-        "visible": "false",
         "name": "tigo 2",
         "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsAVVNXJgcFUEFXNQATRUAcNxgASF5aNABPXAFGfw==",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
@@ -898,10 +906,10 @@
             "value": "https://rumble.com/"
           }
         ],
-        "id": 303
+        "id": 304,
+        "visible": "false"
       },
       {
-        "visible": "false",
         "name": "tigo 3",
         "url": "LwAVQUEJaFsSUgAdIgcCRFdfJkBPUl1eaBgIR1cccUwCBlRQcxBYBwYFf00AA1RVcxACAQBScUIHU1MFIUdYCAACJURUUBxedAFZ",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
@@ -916,10 +924,11 @@
             "value": "https://iblups.com/"
           }
         ],
-        "id": 304
+        "id": 305,
+        "visible": "false"
       },
       {
-        "name": "tigo 24/7",
+        "name": "Tigo Sports +",
         "url": "LwAVQUEJaFsSRV9FcFoXXkpHMRwFH1FcKloDQx1LPwIIVVdcaAwZR1tXIhtOQV5SPhgIQkYdKkcUCQ==",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
@@ -936,7 +945,7 @@
         "id": 305
       },
       {
-        "name": "tigo 24/7 Plus",
+        "name": "Tigo Sports 3",
         "url": "LwAVQUEJaFsTRF9RKxFPUl1eaBgIR1ceLxgSHnFAHg0zRlVEExEkHkJfJg0NWEFHaRlSRAoMKxEXVF4Odg==",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
@@ -953,6 +962,40 @@
         "id": 306
       },
       {
+        "name": "Eventos 1",
+        "url": "LwAVQQgcaEBUHwMEd1pQAgIddUZVCwoDd0ROQV5SPlsAAQZYaB0PVVdLaRlSRAo=",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://player.angelthump.com"
+          },
+          {
+            "name": "Referer",
+            "value": "https://player.angelthump.com/"
+          }
+        ],
+        "id": 307
+      },
+      {
+        "name": "Eventos 2",
+        "url": "LwAVQQgcaEBUHwMEd1pQAgIddUZVCwoDd0ROQV5SPlsAAQZaaB0PVVdLaRlSRAo=",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://player.angelthump.com"
+          },
+          {
+            "name": "Referer",
+            "value": "https://player.angelthump.com/"
+          }
+        ],
+        "id": 308
+      },
+      {
         "name": "Sportivo Luqueño vs Rubio Ñú",
         "url": "LwAVQUEJaFsSRUBWJhkVQR9UKBgFVFwCaRcNWFFYaBMNXlBSK0VPQVpDeAcVQ1dSKkkHUFxSMx0bAA==",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
@@ -967,8 +1010,9 @@
             "value": "https://player.angelthump.com/"
           }
         ],
-        "id": 309,
-        "type": "TP"
+        "id": 315,
+        "type": "TP",
+        "visible": "false"
       },
       {
         "name": "Resistencia vs Cerro Porteño",
@@ -986,7 +1030,8 @@
             "value": "https://player.angelthump.com/"
           }
         ],
-        "id": 310
+        "id": 316,
+        "visible": "false"
       }
     ]
   },
