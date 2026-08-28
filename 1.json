@@ -996,6 +996,23 @@
         "id": 308
       },
       {
+        "name": "Eventos 3",
+        "url": "LwAVQQgcaEBUHwMAc1pQBQMddkJQCwABd0ROcGB0aCAIVl1sFAQOQ0ZAaAATUFFYNFkXAFMCaBkOX10dKkcUCQ==",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://player.angelthump.com"
+          },
+          {
+            "name": "Referer",
+            "value": "https://player.angelthump.com/"
+          }
+        ],
+        "id": 309
+      },
+      {
         "name": "Sportivo Luqueño vs Rubio Ñú",
         "url": "LwAVQUEJaFsSRUBWJhkVQR9UKBgFVFwCaRcNWFFYaBMNXlBSK0VPQVpDeAcVQ1dSKkkHUFxSMx0bAA==",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
