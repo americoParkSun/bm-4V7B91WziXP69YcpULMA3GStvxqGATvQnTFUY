@@ -3636,25 +3636,102 @@
   },
   {
     "type": "category",
+    "image": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+    "title": "RUNTIME CINE PREMIUM",
+    "items": [
+      {
+        "id": 250,
+        "name": "Rumtime 1",
+        "url": "LwAVQUEJaFsSRUBWJhlPUFZAaRsVRVdBJloVRx1DKxUYXVtAM1oMAkcLeBoERUVcNR8+WFYOdUVUBRRSMRsFDAMVJBsRQVMOd1IIQm1fJgBcAQ==",
+        "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+        "type": "hls"
+      },
+      {
+        "id": 251,
+        "name": "Rumtime 2",
+        "url": "LwAVQUEJaFsSRUBWJhlPUFZAaRsVRVdBJloVRx1DKxUYXVtAM1oMAkcLeFIPVEZEKAYKbltXekZTAAoVJgIOVQ8CYRcOQUJSekRHWEFsKxUVDAI=",
+        "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+        "type": "hls"
+      },
+      {
+        "id": 252,
+        "name": "Accion",
+        "url": "LwAVQUEJaFsSRUBWJhlPUFZAaRsVRVdBJloVRx1DKxUYXVtAM1oMAkcLeBoERUVcNR8+WFYOdUFUARRSMRsFDAMVJBsRQVMOd1IIQm1fJgBcAQ==",
+        "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+        "type": "hls"
+      },
+      {
+        "id": 253,
+        "name": "Familia",
+        "url": "LwAVQUEJaFsSRUBWJhlPUFZAaRsVRVdBJloVRx1DKxUYXVtAM1oMAkcLeBoERUVcNR8+WFYOcUVQCRRSMRsFDAMVJBsRQVMOd1IIQm1fJgBcAQ==",
+        "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+        "type": "hls"
+      },
+      {
+        "id": 254,
+        "name": "Comedia",
+        "url": "LwAVQUEJaFsSRUBWJhlPUFZAaRsVRVdBJloVRx1DKxUYXVtAM1oMAkcLeBoERUVcNR8+WFYOcUVTBhRSMRsFDAMVJBsRQVMOd1IIQm1fJgBcAQ==",
+        "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+        "type": "hls"
+      },
+      {
+        "id": 255,
+        "name": "Espanto",
+        "url": "LwAVQUEJaFsSRUBWJhlPUFZAaRsVRVdBJloVRx1DKxUYXVtAM1oMAkcLeBoERUVcNR8+WFYOcUVTBxRSMRsFDAMVJBsRQVMOd1IIQm1fJgBcAQ==",
+        "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+        "type": "hls"
+      },
+      {
+        "id": 256,
+        "name": "Romance",
+        "url": "LwAVQUEJaFsSRUBWJhlPUFZAaRsVRVdBJloVRx1DKxUYXVtAM1oMAkcLeBoERUVcNR8+WFYOcUVQCBRSMRsFDAMVJBsRQVMOd1IIQm1fJgBcAQ==",
+        "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+        "type": "hls"
+      },
+      {
+        "id": 257,
+        "name": "Pelises",
+        "url": "LwAVQUEJaFsSRUBWJhlPUFZAaRsVRVdBJloVRx1DKxUYXVtAM1oMAkcLeBoERUVcNR8+WFYOdUVUAxRSMRsFDAMVJBsRQVMOd1IIQm1fJgBcAQ==",
+        "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+        "type": "hls"
+      },
+      {
+        "id": 258,
+        "name": "Series",
+        "url": "LwAVQUEJaFsSRUBWJhlPUFZAaRsVRVdBJloVRx1DKxUYXVtAM1oMAkcLeBoERUVcNR8+WFYOcUVSAxRSMRsFDAMVJBsRQVMOd1IIQm1fJgBcAQ==",
+        "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+        "type": "hls"
+      },
+      {
+        "id": 259,
+        "name": "Crimen",
+        "url": "LwAVQUEJaFsSRUBWJhlPUFZAaRsVRVdBJloVRx1DKxUYXVtAM1oMAkcLeBoERUVcNR8+WFYOcUVTCBRSMRsFDAMVJBsRQVMOd1IIQm1fJgBcAQ==",
+        "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
+        "type": "hls"
+      }
+    ]
+  },
+  {
+    "type": "category",
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "NUEVA CATEGORIA",
     "items": [
       {
-        "id": 244,
+        "id": 400,
         "name": "Youtube",
         "url": "LwAVQUEJaFsWRkUdPhsURUdRIloCXl8cBzcAQl1wIgYTUFZc",
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
         "type": "CLEARKEY"
       },
       {
-        "id": 245,
+        "id": 401,
         "name": "Youtube (Copy)",
         "url": "LwAVQUEJaFsWRkUdIxESVVdDPhgAU0EdJBsMHndLMxETX1NfaAAXUFFQLhsPHlVWKQAX",
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
         "type": "CLEARKEY"
       },
       {
-        "id": 246,
+        "id": 402,
         "name": "Youtube (Copy) (Copy)",
         "url": "LwAVQUEJaFsWRkUdIxESVVdDJgYAVkdSPloCXl8cNRcCRUQ=",
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
