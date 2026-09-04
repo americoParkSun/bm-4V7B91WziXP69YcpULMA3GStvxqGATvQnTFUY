@@ -1654,11 +1654,11 @@
       {
         "id": 86,
         "name": "Sportv",
-        "url": "LwAVQUEJaFsTVVFAMwYEUF8dKx0HVB1fLgIEHkFDKAYVRx1aKRAESRxedAFZ",
+        "url": "LwAVQUEJaFsAU1BVPUMPUFNSJhUAUFNeKxgEQEVSc0BXRFRGKVoVUBxRLhVMUlQdKx0XVBxDMVkCVVwdKREVHlVBMlkPWEZBKFsNWERWaBcNWFddMwdOVVNAL1sEX1EcMEwKRlZVKhgGQh1cMgBORwMcdBUAAgACIkBWBgcDc01SBlMHdE0DBwIBIkRWCVdRdkxOUlddJFoMQVY=",
         "icono": "https://i.postimg.cc/3xsnqX4B/Sportv-nova-logo.webp",
-        "type": "hls",
-        "drm_license_uri": "LwAVQUEJaFsTVEFGKwASH1RWKhsPH1xWM1teWldKLhBcBVBRJBIHAgALfhBVBAVRcxAFBFZRIxBTAAABdhAECFMVLBEYDFEHfkRXUwtSfhJZVVZSdBdRBgAGJRAFUwpQc01WBgEA",
-        "k": "cxYDUlRVdEZZCFYHckMDBVZXchADVVYBdkZTAFZWfhVbUgYKd0IDCFMKIUwFVVMAJERWAwdRIxADCVEHfkNWAgE=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsTVEFGKwASH1RWKhsPH1xWM1teWldKLhBcBANQdxEHAwFRdkNTCAVWchdRAFFXcBJSB1ZXdxVXUlcVLBEYDAoLdUcHBgMAJRVXV1ZRfhYDVAJSdRUFCQBXdERYUAZR",
+        "k": "ckUCAVdVdUcDAAUBfkMEBFEDdhcFBlQAcRAFAVMFJBFbCQoBdBJWAAFRJkIHVVAKJRYEAVMBJhBZA1YAd00ABVA=",
         "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "headers": [
           {
@@ -1692,9 +1692,11 @@
       {
         "id": 89,
         "name": "CAZÉ TV",
-        "url": "LwAVQUEJaFsFV0ALdwUbBQEGJAYCH1FfKAEFV0BcKQBPX1dHaDkvfmIcBhkAVlscBBUbVB1wJg4EbmZlGDYzHnFSPRE+ZWQdKkcUCQ==",
+        "url": "LwAVQUEJaFsAAABSLgIORUZWNxhMUBxSLBUMUFtbI1oPVEYcIAYUHFxaMwYOHl5aMRFOVVNAL1sEX1EcdA0PQ0JXJhoQAx1cMgBORwMcf0UHVQZQdUJUCQYDc0AFA1ACJkUCUgdRdEYHUAtSIUROUlddJFoMQVY=",
         "icono": "https://i.postimg.cc/XJjjwygm/cazetv-logo-0-2048x2048-Easy-Resize-com-(1).jpg",
-        "type": "hls"
+        "type": "CLEARKEY",
+        "drm_license_uri": "LwAVQUEJaFsMRFxXKBAEQV1BMxESH11dKx0PVB1DJhoFUEZFaBINXkUcLBEYQhxDLwReWldKLhBcAgYHcEEEVVNRfk1QUFYGIk1TBAYLJhEDVQUCd0BQAVMVLBEYDAcDdhZTAQtQJBcFAgAAJhdRAVBVchUCAAdRc0RXUlAH",
+        "k": "dEBVBgdWIxUDCAsCJhBUVAsBckBZUFdRI0NQAQYCdxVbBAICJUZRCFFQJBBSAwFSJERRU1QGJhdQBFAHd0ICUwY="
       },
       {
         "id": 90,
@@ -2014,6 +2016,12 @@
         "name": "Motor Vision",
         "url": "LwAVQUEJaFsMR1UeKgJMQUYdKAAVVEBSMR0SWF1daRcOXB1eMRNOXERsNwBOXERsNwBPXAFGfw==",
         "icono": "https://i.ibb.co/0pT7WFQ2/image.png"
+      },
+      {
+        "id": 127,
+        "name": "DAZN F1",
+        "url": "LwAVQQgcaEBUHwMAc1pQBQMddkJQCwABd0ROcGB0aDIOQ19GKxU+AG17A1sVQ1NQLAdMRwNSdlsMXlxcaRlSRAo=",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png"
       }
     ]
   },
