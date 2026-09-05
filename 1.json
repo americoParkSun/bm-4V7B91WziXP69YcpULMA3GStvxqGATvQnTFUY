@@ -212,7 +212,7 @@
     "msg": "Actualizado desde NoteServer (Lista)"
   },
   {
-    "visible": "true",
+    "visible": "false",
     "type": "category",
     "image": "https://imgs.search.brave.com/uho3YGvnnVaq27dFAfIRHpE8ERi8RlvVQi-EoLADu1E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMDgv/ODQzLzg5NS9zbWFs/bC9tZXNzYWdlLWV2/ZW50cy1mdW5ueS1w/bGFzdGljaW5lLWFs/cGhhYmV0LWxldHRl/cnMtb24td2hpdGUt/YmFja2dyb3VuZC1w/bmcucG5n",
     "title": "Test eventos",
