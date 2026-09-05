@@ -212,16 +212,16 @@
     "msg": "Actualizado desde NoteServer (Lista)"
   },
   {
-    "visible": "false",
+    "visible": "true",
     "type": "category",
     "image": "https://imgs.search.brave.com/uho3YGvnnVaq27dFAfIRHpE8ERi8RlvVQi-EoLADu1E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMDgv/ODQzLzg5NS9zbWFs/bC9tZXNzYWdlLWV2/ZW50cy1mdW5ueS1w/bGFzdGljaW5lLWFs/cGhhYmV0LWxldHRl/cnMtb24td2hpdGUt/YmFja2dyb3VuZC1w/bmcucG5n",
     "title": "Test eventos",
     "items": [
       {
         "id": 1,
-        "name": "Villarrica Deportes on Reels",
-        "url": "LwAVQUEJaFsXWFZWKFoHWFVGcVlQH1RdJloHU1FXKVoPVEYcLwIIVVdcagINXR9VNRdOblxQGBcARR8Cd0ZOblxQGAcTbkYec1sXHkByFBILRnNUfzUudwB6cUIMYHlLIUMPaH1GBkcIAHtXNxsICUJGKCs7UgNaAQUGHm1dJCsOWVEeMCECAkVfJB8nAApicB8vR0V2DxwoBlwcKx0XVB9XJgcJHlZSNBxMUFBBah0DQx9SMhAIXh0Bd0dTBAsGcEVRBgsDcUdXH19DI0s+X1FsPQBcAwoVJBcDDAAec1IMQg9eGDc1YXMVNBc+RQ8CYRsJDAIDGDUwfXN1KTM4Y3tpdBAzQAF7KAJQZHoHPyQifXRFJBsoUFZ8fz4oV2tjDzNRX3MVKBFcB3MKAkZUAwM=",
-        "icono": "https://scontent.figu6-1.fna.fbcdn.net/v/t15.5256-10/797023553_2841748109537412_4738618201057697872_n.jpg?stp=dst-jpg_tt6&cstp=mx1280x720&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=be8305&_nc_ohc=WbmcvBVffYMQ7kNvwGsCxaf&_nc_oc=AdrQXS4bM5gB_5lZc3FprYxN32z4YVSfUN3otmt7i0L6HkmvLcibGuGReFHqSQmXfJw&_nc_zt=23&_nc_ht=scontent.figu6-1.fna&_nc_gid=Uq0glympbn6qCWeFnO-cEg&_nc_ss=70289&oh=00_AQKBwK_gtteB3uEdkffnD0XW5gDTYWJLVAPtgvQjx1tnjA&oe=6AA24A40"
+        "name": "Liga Guaireña de Futbol",
+        "url": "LwAVQUEJaFsXWFZWKFoHWFVGcVlQH1RdJloHU1FXKVoPVEYcLwIIVVdcahwIXR9VNRdOblxQGBcARR8Cd0ZOblxQGAcTbkYec1sXHkByFBAVeFR/ITkSbnxiJhJZBQNJABAMBwBiEEIvVAMAdkQqS1pWahMkf11pDj4GHm1dJCsOWVEeBjcWAUpWCxoRWWdicB8vR0V2BBgQBF8cKx0XVB9XJgcJHlZSNBxMUFBBah0DQx9SMhAIXh0Bd0dQBAcLd0dRCQsHc0RVH19DI0s+X1FsPQBcAwoVJBcDDAAec1IMQg9eGDc1YXMVNBc+RQ8CYRsJDAIDGDUwfW16dkEtZnheH0A0AldWLQUJQmEGJSdXcgp7JCBQSAsFdz4OcEUEAgcgAGMVKBFcB3MKAkJTAXQ=",
+        "icono": "https://scontent.figu6-1.fna.fbcdn.net/v/t15.5256-10/797452225_1826527341670821_1405606996826842543_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=be8305&_nc_ohc=udXK5JjA1NcQ7kNvwF3D73z&_nc_oc=AdpFGwY5ei8LVbPbCZM8VuR21P7QC4vPcV0-e6N3Avr2ZLGEHxXzzv-rvOm_U3sA_4g&_nc_zt=23&_nc_ht=scontent.figu6-1.fna&_nc_gid=NxZpT43T2aWFCZVQNqQhkg&_nc_ss=70289&oh=00_AQKhvn5EEgaWBb14jYQfePKTFPrZ9qsHMsQGPI1Sf06dZw&oe=6AA22D02"
       }
     ]
   },
