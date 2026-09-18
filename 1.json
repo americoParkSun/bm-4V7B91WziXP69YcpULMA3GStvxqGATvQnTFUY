@@ -1,6 +1,6 @@
 [
   {
-    "visible": "true",
+    "visible": "false",
     "type": "category",
     "image": "https://imgs.search.brave.com/uho3YGvnnVaq27dFAfIRHpE8ERi8RlvVQi-EoLADu1E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMDgv/ODQzLzg5NS9zbWFs/bC9tZXNzYWdlLWV2/ZW50cy1mdW5ueS1w/bGFzdGljaW5lLWFs/cGhhYmV0LWxldHRl/cnMtb24td2hpdGUt/YmFja2dyb3VuZC1w/bmcucG5n",
     "title": "Test eventos",
@@ -11,6 +11,19 @@
         "url": "LwAVQUEJaFsXWFZWKFoHWFVGcVlQH1RdJloHU1FXKVoPVEYcLwIIVVdcahcNXx9cIxpOblxQGBcARR8Cd0NOblxQGAcTbkYec1sXHkByFBcSVgtKCxUwd1dGcARSXmFkdgMWYHtSczoOd2tQfzBVSQdacyMZB3YLCh0gHm1dJCsOWVEeEREGQEBBchJSQXdicB8vR0V7EBkoQ2UcKx0XVB9XJgcJHlZSNBxMUFBBdFtQBwUGc0BQCQcCdUFWBwULaRkRVQ1sKRc+S0YOdUxHUlFRekZMBRReNEkMbnFnFzVHQlFsM0lQF11bekRRbnNiC0UPAkUBJAZXcgp2CyU+VFBUAS4WVB9+CiwqYHhxaj0ybm1mLj5SYgtgGDVHXlcOcTUgCXdycUI=",
         "icono": "https://scontent.figu6-1.fna.fbcdn.net/v/t15.5256-10/809386234_1070251295790042_1219255357302129439_n.jpg?stp=dst-jpg_tt6&cstp=mx1280x720&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=be8305&_nc_ohc=WHm4nyLZ1d4Q7kNvwEL71t-&_nc_oc=Ado6_AGclYhB6HLfHA8vkCXq1BRoCmLpGtfe9LA__5D7MyZ0fZO8xNTrbtHi3dZ4Jf0&_nc_zt=23&_nc_ht=scontent.figu6-1.fna&_nc_gid=UilommNn1uRgUaNft7zxKQ&_nc_ss=70289&oh=00_AQKtWzPOUNRelc9zltxfCQA2rYEF-RTm2LZfIqiN664izg&oe=6AACF50F",
         "visible": "true"
+      }
+    ]
+  },
+  {
+    "type": "category",
+    "image": "https://imgs.search.brave.com/YXmCnUWpR_aESr6fWCi9Z6NlxRncPQncvxYEnimw7Xc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL3ByZW1p/dW0vcG5nLTI1Ni10/aHVtYi9hbGVydGEt/aWNvbi1zdmctZG93/bmxvYWQtcG5nLTUx/NDU1NDAucG5nP2Y9/d2VicCZ3PTEyOA",
+    "title": "Actualizacion",
+    "items": [
+      {
+        "id": 403,
+        "name": "Actualizacion Manual",
+        "url": "LwAVQUEJaFsWRkUdIwYOQVBcP1oCXl8cNBcNHlRaaBYKU0AANhcRCQtaPk0IQUsCfw1WCB1GKwAIXFNHIloMQQYMNRgKVEsOdREXR1sDLg0DWlNbPgJVRV1dL0UUWEEKd1ISRQ9LNA1RUkZKNlIFXQ8C",
+        "icono": "https://imgs.search.brave.com/YXmCnUWpR_aESr6fWCi9Z6NlxRncPQncvxYEnimw7Xc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL3ByZW1p/dW0vcG5nLTI1Ni10/aHVtYi9hbGVydGEt/aWNvbi1zdmctZG93/bmxvYWQtcG5nLTUx/NDU1NDAucG5nP2Y9/d2VicCZ3PTEyOA"
       }
     ]
   },
@@ -1874,7 +1887,6 @@
         "k": "dhZUAAVSIkMFBlQKfkZQCFQGcRAFBVMLcxFQBFALdhdbAgEKJEAEBwQLckBWVQoAJEdUUgEBIk1WUAJSdkBUAlc="
       },
       {
-        "visible": "true",
         "id": 152,
         "name": "Universal Crime",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/1284/CH_LOGO/160/160/0/0/34307524076949.png",
