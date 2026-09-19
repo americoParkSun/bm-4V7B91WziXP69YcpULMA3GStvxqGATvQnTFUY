@@ -483,8 +483,9 @@
         "type": "hls"
       },
       {
+        "visible": "true",
         "name": "tigo 3",
-        "url": "LwAVQUEJaFsSUgAdIgcCRFdfJkBPUl1eaBgIR1cccUwCBlRQcxBYBwYFf00AA1RVcxACAQBScUIHU1MFIUdYCAACJURUUBxedAFZ",
+        "url": "LwAVQUEJaFsSRUBWJhkVQR9UKBgFVFwCaRcNWFFYaBMNXlBSK0VPQVpDeAcVQ1dSKkkVWFVcNw0=",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
         "headers": [
@@ -497,8 +498,7 @@
             "value": "https://iblups.com/"
           }
         ],
-        "id": 305,
-        "visible": "false"
+        "id": 305
       },
       {
         "visible": "false",
