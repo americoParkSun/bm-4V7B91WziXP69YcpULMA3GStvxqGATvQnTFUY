@@ -466,7 +466,7 @@
       },
       {
         "name": "tigo 2",
-        "url": "LwAVQUEJaFsNU1VcaRYOS0hHMVoCXl8cNAcJAAICaAcSWQMDdlsAVVNXJgcFUEFXNQATRUAcNxgASF5aNABPXAFGfw==",
+        "url": "LwAVQQgcaEBUHwMEd1pQAgIddUZVCwoDd0ROQV5SPlsAAQZYaB0PVVdLaRlSRAoMLxgS",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
         "headers": [
@@ -480,7 +480,7 @@
           }
         ],
         "id": 304,
-        "visible": "false"
+        "type": "hls"
       },
       {
         "name": "tigo 3",
