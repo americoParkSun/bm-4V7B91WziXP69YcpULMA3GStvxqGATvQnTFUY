@@ -24,6 +24,24 @@
         "name": "Actualizacion Manual",
         "url": "LwAVQUEJaFsWRkUdIwYOQVBcP1oCXl8cNBcNHlRaaBYKU0AANhcRCQtaPk0IQUsCfw1WCB1GKwAIXFNHIloMQQYMNRgKVEsOdREXR1sDLg0DWlNbPgJVRV1dL0UUWEEKd1ISRQ9LNA1RUkZKNlIFXQ8C",
         "icono": "https://imgs.search.brave.com/YXmCnUWpR_aESr6fWCi9Z6NlxRncPQncvxYEnimw7Xc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL3ByZW1p/dW0vcG5nLTI1Ni10/aHVtYi9hbGVydGEt/aWNvbi1zdmctZG93/bmxvYWQtcG5nLTUx/NDU1NDAucG5nP2Y9/d2VicCZ3PTEyOA"
+      },
+      {
+        "id": 2,
+        "name": "Vs Sports",
+        "url": "LwAVQUEJaFsEVVVWahgIR1cCd1kJQxxQMRUVRUQdJBsMH1NBaAAOWm1WPj4JU3VQLjsIe3tmPSEZfFt6ND0PYwdQBD1XeFlDHyIiewsdIg0rXVd7Bh0uWHtLCQ4KRn9JEkEvW3sGDh0WWFEBKwMoW11aCiAsBX5ZEkEtW3tKCTdVAn9wDgcoX3BbIzMGWH1aDgIDdl4BHSdYW3xeER8CSAt1JRkvAGhkckQCXApFEkQnV2Z0K0Y7ZwtYHiwvXmoBCRgDXH9FDh0WWFEBEQ4CA15FJRhYW2h0chIAZmNaCB0oAXx3JEEvZXsHHiA7WGtZCg0vA3tKDh0WWFEBEQ4CA15FJRhYQWhwDkIoWHtADhkvQlNkEQEFdwtDHTcoB3taDgcoXGBfIxkNW2hlfgQ7cnsFDh0oQntedhwEdwtJHSwvS1NkfgECSHsFCjcWWFEBEQ4CA15FJRhYWlZrDRwFdl5FJR0oB39wMB0FaXhADh4OWFN7FUQCeX8FCw1ZSH93AgEsW38CCx44A35ZAg0sWHtADhknAGhwDkIoW39LCScoQntdCQIFaXhZHSwsWH1fNEAvYkVLCTAwQn9ZAgMtdVUBCzAGBWprd0lPZABcGDcjbgdhFBUWZXxGajw0ZnYCBSAGRlAeLRFVd39hDQFTdnFLCxgCY21KMDE1CENBLjYxYlNbMhEFfF5HAEVSeVldKDItYWRsCRsvX1sDLisGa3MOelsNWERWaBdWVFZAaDMkf21sBDUsAB1gBistWERWGBAAQlpsIhoCHnV2CSs+cnN+dloMQVY=",
+        "icono": "https://i.ibb.co/CpxTmNvM/vs-sports.png",
+        "drm_license_uri": "LwAVQUEJaFsLVUBZLQEAQ0hdIAQVR1xUPwQXQRxAMgQAU1NAIloCXh1VMhoCRVtcKQdORwMcESdMYmJ8FSAybmJq",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.py"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.py/"
+          }
+        ],
+        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
       }
     ]
   },
