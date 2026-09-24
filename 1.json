@@ -2444,7 +2444,18 @@
         "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/WARNERCHANNELHD/EXPORTACION_WEB/SS/WARNERCHANNELHD_t-290x163.png",
         "type": "CLEARKEY",
         "drm_license_uri": "LwAVQUEJaFsMRFxXKBAEQV1BMxESH11dKx0PVB1DJhoFUEZFaBINXkUcLBEYQhxDLwRODllWPh0FDAIEJBEHAQBSc0VXBAMFc0YCUgEGfkBXUgNRdxIDUgYKYR8ESA9RIkFWAgYBJEMCVwRWcEQAUAoGdhdRVQMDcEAFAANQdw==",
-        "k": "d0MCVFQDdRVVAAQGdkJVA1FQdEFYBQRQdhZRV1BQc01bU1cGcEdVA1EEJBJXVAUDJhVZBANQdxBQAQUHI0VQUgI="
+        "k": "d0MCVFQDdRVVAAQGdkJVA1FQdEFYBQRQdhZRV1BQc01bU1cGcEdVA1EEJBJXVAUDJhVZBANQdxBQAQUHI0VQUgI=",
+        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.py"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.py/"
+          }
+        ]
       }
     ]
   },
