@@ -466,6 +466,7 @@
         "k": "dhdXA1MBdkIABFRWc0ZSVwsGfhcDAFFSd0YHBwBXf0dbBAZVdRIFUgoAJEUFUAEAJBBYAwQKJRJTAFcDf0ZQCVE="
       },
       {
+        "visible": "false",
         "name": "Tigo Full 2",
         "url": "LwAVQUEJaFsFAllJMAUWX0MCIUMVQBxQKxsUVVRBKBoVH1xWM1sOREYcMUVOAVRXcURZVQILd0MCBQpWIxZVBgMAIxVXUwoDIkwCAgYcLhoFVEpscVoMAkcL",
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
@@ -486,6 +487,7 @@
         "visible": "false"
       },
       {
+        "visible": "false",
         "name": "tigo 1",
         "url": "LwAVQUEJaFsXWFZWKAcVQ1dSKloSWV1QLBkEVVtSaRcOXBxSNVsJXUEcPhUVSEZSPgAXHktSMw0VUEtHMVoMAkcL",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
@@ -494,6 +496,7 @@
         "type": "hls"
       },
       {
+        "visible": "false",
         "name": "tigo 2",
         "url": "LwAVQQgcaEBUHwMEd1pQAgIddUZVCwoDd0ROQV5SPlsAAQZYaB0PVVdLaRlSRAoMLxgS",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
@@ -512,7 +515,7 @@
         "type": "hls"
       },
       {
-        "name": "tigo 3",
+        "name": "Tigo VoxTv",
         "type": "tp",
         "url": "LwAVQUEJaFsSRV9FdFoXXkpHMRwFH1FcKloDQx1HKAQVXkIcMxsRRV1DaAQNUEtfLgcVH18AMkw=",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
@@ -548,6 +551,7 @@
         "id": 305
       },
       {
+        "visible": "false",
         "name": "Tigo Sports 3",
         "url": "LwAVQUEJaFsTRF9RKxFPUl1eaBgIR1ceLxgSHFZFNVs4ZV1nGBskdVZgJFsRXVNKKx0SRRxedAFZDl5WMRENDAM=",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
@@ -1309,6 +1313,7 @@
         "k": "dxVTCFcAJUMFUgAFJBEFCQICdkAFUAsKdUJXVFMFdEJbCFQCIkBRAgYGc0EHVFYKdxZUUlcEJkwHCQsBchFXAwM="
       },
       {
+        "visible": "false",
         "id": 92,
         "name": "NSPORT",
         "url": "LwAVQUEJaFsSQlNadVkAVUEdJgQIH15WLhoIUF0dJBsMHlVfKBYAXR9SIx0PQldBMx0OXx9SNx1OWV5AaBgIR1ccMUZOVApVdxUHU1YDIxdTBVALdxUCAwUAcBEHAFYAcUZQAVccNxgASF5aNABPXAFGfw==",
