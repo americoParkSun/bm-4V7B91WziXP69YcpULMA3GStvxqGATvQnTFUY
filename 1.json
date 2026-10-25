@@ -447,8 +447,8 @@
     "items": [
       {
         "name": "Ultimate Eventos",
-        "url": "LwAVQQgcaEVRARwFc1pQAhwCc0xbCQILd1sNWERWaAcVQ1dSKloMAkcL",
-        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
+        "url": "LwAVQQgcaEVUABwBc0FPAgAddkZUCwoDf0ROXVtFIlsSRUBWJhlPXAFGfw==",
+        "icono": "https://i.ibb.co/8DmjCvZb/image.png",
         "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
         "drm_license_uri": "LwAVQUEJaFsMRFxXKBAEQV1BMxESH11dKx0PVB1DJhoFUEZFaBINXkUcLBEYQhxDLwRODllWPh0FDANQcUYAAwMFJkEHVAYBdBJYBAtQJUUCUAIBIUJTVQoAYR8ESA8GcxJTV1ZQf0cCAFZSdEcCVQsBcU0DVwACIkRZAwMLJA==",
         "type": "hls",
@@ -457,140 +457,13 @@
       },
       {
         "name": "Ultimate Eventos 2",
-        "url": "LwAVQQgcaEVRARwFc1pQAhwCc0xbCQILd1sNWERWaAcVQ1dSKkZPXAFGfw==",
-        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
+        "url": "LwAVQQgcaEVUABwBc0FPAgAddkZUCwoDf0ROXVtFIlsSRUBWJhlTH18AMkw=",
+        "icono": "https://i.ibb.co/HfJ2jbRy/image.png",
         "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
         "drm_license_uri": "LwAVQUEJaFsMRFxXKBAEQV1BMxESH11dKx0PVB1DJhoFUEZFaBINXkUcLBEYQhxDLwRODllWPh0FDANQcUYAAwMFJkEHVAYBdBJYBAtQJUUCUAIBIUJTVQoAYR8ESA8GcxJTV1ZQf0cCAFZSdEcCVQsBcU0DVwACIkRZAwMLJA==",
         "type": "hls",
         "id": 300,
         "k": "dhdXA1MBdkIABFRWc0ZSVwsGfhcDAFFSd0YHBwBXf0dbBAZVdRIFUgoAJEUFUAEAJBBYAwQKJRJTAFcDf0ZQCVE="
-      },
-      {
-        "visible": "false",
-        "name": "Tigo Full 2",
-        "url": "LwAVQUEJaFsFAllJMAUWX0MCIUMVQBxQKxsUVVRBKBoVH1xWM1sOREYcMUVOAVRXcURZVQILd0MCBQpWIxZVBgMAIxVXUwoDIkwCAgYcLhoFVEpscVoMAkcL",
-        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "type": "CLEARKEY",
-        "id": 301,
-        "k": "dhdXA1MBdkIABFRWc0ZSVwsGfhcDAFFSd0YHBwBXf0dbBAZVdRIFUgoAJEUFUAEAJBBYAwQKJRJTAFcDf0ZQCVE="
-      },
-      {
-        "name": "Tigo Full+",
-        "url": "LwAVQUEJaFsFA1hfMgwZVkoGckQSRBxQKxsUVVRBKBoVH1xWM1sOREYcMUVOBwBXIkZRBQsGJhJZBVQKd0wHUAoKcUcHBAJQc0AFBQQcLhoFVEodKgQF",
-        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-        "drm_license_uri": "LwAVQUEJaFsMRFxXKBAEQV1BMxESH11dKx0PVB1DJhoFUEZFaBINXkUcLBEYQhxDLwRODllWPh0FDAYKJUYCAVcEd0dWAQYBJUYAV1QKIURXBVcDJRZSAgMCYR8ESA8LdExVCFcAdxUFVwoGc0BRBAcDdU1TBwsAdkBWV1BVcA==",
-        "type": "CLEARKEY",
-        "id": 302,
-        "k": "c00DA1EDIkNRAgUDc0YDA1NVIU0HAQQHIkQDUwEAdkVbCQELc00EAgJSIxJZBAYHd0FUAQAKdUJYAgMHcBIDVwU=",
-        "visible": "false"
-      },
-      {
-        "visible": "false",
-        "name": "tigo 1",
-        "url": "LwAVQUEJaFsXWFZWKAcVQ1dSKloSWV1QLBkEVVtSaRcOXBxSNVsJXUEcPhUVSEZSPgAXHktSMw0VUEtHMVoMAkcL",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "id": 303,
-        "type": "hls"
-      },
-      {
-        "visible": "false",
-        "name": "tigo 2",
-        "url": "LwAVQQgcaEBUHwMEd1pQAgIddUZVCwoDd0ROQV5SPlsAAQZYaB0PVVdLaRlSRAoMLxgS",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://rumble.com"
-          },
-          {
-            "name": "Referer",
-            "value": "https://rumble.com/"
-          }
-        ],
-        "id": 304,
-        "type": "hls"
-      },
-      {
-        "name": "Tigo VoxTv",
-        "type": "tp",
-        "url": "LwAVQUEJaFsSRV9FdFoXXkpHMRwFH1FcKloDQx1HKAQVXkIcMxsRRV1DaAQNUEtfLgcVH18AMkw=",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://iblups.com"
-          },
-          {
-            "name": "Referer",
-            "value": "https://iblups.com/"
-          }
-        ],
-        "id": 305
-      },
-      {
-        "visible": "false",
-        "name": "Tigo Sports +",
-        "url": "LwAVQUEJaFsSRV9FcFoXXkpHMRwFH1FcKloDQx1LPwIIVVdcaAwZR1tXIhtOQV5SPhgIQkYdKkcUCQ==",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://player.angelthump.com"
-          },
-          {
-            "name": "Referer",
-            "value": "https://player.angelthump.com/"
-          }
-        ],
-        "id": 305
-      },
-      {
-        "visible": "false",
-        "name": "Tigo Sports 3",
-        "url": "LwAVQUEJaFsTRF9RKxFPUl1eaBgIR1ceLxgSHFZFNVs4ZV1nGBskdVZgJFsRXVNKKx0SRRxedAFZDl5WMRENDAM=",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "id": 306
-      },
-      {
-        "name": "Eventos 1",
-        "url": "LwAVQQgcaEBUHwMEd1pQAgIddUZVCwoDd0ROQV5SPlsAAQZYaB0PVVdLaRlSRAo=",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://player.angelthump.com"
-          },
-          {
-            "name": "Referer",
-            "value": "https://player.angelthump.com/"
-          }
-        ],
-        "id": 307
-      },
-      {
-        "name": "Eventos 2",
-        "url": "LwAVQQgcaEBUHwMEd1pQAgIddUZVCwoDd0ROQV5SPlsAAQZaaB0PVVdLaRlSRAo=",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://player.angelthump.com"
-          },
-          {
-            "name": "Referer",
-            "value": "https://player.angelthump.com/"
-          }
-        ],
-        "id": 308
       },
       {
         "name": "Eventos 3",
@@ -608,44 +481,6 @@
           }
         ],
         "id": 309
-      },
-      {
-        "name": "Sportivo Luqueño vs Rubio Ñú",
-        "url": "LwAVQUEJaFsSRUBWJhkVQR9UKBgFVFwCaRcNWFFYaBMNXlBSK0VPQVpDeAcVQ1dSKkkHUFxSMx0bAA==",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://player.angelthump.com"
-          },
-          {
-            "name": "Referer",
-            "value": "https://player.angelthump.com/"
-          }
-        ],
-        "id": 315,
-        "type": "TP",
-        "visible": "false"
-      },
-      {
-        "name": "Resistencia vs Cerro Porteño",
-        "url": "LwAVQUEJaFsSRUBWJhkVQR9UKBgFVFwCaRcNWFFYaBMNXlBSK0ZPQVpDeAcVQ1dSKkkHUFxSMx0bAw==",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "type": "TP",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://player.angelthump.com"
-          },
-          {
-            "name": "Referer",
-            "value": "https://player.angelthump.com/"
-          }
-        ],
-        "id": 316,
-        "visible": "false"
       }
     ]
   },
