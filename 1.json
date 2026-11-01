@@ -448,21 +448,21 @@
       {
         "name": "Tigo Eventos 1",
         "url": "LwAVQQgcaEVUABwBc0FPAgAddkRWCwoDf0ROXVtFIlsSRUBWJhlPXAFGfw==",
-        "icono": "https://i.ibb.co/8DmjCvZb/image.png",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
         "drm_license_uri": "LwAVQUEJaFsMRFxXKBAEQV1BMxESH11dKx0PVB1DJhoFUEZFaBINXkUcLBEYQhxDLwRODllWPh0FDANQcUYAAwMFJkEHVAYBdBJYBAtQJUUCUAIBIUJTVQoAYR8ESA8GcxJTV1ZQf0cCAFZSdEcCVQsBcU0DVwACIkRZAwMLJA==",
         "type": "hls",
-        "id": 299,
+        "id": 300,
         "k": "dhdXA1MBdkIABFRWc0ZSVwsGfhcDAFFSd0YHBwBXf0dbBAZVdRIFUgoAJEUFUAEAJBBYAwQKJRJTAFcDf0ZQCVE="
       },
       {
         "name": "Tigo Eventos 2",
         "url": "LwAVQQgcaEVUABwBc0FPAgAddkRWCwoDf0ROXVtFIlsSRUBWJhlTH18AMkw=",
-        "icono": "https://i.ibb.co/HfJ2jbRy/image.png",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
         "drm_license_uri": "LwAVQUEJaFsMRFxXKBAEQV1BMxESH11dKx0PVB1DJhoFUEZFaBINXkUcLBEYQhxDLwRODllWPh0FDANQcUYAAwMFJkEHVAYBdBJYBAtQJUUCUAIBIUJTVQoAYR8ESA8GcxJTV1ZQf0cCAFZSdEcCVQsBcU0DVwACIkRZAwMLJA==",
         "type": "hls",
-        "id": 300,
+        "id": 301,
         "k": "dhdXA1MBdkIABFRWc0ZSVwsGfhcDAFFSd0YHBwBXf0dbBAZVdRIFUgoAJEUFUAEAJBBYAwQKJRJTAFcDf0ZQCVE="
       },
       {
@@ -480,12 +480,12 @@
             "value": "https://player.angelthump.com/"
           }
         ],
-        "id": 309
+        "id": 302
       },
       {
-        "id": 701,
+        "id": 303,
         "name": "eventos 1",
-        "url": "LwAVQUEJaFsRQ11XahIAQkZfPlkSUB9WJgcVHAMdMR0FVF0dNwcCQRxHMVs1Q1NdNBcOVVtdIFsXAB1bKwdOekgGFgUuf2ZCCxsVVkhlHhUMBwJYFhJSVnpkMAEDdGZHNkwUCV9HEBgiRXBKE1kSfwZKdAYrAF90PhYRQ2RVdT0Dc2piJQEjWwIEAxcgW2RECSIFf2McKRsPbkZBJhoSUl1XIlsSUB9WJgcVHAMcNxETWEFQKAQEHEBWNxgASB9XLgYEUkYeNwYOVR9AJlkEUEFHakVMQUdRKx0CHl9SNAAEQ21XPhoAXFtQGBAEXUZSaRlSRAoMMw0RVA9fLgIE",
+        "url": "LwAVQUEJaFsWSV5bNh0VXFtUKh8RV1FANg0bRRxAMgQAU1NAIloCXh1VMhoCRVtcKQdORwMcAgIEX0ZcNEVeV1tfIloMAkcL",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png"
       }
     ]
